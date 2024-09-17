@@ -1,0 +1,24 @@
+{
+  "selectedProfile": "(Default)",
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)"
+    }
+  },
+  "clientToken": "82a3873a55f846c690435d89c8e7b9f9",
+  "authenticationDatabase": {
+    "00000111112222233333444445555566": {
+      "accessToken": "eyJraWQiOiJhYzg0YSIsImFsZyI6IkhTMjU2In0.eyJ4dWlkIjoiMjUzNTQ0NDU1NDI3NTQ3MSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiMGUxYjFiMmEtODk5Yy00NmYzLThmNjMtMmE1NmNkZjM5NWEzIiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm1zYW1pZ3JhdGlvbl9zdGFnZTQiLCJvcmRlcnNfMjAyMiIsIm11bHRpcGxheWVyIl0sInByb2ZpbGVzIjp7Im1jIjoiODJhMzg3M2EtNTVmOC00NmM2LTkwNDMtNWQ4OWM4ZTdiOWY5In0sInBsYXRmb3JtIjoiVU5LTk9XTiIsIm5iZiI6MTcyNTk2MjY1NiwiZXhwIjoxNzI2MDQ5MDU2LCJpYXQiOjE3MjU5NjI2NTZ9.h5CfbeR_XjtmLeoDKVQrTHKzRbe10TgZ3nRHiV2Yc4M",
+      "username": "aoh71",
+      "profiles": {
+        "66666555554444433333222221111100": {
+          "displayName": "aoh71"
+        }
+      }
+    }
+  },
+  "selectedUser": {
+    "account": "00000111112222233333444445555566",
+    "profile": "66666555554444433333222221111100"
+  }
+}

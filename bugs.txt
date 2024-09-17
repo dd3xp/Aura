@@ -1,0 +1,7 @@
+1. 合金炉nbt模式->ignore
+2. 使用指令/ranks set_permission player ftbutilities.claim.max_chunks[数量]
+           /ranks set_permission player ftbutilities.chunkloader.max_chunks[数量]
+3. 树脂提取改成赠送，删除合成
+4. 修改星辉魔法最终任务，使得液化共振器替代现有的共振器
+5. 添加末影接口：管道拓展，并将末影接口的特殊奖励改为恒星合金电容
+6. 在灰烬能量灌注器后面增加添加余烬任务：黎明石结晶之种，并将余烬的必做任务由灰烬套改成这个任务，将灰烬套改为特殊任务

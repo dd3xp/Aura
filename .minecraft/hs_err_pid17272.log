@@ -1,0 +1,122 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 150994944 bytes for Failed to commit area from 0x00000006c0000000 to 0x00000006c9000000 of length 150994944.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_windows.cpp:3341), pid=17272, tid=0x0000000000004988
+#
+# JRE version:  (8.0_191-b12) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.191-b12 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000003695000):  JavaThread "Unknown thread" [_thread_in_vm, id=18824, stack(0x0000000003590000,0x0000000003690000)]
+
+Stack: [0x0000000003590000,0x0000000003690000]
+[error occurred during error reporting (printing stack bounds), id 0xc0000005]
+
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0000000003695000 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=18824, stack(0x0000000003590000,0x0000000003690000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x0000000003692fe0] Heap_lock - owner thread: 0x0000000003695000
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (0 events):
+No events
+
+
+Dynamic libraries:
+0x00007ff783a50000 - 0x00007ff783a87000 	C:\Program Files\Java\jre1.8.0_191\bin\java.exe
+0x00007ffc51180000 - 0x00007ffc51370000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ffc4f6f0000 - 0x00007ffc4f7a2000 	C:\WINDOWS\System32\KERNEL32.DLL
+0x00007ffc4e190000 - 0x00007ffc4e434000 	C:\WINDOWS\System32\KERNELBASE.dll
+0x00007ffc50900000 - 0x00007ffc509a3000 	C:\WINDOWS\System32\ADVAPI32.dll
+0x00007ffc502c0000 - 0x00007ffc5035e000 	C:\WINDOWS\System32\msvcrt.dll
+0x00007ffc50830000 - 0x00007ffc508c7000 	C:\WINDOWS\System32\sechost.dll
+0x00007ffc4f7b0000 - 0x00007ffc4f8d0000 	C:\WINDOWS\System32\RPCRT4.dll
+0x00007ffc50120000 - 0x00007ffc502b4000 	C:\WINDOWS\System32\USER32.dll
+0x00007ffc4e9e0000 - 0x00007ffc4ea01000 	C:\WINDOWS\System32\win32u.dll
+0x00007ffc4f230000 - 0x00007ffc4f256000 	C:\WINDOWS\System32\GDI32.dll
+0x00007ffc4e660000 - 0x00007ffc4e7f4000 	C:\WINDOWS\System32\gdi32full.dll
+0x00007ffc4f190000 - 0x00007ffc4f22e000 	C:\WINDOWS\System32\msvcp_win.dll
+0x00007ffc4e8e0000 - 0x00007ffc4e9da000 	C:\WINDOWS\System32\ucrtbase.dll
+0x00007ffc442e0000 - 0x00007ffc44564000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.836_none_e6c4b943130f18ed\COMCTL32.dll
+0x00007ffc50e00000 - 0x00007ffc51136000 	C:\WINDOWS\System32\combase.dll
+0x00007ffc4e110000 - 0x00007ffc4e190000 	C:\WINDOWS\System32\bcryptPrimitives.dll
+0x00007ffc508d0000 - 0x00007ffc508fe000 	C:\WINDOWS\System32\IMM32.DLL
+0x0000000069bc0000 - 0x0000000069c92000 	C:\Program Files\Java\jre1.8.0_191\bin\msvcr100.dll
+0x0000000068c40000 - 0x00000000694e4000 	C:\Program Files\Java\jre1.8.0_191\bin\server\jvm.dll
+0x00007ffc4f260000 - 0x00007ffc4f268000 	C:\WINDOWS\System32\PSAPI.DLL
+0x00007ffc451e0000 - 0x00007ffc45204000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ffc48c00000 - 0x00007ffc48c0a000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x00007ffc44f90000 - 0x00007ffc44fbd000 	C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+0x00007ffc37d20000 - 0x00007ffc37d29000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ffc4e610000 - 0x00007ffc4e65a000 	C:\WINDOWS\System32\cfgmgr32.dll
+0x00007ffc50d90000 - 0x00007ffc50dff000 	C:\WINDOWS\System32\WS2_32.dll
+0x000000006af30000 - 0x000000006af3f000 	C:\Program Files\Java\jre1.8.0_191\bin\verify.dll
+0x0000000069b90000 - 0x0000000069bb9000 	C:\Program Files\Java\jre1.8.0_191\bin\java.dll
+0x000000006af10000 - 0x000000006af26000 	C:\Program Files\Java\jre1.8.0_191\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dminecraft.client.jar=.minecraft\versions\1.12.2\1.12.2.jar -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx4096m -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\versions\1.12.2\1.12.2-natives -Dminecraft.launcher.brand=HMCL -Dminecraft.launcher.version=3.2.130 
+java_command: net.minecraft.launchwrapper.Launch --width 854 --height 480 --username dd3xp --version HMCL 3.2.130 --gameDir C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft --assetsDir C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\assets --assetIndex 1.12 --uuid a94c26187c23342099cee428fb817ebe --accessToken 88cb72c6cbd847799ded0a87c12165a5 --userType mojang --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker --tweakClass optifine.OptiFineForgeTweaker
+java_class_path (initial): C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mumfrey\liteloader\1.12.2-20171128.144431-4\liteloader-1.12.2-20171128.144431-4.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\张景铭\AppData\Local\Microsoft\WindowsApps;
+USERNAME=张景铭
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10.0 , 64 bit Build 18362 (10.0.18362.778)
+
+CPU:total 8 (initial active 8) (4 cores per cpu, 2 threads per core) family 6 model 142 stepping 10, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, avx2, aes, clmul, erms, 3dnowpref, lzcnt, ht, tsc, tscinvbit, bmi1, bmi2, adx
+
+Memory: 4k page, physical 8269924k(474408k free), swap 14626916k(77596k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.191-b12) for windows-amd64 JRE (1.8.0_191-b12), built on Oct  6 2018 09:29:03 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Thu May 21 22:52:09 2020
+elapsed time: 0 seconds (0d 0h 0m 0s)
+

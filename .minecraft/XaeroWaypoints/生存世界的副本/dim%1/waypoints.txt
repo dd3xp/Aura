@@ -1,0 +1,1 @@
+waypoint:OverWorldDoor:O:-4:61:2:5:false:0:gui.xaero_default:false:0

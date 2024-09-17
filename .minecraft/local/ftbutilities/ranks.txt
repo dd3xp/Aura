@@ -1,0 +1,24 @@
+// For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
+
+[player]
+power: 1
+default_player_rank: true
+example.permission: true
+example.other_permission: false
+example.permission_with_value: 0
+op: false
+ftbutilities.chunkloader.max_chunks: 1000
+
+[vip]
+power: 20
+parent: player
+ftbutilities.chat.name_format: <&bVIP {name}&r>
+example.other_permission: true
+example.permission_with_value: 15
+
+[admin]
+power: 100
+parent: vip
+default_op_rank: true
+ftbutilities.chat.name_format: <&2{name}&r>
+example.permission_with_value: 100

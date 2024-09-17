@@ -1,0 +1,289 @@
+[00:19:02] [Client thread/INFO]: Connecting to 10.0.0.109, 23333
+[00:19:18] [Client thread/INFO]: Connecting to 10.0.0.109, 23333
+[00:19:18] [Netty Client IO #1/INFO]: Server protocol version 2
+[00:19:18] [Netty Client IO #1/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.fml.common.network.ByteBufUtils.writeUTF8String
+[00:19:18] [Client thread/INFO]: Injecting existing registry data into this client instance
+[00:19:20] [Client thread/INFO]: JEI search tree manager injection complete!
+[00:19:20] [Client thread/INFO]: Applying holder lookups
+[00:19:20] [Client thread/INFO]: Holder lookups applied
+[00:19:20] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
+[00:19:20] [Client thread/INFO]: Using gateway screenshots for folder '10.0.0.109_10.0.0.109_23333'
+[00:19:22] [Netty Client IO #1/INFO]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[00:19:22] [Netty Client IO #1/INFO]: Cleaning client cache...
+[00:19:22] [Netty Client IO #1/INFO]: Cleared cached client data! Disconnected from server.
+[00:20:11] [Client thread/INFO]: Connecting to 10.0.0.109, 23333
+[00:20:11] [Netty Client IO #2/INFO]: Server protocol version 2
+[00:20:11] [Client thread/INFO]: Injecting existing registry data into this client instance
+[00:20:13] [Client thread/INFO]: JEI search tree manager injection complete!
+[00:20:14] [Client thread/INFO]: Applying holder lookups
+[00:20:14] [Client thread/INFO]: Holder lookups applied
+[00:20:14] [Netty Client IO #2/INFO]: [Netty Client IO #2] Client side modded connection established
+[00:20:14] [Client thread/INFO]: Transforming Class [net.minecraft.world.chunk.storage.ExtendedBlockStorage], Method [func_76663_a]
+[00:20:14] [Client thread/INFO]: Transforming net.minecraft.world.chunk.storage.ExtendedBlockStorage Finished.
+[00:20:14] [Client thread/INFO]: Attaching WorldEventListener
+[00:20:17] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[00:20:17] [Client thread/INFO]: [CHAT] 实用拓展的更新检查失败！查看日志文件以了解更多信息！
+[00:20:17] [Netty Client IO #2/INFO]: Received server authentication msg. Remote sync will be activated
+[00:20:17] [Client thread/INFO]: Using gateway screenshots for folder '10.0.0.109_10.0.0.109_23333'
+[00:20:17] [Client thread/INFO]: [CHAT] AutoFish is enabled.  Type 'o' while holding a fishing rod for more options
+[00:20:17] [Client thread/WARN]: [OptiFine] java.lang.NullPointerException null
+[00:20:17] [Client thread/WARN]: [OptiFine] Error finding Chunk.hasEntities
+[00:20:17] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.world.chunk.Chunk.hasEntities
+[00:20:17] [Netty Client IO #2/INFO]: Received Cardboard Box blacklist entries from server (28 explicit blocks, 2 mod wildcards)
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] CustomSkinLoader 14.9
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] DataDir: D:\Minecraft\AuraForAdmin\.minecraft\CustomSkinLoader
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2)
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] Config File: D:\Minecraft\AuraForAdmin\.minecraft\CustomSkinLoader\CustomSkinLoader.json
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] Try to load config.
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] Successfully load config.
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:30, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:7
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [ChunkLoader INFO] Loading ChunkLoader's profile.
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [ChunkLoader INFO] 1/7 Try to load profile from 'Mojang'.
+[00:20:17] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [ChunkLoader INFO] Try to load from cache 'D:\Minecraft\AuraForAdmin\.minecraft\CustomSkinLoader\caches\b84aa3aeeea3d5ce7793b33ddc319f95126a50c9'.
+[00:20:18] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [ChunkLoader INFO] ChunkLoader's profile loaded.
+[00:20:18] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [ChunkLoader INFO] (SkinUrl: http://textures.minecraft.net/texture/46acd06e8483b176e8ea39fc12fe105eb3a2a4970f5100057e9d84d4b60bdfa7 , Model: slim , CapeUrl: null  , Expiry: 1724473251)
+[00:20:19] [Client thread/INFO]: Transforming class blusunrize/lib/manual/gui/GuiManual for string contains.
+[00:20:19] [Client thread/INFO]: Transforming invoke of java/lang/String.contains to me/towdium/jecharacters/match/PinyinMatcher.contains in method func_73869_a.
+[00:20:19] [Client thread/INFO]: Syncing 13617 items with JEI!.
+[00:20:19] [Client thread/INFO]: Ingredients are being removed at runtime: 13617 net.minecraft.item.ItemStack
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.actuallyadditions.block_inputter_advanced@0 actuallyadditions:block_inputter_advanced
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.actuallyadditions.block_inputter@0 actuallyadditions:block_inputter
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.fragile_fluid_shard@0 buildcraftcore:fragile_fluid_shard
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.extrautils2:unstableingots@2 extrautils2:unstableingots
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.extrautils2:fakecopy@0 extrautils2:fakecopy
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.extrautils2:unstableingots@1 extrautils2:unstableingots
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.extrautils2:spotlight@0 extrautils2:spotlight
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.appliedenergistics2.paint@0 appliedenergistics2:paint
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.appliedenergistics2.matrix_frame@0 appliedenergistics2:matrix_frame
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.appliedenergistics2.cable_bus@0 appliedenergistics2:cable_bus
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.ae2wtlib:wut@0 ae2wtlib:wut
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.ae2wtlib:wut_creative@0 ae2wtlib:wut_creative
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.appliedenergistics2.dummy_fluid_item@0 appliedenergistics2:dummy_fluid_item
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_broken_spawner@0 enderio:item_broken_spawner nbt:{entityId:"minecraft:elder_guardian"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_fused_quartz@0 enderio:block_painted_fused_quartz
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_redstone_solid@0 enderio:block_painted_redstone_solid
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_glowstone_solid@0 enderio:block_painted_glowstone_solid
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_broken_spawner@0 enderio:item_broken_spawner nbt:{entityId:"totemic:baykok"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_reinforced_obsidian@0 enderio:block_painted_reinforced_obsidian
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_stair@0 enderio:block_painted_stair
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_glowstone@0 enderio:block_painted_glowstone
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_stone_fence@0 enderio:block_painted_stone_fence
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_wooden_trapdoor@0 enderio:block_painted_wooden_trapdoor
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_redstone@0 enderio:block_painted_redstone
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_workbench@0 enderio:block_painted_workbench
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_packed_ice_solid@0 enderio:block_painted_packed_ice_solid
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_broken_spawner@0 enderio:item_broken_spawner nbt:{entityId:"minecraft:villager_golem"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_broken_spawner@0 enderio:item_broken_spawner nbt:{entityId:"minecraft:evocation_illager"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_dark_steel_trapdoor@0 enderio:block_painted_dark_steel_trapdoor
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_fence_gate@0 enderio:block_painted_fence_gate
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_broken_spawner@0 enderio:item_broken_spawner nbt:{entityId:"minecraft:wither"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_soul_vial@1 enderio:item_soul_vial nbt:{entityId:"minecraft:wither"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_stone@0 enderio:block_painted_stone
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_fence@0 enderio:block_painted_fence
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_dark_steel_door@0 enderio:block_painted_dark_steel_door
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_wooden_door@0 enderio:block_painted_wooden_door
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_stone_slab@0 enderio:block_painted_stone_slab
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_wall@0 enderio:block_painted_wall
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_carpet@0 enderio:block_painted_carpet
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_iron_door@0 enderio:block_painted_iron_door
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_soul_vial@1 enderio:item_soul_vial nbt:{entityId:"minecraft:elder_guardian"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_stone_stair@0 enderio:block_painted_stone_stair
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_slab@0 enderio:block_painted_slab
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_iron_trapdoor@0 enderio:block_painted_iron_trapdoor
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_packed_ice@0 enderio:block_painted_packed_ice
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_broken_spawner@0 enderio:item_broken_spawner nbt:{entityId:"minecraft:villager"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_broken_spawner@0 enderio:item_broken_spawner nbt:{entityId:"minecraft:snowman"}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.block_painted_reinforced_obsidian_nonsolid@0 enderio:block_painted_reinforced_obsidian_nonsolid
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.item_location_printout@0 enderio:item_location_printout
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.thermalexpansion.apparatus@0 thermalexpansion:apparatus nbt:{RSControl:0b,Facing:3b,Energy:0,SideCache:[B;0B,0B,0B,0B,0B,0B],Level:0b}
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.thermalexpansion.morb@1 thermalexpansion:morb
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.thermalexpansion.florb@1 thermalexpansion:florb
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.blockportalnode@0 astralsorcery:blockportalnode
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.itemcape@0 astralsorcery:itemcape
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.blockfaketree@0 astralsorcery:blockfaketree
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.itemfragmentcapsule@0 astralsorcery:itemfragmentcapsule
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.blockflarelight@0 astralsorcery:blockflarelight
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.itemwand@0 astralsorcery:itemwand
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.itemknowledgefragment@0 astralsorcery:itemknowledgefragment
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.naturesaura.effect_powder@0 naturesaura:effect_powder
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.immersivepetroleum.dummy@0 immersivepetroleum:dummy
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.immersivetech.stone_multiblock@0 immersivetech:stone_multiblock
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.immersiveengineering.fake_light@0 immersiveengineering:fake_light
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.immersiveengineering.fake_icon@0 immersiveengineering:fake_icon
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.immersiveengineering.metal_multiblock@0 immersiveengineering:metal_multiblock
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.immersivetech.metal_multiblock@0 immersivetech:metal_multiblock
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.immersiveengineering.bullet@1 immersiveengineering:bullet
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.immersivepetroleum.metal_multiblock@0 immersivepetroleum:metal_multiblock
+[00:20:19] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.ec.singularity_custom@0 extendedcrafting:singularity_custom
+[00:20:19] [Client thread/INFO]: Finished JEI Sync, took 464ms. 13617 hidden, 0 shown.
+[00:20:19] [Client thread/INFO]: [CHAT] ChunkLoader，欢迎使用妖怪之山通用库。作者的所有模组链接: https://www.curseforge.com/members/sz0999312/projects
+[00:20:19] [Client thread/INFO]: Created temporary WorldData to cache data on the client!
+[00:20:19] [Client thread/INFO]: Receiving (new or changed) Player Data for player ChunkLoader.
+[00:20:19] [Client thread/INFO]: Loaded 16 advancements
+[00:20:20] [Client thread/INFO]: [CHAT] §6The mod Extra Cells 2 is supporting In-Game Wiki mod. §6However, In-Game Wiki isn't installed! [Download Latest]
+[00:20:20] [Thread-37/FATAL]: A CCL controlled model has been improperly handled by someone and will NOT be rendered. No more information available.
+[00:20:20] [Thread-37/INFO]: [xaero.common.minimap.write.MinimapWriter:loadBlockColourFromTexture:881]: Block file not found: thermalexpansion:dynamo
+[00:20:20] [Thread-37/INFO]: [xaero.common.minimap.write.MinimapWriter:loadBlockColourFromTexture:881]: Block file not found: immersiveengineering:metal_multiblock
+[00:20:22] [Botania Contributor Fanciness Thread/INFO]: Could not load contributors list. Either you're offline or github is down. Nothing to worry about, carry on~
+[00:20:38] [Client thread/INFO]: Stopping!
+[00:20:38] [Client thread/INFO]: SoundSystem shutting down...
+[00:20:38] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
++release.109.220f184,harvestcraft@1.12.2zb,foamfixcore@7.7.4,bathappymod@2.0,bonsaitrees@1.1.4,crafttweaker@4.1.19,botanicbonsai@0.0.0.botanicbonsai,enderstorage@2.4.6.137,armoryexpansion@1.4.2,immersivepetroleum@1.1.9,forge@14.23.5.2847,phosphor-lighting@1.12.2-0.2.7,ftbutilities@5.4.0.124,buildcraftrobotics@7.99.24.6,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,armoryexpansion-conarm@1.4.2,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,skyresources@2.3.8,itemstages@2.0.49,mousetweaks@2.10.1,ftbquests@1.8.0.237,immersiveengineering@0.12-92,psi@r1.1-77,thermaldynamics@2.5.6,claybucket@1.1,bspkrscore@8.0.0,baubles@1.5.2,enderiopowertools@5.1.55,fluidtank@12.5.0,enderio@5.1.55,totemic@1.12.2-0.11.6,extrautils2@1.0,jeiintegration@1.5.1.36,mantle@1.12-1.3.3.55,xaerominimap@1.19.5,jeivillagers@1.0,autoreglib@1.3-32,storagedrawers@5.2.2,tinker_io@rw2.8.1a,jecharacters@1.12.0-3.4.7,enderiobase@5.1.55,wanionlib@1.12.2-2.4,appleskin@1.0.9,embers@0.230,chisel@MC1.12.2-1.0.2.45,enderioconduitsopencomputers@5.1.55,armoryexpansion-iceandfire@1.4.2,foamfix@0.10.14-1.12.2,magipsi@1.3
+[00:19:38] [Server thread/INFO]: Changing view distance to 8, from 10
+[00:19:38] [Netty Server IO #22/INFO]: Skipping config sync, No mods have registered a syncable config.
+[00:19:38] [Netty Local Client IO #4/INFO]: [Netty Local Client IO #4] Client side modded connection established
+[00:19:38] [Client thread/INFO]: Using gateway screenshots for folder 'default'
+[00:19:38] [Server thread/INFO]: [Server thread] Server side modded connection established
+[00:19:38] [Server thread/INFO]: Loaded 6 stages for dd3xp.
+[00:19:38] [Server thread/INFO]: dd3xp[local:E:be91c830] logged in with entity id 7549415 at (-30.736375932306444, 100.25229184843273, 78.69460484778318)
+[00:19:38] [Server thread/INFO]: dd3xp加入了游戏
+[00:19:38] [Client thread/INFO]: Attaching WorldEventListener
+[00:19:39] [Server thread/INFO]: Player EntityPlayerMP['dd3xp'/7549415, l='DEFAULT', x=-30.74, y=100.25, z=78.69] connected. Sending ping
+[00:19:39] [Server thread/INFO]: Syncing 6 stages for dd3xp.
+[00:19:39] [Server thread/INFO]: Clearing cached mega torches
+[00:19:39] [Server thread/INFO]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[00:19:39] [Server thread/INFO]: Successfully loaded WorldData!
+[00:19:39] [Server thread/INFO]: Sending Player Data to player dd3xp with UUID e88efc50-7ade-4c5a-9b9a-43d65691c9fd.
+[00:19:39] [Server thread/INFO]: [Astral Sorcery] Waiting for server synchronization on login for dd3xp...
+[00:19:39] [Server thread/INFO]: [Astral Sorcery] Synchronizing baseline information to dd3xp
+[00:19:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3436ms behind, skipping 68 tick(s)
+[00:19:42] [Server thread/INFO]: Saving and pausing game...
+[00:19:42] [Server thread/INFO]: Saved 6 stages for dd3xp.
+[00:19:42] [Server thread/INFO]: Saving chunks for level 'DEFAULT'/overworld
+[00:19:42] [Netty Local Client IO #4/INFO]: Received server authentication msg. Remote sync will be activated
+[00:19:42] [Netty Local Client IO #4/INFO]: Received Cardboard Box blacklist entries from server (28 explicit blocks, 2 mod wildcards)
+[00:19:42] [dd3xp/INFO]: [customskinloader.Logger:log:68]: [dd3xp INFO] Loading dd3xp's profile.
+[00:19:42] [dd3xp/INFO]: [customskinloader.Logger:log:68]: [dd3xp INFO] 1/7 Try to load profile from 'Mojang'.
+[00:19:42] [dd3xp/INFO]: [customskinloader.Logger:log:68]: [dd3xp INFO] Default profile will be used.
+[00:19:42] [dd3xp/INFO]: [customskinloader.Logger:log:68]: [dd3xp INFO] dd3xp's profile loaded.
+[00:19:42] [dd3xp/INFO]: [customskinloader.Logger:log:68]: [dd3xp INFO] (SkinUrl: http://textures.minecraft.net/texture/a3c371114c5a5fcfb9f89a6944778946360d415d6fa017d15f2bac8e5fa37732 , Model: default , CapeUrl: null  , Expiry: 1724473213)
+[00:19:42] [Server thread/INFO]: Saving chunks for level 'DEFAULT'/ExtraUtils2_Quarry_Dim
+[00:19:42] [Server thread/INFO]: Saving chunks for level 'DEFAULT'/Spectre
+[00:19:42] [Server thread/INFO]: Saving chunks for level 'DEFAULT'/Storage Cell
+[00:19:42] [Client thread/INFO]: Syncing 13617 items with JEI!.
+[00:19:42] [Client thread/INFO]: Ingredients are being removed at runtime: 6208 net.minecraft.item.ItemStack
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.actuallyadditions.block_inputter_advanced@0 actuallyadditions:block_inputter_advanced
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.fragile_fluid_shard@0 buildcraftcore:fragile_fluid_shard
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.extrautils2:fakecopy@0 extrautils2:fakecopy
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.extrautils2:unstableingots@2 extrautils2:unstableingots
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.extrautils2:unstableingots@1 extrautils2:unstableingots
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.extrautils2:spotlight@0 extrautils2:spotlight
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.ae2wtlib:wut_creative@0 ae2wtlib:wut_creative
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.appliedenergistics2.dummy_fluid_item@0 appliedenergistics2:dummy_fluid_item
+[00:19:42] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.appliedenergistics2.paint@0 appliedenergistics2:paint
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.appliedenergistics2.matrix_frame@0 appliedenergistics2:matrix_frame
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.ae2wtlib:wut@0 ae2wtlib:wut
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.appliedenergistics2.cable_bus@0 appliedenergistics2:cable_bus
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.blockportalnode@0 astralsorcery:blockportalnode
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.blockflarelight@0 astralsorcery:blockflarelight
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.itemfragmentcapsule@0 astralsorcery:itemfragmentcapsule
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.itemcape@0 astralsorcery:itemcape
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.itemwand@0 astralsorcery:itemwand
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xtile.blockfaketree@0 astralsorcery:blockfaketree
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.itemknowledgefragment@0 astralsorcery:itemknowledgefragment
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.naturesaura.effect_powder@0 naturesaura:effect_powder
+[00:19:43] [Client thread/ERROR]: Could not find any matching ingredients to remove: 1xitem.ec.singularity_custom@0 extendedcrafting:singularity_custom
+[00:19:43] [Client thread/INFO]: Ingredients are being added at runtime: 7409 net.minecraft.item.ItemStack
+[00:19:43] [Client thread/INFO]: Finished JEI Sync, took 433ms. 6208 hidden, 7409 shown.
+[00:19:43] [Client thread/INFO]: [CHAT] dd3xp，欢迎使用妖怪之山通用库。作者的所有模组链接: https://www.curseforge.com/members/sz0999312/projects
+[00:19:43] [Client thread/INFO]: Receiving (new or changed) Player Data for player dd3xp.
+[00:19:43] [Client thread/INFO]: Loaded 627 advancements
+[00:19:43] [Server thread/INFO]: Saving and pausing game...
+[00:19:43] [Server thread/INFO]: Saved 6 stages for dd3xp.
+[00:19:43] [Server thread/INFO]: Saving chunks for level 'DEFAULT'/overworld
+[00:19:43] [Server thread/INFO]: Saving chunks for level 'DEFAULT'/ExtraUtils2_Quarry_Dim
+[00:19:43] [Server thread/INFO]: Saving chunks for level 'DEFAULT'/Spectre
+[00:19:43] [Server thread/INFO]: Saving chunks for level 'DEFAULT'/Storage Cell
+[00:20:05] [Client thread/INFO]: [JaideepSinghHeer.Minecraft.mod.SPLANtransformerPort:getPort:108]: Setting Port : 23333
+[00:20:05] [Client thread/INFO]: Using default channel type
+[00:20:05] [Client thread/INFO]: Started on 23333
+[00:20:05] [Client thread/INFO]: [CHAT] 本地游戏已在端口23333上开启
+[00:20:11] [Netty Server IO #24/INFO]: Client protocol version 2
+[00:20:11] [Netty Server IO #24/INFO]: Client attempting to join with 167 mods : buildcraftlib@7.99.24.6,p455w0rdslib@2.3.161,blockdrops@1.4.0,astralsorcery@1.10.22,enderiointegrationforestry@5.1.55,universalmodifiers@1.12.2-1.0.16.1,openmods@0.12.2,buildcraftenergy@7.99.24.6,extendedcrafting@1.5.6,fluidtank_ae2@12.5.0,cofhcore@4.6.6,armorstatushud@1.43.0,plustic@8.0.1.0,endercore@1.12.2-0.5.73,neat@1.4-17,armoryexpansion-matteroverdrive@1.4.2,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,customoregen@1.12,gardenofglass@sqrt(-1),ae2stuff@0.7.0.4,bookshelf@2.3.581,forgelin@1.8.4,nanfix@Final,wct@3.12.97,cofhworld@1.4.0,betterbuilderswands@0.13.2,waila@1.8.26,ftblib@5.4.7.0,mekanismgenerators@1.12.2-9.8.3.390,enderioconduitsrefinedstorage@5.1.55,redstonearsenal@2.6.6,carryon@1.12.3,guideapi@1.12-2.1.8-63,jeresources@0.9.2.60,mcmultipart@2.5.3,twilightforest@3.11.1021,enderioconduits@5.1.55,immersivetech@1.3.10,industrialforegoing@1.12.2-1.12.2,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,crafttweakerjei@2.0.3,enderiomachines@5.1.55,jehc@1.7.0,treegrowingsimulator@0.0.4,mtlib@3.0.6,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.6,valkyrielib@1.12.2-2.0.20.1,openmodscore@0.12.2,mm_lib@1.3.0,fluidtank_theoneprobe@12.5.0,modtweaker@4.0.18,sc@1.2.2.5,botania@r1.10-364,teslacorelib_registries@1.0.17,dimstages@2.0.23,actuallyadditions@1.12.2-r151,etlunar@1.12.2-2.0.20.1,patchouli@1.0-20,buildcraftbuilders@7.99.24.6,gamestages@2.0.115,mekores@2.0.13,randomthings@4.2.7.3,buildcraftfactory@7.99.24.6,teslacorelib@1.0.17,oreexcavation@1.4.140,FML@8.0.99.99,thermalexpansion@5.5.7,baublelicious@1.4.0-4,enderiointegrationtic@5.1.55,enderioconduitsappliedenergistics@5.1.55,worldedit@6.1.10,naturesaura@18.1,buildcraftcompat@7.99.24.6,extrabotany@60,environmentaltech@1.12.2-2.0.20.1,bigreactors@1.12.2-0.4.5.67,i18nmod@1.12.2-1.0.8,armoryexpansion-custommaterials@1.4.2,jetif@1.5.1,codechickenlib@3.2.3.358,fastleafdecay@v14,buildcraftcore@7.99.24.6,wailaharvestability@1.1.12,lootcapacitortooltips@1.3,compactdrawers@1.12.2-1.0.5.125,kiwi@0.5.3.32,ctgui@1.0.0,extracells@2.6.5,ae2wtlib@1.0.34,cucumber@1.1.3,woot@1.12.2-1.4.11,customskinloader@14.9,itemfilters@1.0.3.12,jei@4.15.0.293,mod_autofish@1.12-1.7,voidislandcontrol@1.5.3,buildcrafttransport@7.99.24.6,bibliocraft@2.4.6,splan@2.65,ftbmoney@1.1.0.42,mekanism@1.12.2-9.8.3.390,thermalfoundation@2.6.7,bdlib@1.14.3.12,wawla@2.6.275,mcp@9.42,appliedenergistics2@rv6-stable-7,enderiointegrationticlate@5.1.55,sakura@0.0.9.3-1.12.2,chameleon@1.12-4.1.3,conarm@1.2.5.4,badmobs@1.1.28,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,foamfixcore@7.7.4,bathappymod@2.0,bonsaitrees@1.1.4,crafttweaker@4.1.19,botanicbonsai@0.0.0.botanicbonsai,enderstorage@2.4.6.137,armoryexpansion@1.4.2,immersivepetroleum@1.1.9,forge@14.23.5.2847,phosphor-lighting@1.12.2-0.2.7,ftbutilities@5.4.0.124,buildcraftrobotics@7.99.24.6,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,armoryexpansion-conarm@1.4.2,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,skyresources@2.3.8,itemstages@2.0.49,mousetweaks@2.10.1,ftbquests@1.8.0.237,immersiveengineering@0.12-92,psi@r1.1-77,thermaldynamics@2.5.6,claybucket@1.1,bspkrscore@8.0.0,baubles@1.5.2,enderiopowertools@5.1.55,fluidtank@12.5.0,enderio@5.1.55,totemic@1.12.2-0.11.6,extrautils2@1.0,jeiintegration@1.5.1.36,mantle@1.12-1.3.3.55,xaerominimap@1.19.5,jeivillagers@1.0,autoreglib@1.3-32,storagedrawers@5.2.2,tinker_io@rw2.8.1a,jecharacters@1.12.0-3.4.7,enderiobase@5.1.55,wanionlib@1.12.2-2.4,appleskin@1.0.9,embers@0.230,chisel@MC1.12.2-1.0.2.45,enderioconduitsopencomputers@5.1.55,armoryexpansion-iceandfire@1.4.2,foamfix@0.10.14-1.12.2,magipsi@1.3
+[00:20:11] [Netty Server IO #24/INFO]: Skipping config sync, No mods have registered a syncable config.
+[00:20:14] [Server thread/INFO]: [Server thread] Server side modded connection established
+[00:20:14] [Server thread/INFO]: Loaded 0 stages for ChunkLoader.
+[00:20:14] [Server thread/INFO]: ChunkLoader[/10.0.0.109:51856] logged in with entity id 7551999 at (8.617645546268918, 91.0, 82.06618056544693)
+[00:20:14] [Server thread/INFO]: ChunkLoader加入了游戏
+[00:20:14] [Client thread/INFO]: [CHAT] ChunkLoader加入了游戏
+[00:20:14] [Server thread/INFO]: Player EntityPlayerMP['ChunkLoader'/7551999, l='DEFAULT', x=8.62, y=91.00, z=82.07] connected. Sending ping
+[00:20:14] [Server thread/INFO]: Syncing 0 stages for ChunkLoader.
+[00:20:14] [Server thread/INFO]: Clearing cached mega torches
+[00:20:14] [Server thread/INFO]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[00:20:14] [Server thread/INFO]: Sending Player Data to player ChunkLoader with UUID d26121c9-d84b-36f6-aa56-25d4c3b86c22.
+[00:20:14] [Server thread/INFO]: [Astral Sorcery] Waiting for server synchronization on login for ChunkLoader...
+[00:20:14] [Server thread/INFO]: [Astral Sorcery] Synchronizing baseline information to ChunkLoader
+[00:20:17] [Netty Server IO #24/INFO]: [xaero.common.api.spigot.message.out.OutMessageWaypoint:fromBytes:24]: Incorrect packet usage! (OutMessageWaypoint)
+[00:20:19] [Client thread/INFO]: Unloaded world <net.minecraft.client.multiplayer.WorldClient@d252e70 0 MultiplayerChunkCache: 289, 289> is still hanging around after 60 seconds.
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:23] [Netty Server IO #24/WARN]: Error while decoding custom packet payload: direct buffer
+[00:20:39] [Netty Server IO #24/ERROR]: NetworkDispatcher exception
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_202]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_202]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_202]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_202]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_202]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_202]
+[00:20:39] [Server thread/INFO]: ChunkLoader lost connection: Internal Exception: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+[00:20:39] [Server thread/INFO]: ChunkLoader退出了游戏
+[00:20:39] [Client thread/INFO]: [CHAT] ChunkLoader退出了游戏
+[00:20:47] [Server thread/INFO]: Saved 6 stages for dd3xp.
+[00:21:32] [Server thread/INFO]: Saved 6 stages for dd3xp.

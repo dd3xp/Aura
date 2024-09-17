@@ -1,0 +1,1008 @@
+[19:03:43] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:03:43] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:03:43] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[19:03:43] [main/WARN]: Tweak class name optifine.OptiFineForgeTweaker has already been visited -- skipping
+[19:03:43] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:03:43] [main/INFO]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[19:03:43] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_202, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_202\jre
+[19:03:43] [main/WARN]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[19:03:43] [main/WARN]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[19:03:43] [main/INFO]: Searching D:\Minecraft\AuraForAdmin\.minecraft\mods for mods
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.23.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/INFO]: [AstralCore] Initialized.
+[19:03:43] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CustomSkinLoader_Forge-14.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod customskinloader.forge.ForgePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: The coremod ForgePlugin (customskinloader.forge.ForgePlugin) is not signed!
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.14-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[19:03:43] [main/INFO]: Loading tweaker i18nupdatemod.launchwrapper.LaunchWrapperTweaker from I18nUpdateMod-3.5.2-all.jar
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: The coremod me.towdium.jecharacters.core.JechCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: The coremod JechCore (me.towdium.jecharacters.core.JechCore) is not signed!
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in RandomThings-MC1.12.2-4.2.7.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:43] [main/WARN]: The coremod lumien.randomthings.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: The coremod JaideepSinghHeer.Minecraft.mod.ServerPropertiesLAN does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/WARN]: The coremod ServerPropertiesLAN (JaideepSinghHeer.Minecraft.mod.ServerPropertiesLAN) is not signed!
+[19:03:43] [main/INFO]: [JaideepSinghHeer.Minecraft.mod.ServerPropertiesLAN:<init>:72]: -=-=-=-=-=-=-=ServerPropertiesLAN-Constructed=-=-=-=-=-=-=-
+[19:03:43] [main/WARN]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:43] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-forge-mc1.12.2-0.2.7-universal.jar
+[19:03:43] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[19:03:43] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[19:03:43] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[19:03:43] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[19:03:43] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: D:\Minecraft\AuraForAdmin\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_G5\OptiFine-1.12.2_HD_U_G5-installer.jar
+[19:03:43] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:03:43] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[19:03:43] [main/INFO]: Loading tweak class name i18nupdatemod.launchwrapper.LaunchWrapperTweaker
+[19:03:43] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:03:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/Minecraft/AuraForAdmin/.minecraft/mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar Service=LaunchWrapper Env=CLIENT
+[19:03:43] [main/DEBUG]: Instantiating coremod class PhosphorFMLLoadingPlugin
+[19:03:43] [main/DEBUG]: The coremod me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[19:03:43] [main/WARN]: The coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin) is not signed!
+[19:03:43] [main/DEBUG]: Enqueued coremod PhosphorFMLLoadingPlugin
+[19:03:43] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:03:43] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:03:43] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:03:43] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:43] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[19:03:43] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[19:03:43] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[19:03:43] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[19:03:43] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[19:03:43] [main/DEBUG]: Injection complete
+[19:03:43] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[19:03:43] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[19:03:44] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[19:03:44] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[19:03:44] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[19:03:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:44] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[19:03:44] [main/DEBUG]: Injection complete
+[19:03:44] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[19:03:44] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[19:03:44] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[19:03:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:44] [main/DEBUG]: Injecting coremod ForgePlugin \{customskinloader.forge.ForgePlugin\} class transformers
+[19:03:44] [main/TRACE]: Registering transformer customskinloader.forge.TransformerManager
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$InitTransformer
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(<init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinTransformer
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkin(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadProfileTexturesTransformer
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadProfileTextures(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinFromCacheTransformer
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkinFromCache(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.PlayerTabTransformer$ScoreObjectiveTransformer
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(renderPlayerlist(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SpectatorMenuTransformer$PlayerMenuObjectTransformer
+[19:03:44] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.spectator.PlayerMenuObject(<init>(Lcom/mojang/authlib/GameProfile;)V)
+[19:03:44] [main/DEBUG]: Injection complete
+[19:03:44] [main/DEBUG]: Running coremod plugin for ForgePlugin \{customskinloader.forge.ForgePlugin\}
+[19:03:44] [main/DEBUG]: Running coremod plugin ForgePlugin
+[19:03:44] [main/DEBUG]: Coremod plugin class ForgePlugin run successfully
+[19:03:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:44] [main/DEBUG]: Injecting coremod ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\} class transformers
+[19:03:44] [main/DEBUG]: Injection complete
+[19:03:44] [main/DEBUG]: Running coremod plugin for ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\}
+[19:03:44] [main/DEBUG]: Running coremod plugin ForgelinPlugin
+[19:03:44] [main/DEBUG]: Coremod plugin class ForgelinPlugin run successfully
+[19:03:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:44] [main/DEBUG]: Injecting coremod JechCore \{me.towdium.jecharacters.core.JechCore\} class transformers
+[19:03:44] [main/TRACE]: Registering transformer me.towdium.jecharacters.core.JechClassTransformer
+[19:03:44] [main/DEBUG]: Injection complete
+[19:03:44] [main/DEBUG]: Running coremod plugin for JechCore \{me.towdium.jecharacters.core.JechCore\}
+[19:03:44] [main/DEBUG]: Running coremod plugin JechCore
+[19:03:44] [main/INFO]: Starting loading pinyin data
+[19:03:44] [main/INFO]: Finished loading pinyin data
+[19:03:44] [main/DEBUG]: Coremod plugin class JechCore run successfully
+[19:03:44] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:03:44] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@58b67519
+[19:03:44] [main/DEBUG]: Injecting coremod PhosphorFMLLoadingPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin\} class transformers
+[19:03:44] [main/DEBUG]: Injection complete
+[19:03:44] [main/DEBUG]: Running coremod plugin for PhosphorFMLLoadingPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin\}
+[19:03:44] [main/DEBUG]: Running coremod plugin PhosphorFMLLoadingPlugin
+[19:03:44] [main/INFO]: Compatibility level set to JAVA_8
+[19:03:44] [main/DEBUG]: Coremod plugin class PhosphorFMLLoadingPlugin run successfully
+[19:03:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:44] [main/DEBUG]: Injecting coremod OpenModsCorePlugin \{openmods.core.OpenModsCorePlugin\} class transformers
+[19:03:44] [main/TRACE]: Registering transformer openmods.core.OpenModsClassTransformer
+[19:03:44] [main/DEBUG]: Injection complete
+[19:03:44] [main/DEBUG]: Running coremod plugin for OpenModsCorePlugin \{openmods.core.OpenModsCorePlugin\}
+[19:03:44] [main/DEBUG]: Running coremod plugin OpenModsCorePlugin
+[19:03:45] [main/DEBUG]: Coremod plugin class OpenModsCorePlugin run successfully
+[19:03:45] [main/INFO]: Calling tweak class i18nupdatemod.launchwrapper.LaunchWrapperTweaker
+[19:03:45] [main/INFO]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:03:45] [main/INFO]: [AstralTransformer] Loading patches...
+[19:03:45] [main/INFO]: [AstralTransformer] Initialized! Loaded 14 class patches!
+[19:03:45] [main/DEBUG]: Validating minecraft
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:45] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:03:45] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:03:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:03:45] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:03:45] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[19:03:45] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
+[19:03:45] [main/INFO]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
+[19:03:45] [main/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[19:03:45] [main/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[19:03:45] [main/INFO]: A re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
+[19:03:45] [main/INFO]: Transforming Class [net.minecraft.world.chunk.storage.ExtendedBlockStorage], Method [func_76663_a]
+[19:03:45] [main/INFO]: Transforming net.minecraft.world.chunk.storage.ExtendedBlockStorage Finished.
+[19:03:45] [main/INFO]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[19:03:45] [main/INFO]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCLIENT
+[19:03:45] [main/INFO]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[19:03:45] [main/INFO]: A re-entrant transformer '$wrapper.lumien.randomthings.asm.ClassTransformer' was detected and will no longer process meta class data
+[19:03:46] [Thread-1/WARN]: Caught an exception when fetching online data:
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: java.io.FileNotFoundException: https://raw.githubusercontent.com/Towdium/JustEnoughCharacters/1.12.0/feed.json
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1890)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:91)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1484)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1482)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1481)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:263)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at me.towdium.jecharacters.util.FeedFetcher.fetch(FeedFetcher.java:34)
+[19:03:46] [Thread-1/INFO]: [me.towdium.jecharacters.util.FeedFetcher:fetch:53]: 	at java.lang.Thread.run(Thread.java:748)
+[19:03:46] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[19:03:46] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
+[19:03:46] [main/INFO]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[19:03:46] [main/INFO]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCLIENT
+[19:03:46] [main/INFO]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[19:03:46] [main/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[19:03:46] [main/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[19:03:46] [main/INFO]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[19:03:46] [main/INFO]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[19:03:46] [main/INFO]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[19:03:46] [main/INFO]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[19:03:46] [main/INFO]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[19:03:46] [main/INFO]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[19:03:46] [main/INFO]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
+[19:03:46] [main/INFO]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[19:03:46] [main/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.util.SearchTreeManager.func_110549_a
+[19:03:46] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[19:03:46] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[19:03:46] [Client thread/INFO]: Setting user: dd3xp
+[19:03:46] [Client thread/INFO]: Patching net.minecraft.block.Block... (aow)
+[19:03:46] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[19:03:46] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[19:03:47] [Client thread/INFO]: Patching math utils with "RIVENS_HALF" algorithm
+[19:03:47] [Client thread/INFO]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[19:03:47] [Client thread/INFO]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIP
+[19:03:47] [Client thread/INFO]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[19:03:47] [Client thread/INFO]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[19:03:47] [Client thread/INFO]: Patching net.minecraft.block.BlockHopper... (arl)
+[19:03:47] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[19:03:47] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[19:03:47] [Client thread/INFO]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[19:03:47] [Client thread/INFO]: [AstralTransformer] Transforming wg : net.minecraft.entity.ai.attributes.AbstractAttributeMap with 1 patches!
+[19:03:47] [Client thread/INFO]: [AstralTransformer] Applied patch PATCHADDPLAYERATTRIBUTE
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[19:03:47] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[19:03:47] [Client thread/INFO]: Transforming Class [net.minecraft.entity.ai.EntityAICreeperSwell], Method [func_75246_d]
+[19:03:47] [Client thread/INFO]: Transforming net.minecraft.entity.ai.EntityAICreeperSwell Finished.
+[19:03:48] [Client thread/INFO]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[19:03:48] [Client thread/INFO]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[19:03:48] [Client thread/INFO]: Patching GameSettings.datafix
+[19:03:48] [BetterFps Update Checker/WARN]: Could not check for updates: widget.mcf.li
+[19:03:48] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[19:03:48] [Client thread/INFO]: Patching net.minecraft.client.renderer.EntityRenderer... (buq)
+[19:03:48] [Client thread/INFO]: [AstralTransformer] Transforming buq : net.minecraft.client.renderer.EntityRenderer with 1 patches!
+[19:03:48] [Client thread/INFO]: [AstralTransformer] Applied patch PATCHENTITYRENDEREREXTENDEDENTITYREACH
+[19:03:48] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.ModelLoaderCleanupPatch:apply:99]: Added ModelLoader cleanup patch (1 occurences).
+[19:03:48] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[19:03:48] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:03:48] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:03:49] [Client thread/INFO]: [OptiFine] 
+[19:03:49] [Client thread/INFO]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[19:03:49] [Client thread/INFO]: [OptiFine] Build: 20210124-142939
+[19:03:49] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[19:03:49] [Client thread/INFO]: [OptiFine] Java: 1.8.0_202, Oracle Corporation
+[19:03:49] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[19:03:49] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[19:03:49] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2, version 4.6.0 NVIDIA 560.81, NVIDIA Corporation
+[19:03:49] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[19:03:49] [Client thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[19:03:49] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[19:03:49] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 560.81
+[19:03:49] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[19:03:49] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2
+[19:03:49] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[19:03:49] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[19:03:49] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[19:03:49] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[19:03:49] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[19:03:49] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[19:03:49] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[19:03:49] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[19:03:49] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[19:03:49] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[19:03:49] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_202, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 356244400 bytes (339 MB) / 536870912 bytes (512 MB) up to 17179869184 bytes (16384 MB)
+	JVM Flags: 11 total; -Xmx16384m -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32m -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:-DontCompileHugeMethods -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+ForgelinPlugin (Forgelin-1.8.4.jar)
+  
+MekanismCoremod (Mekanism-1.12.2-9.8.3.390.jar)
+  mekanism.coremod.KeybindingMigrationHelper
+Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.14-1.12.2.jar)
+  pl.asie.foamfix.coremod.FoamFixTransformer
+OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  openmods.core.OpenModsClassTransformer
+AstralCore (astralsorcery-1.12.2-1.10.23.jar)
+  
+PhosphorFMLLoadingPlugin (phosphor-forge-mc1.12.2-0.2.7-universal.jar)
+  
+ServerPropertiesLAN (ServerPropertiesLAN-2.65.jar)
+  JaideepSinghHeer.Minecraft.mod.SPLANtransformerPort
+EnderCorePlugin (EnderCore-1.12.2-0.5.73-core.jar)
+  com.enderio.core.common.transform.EnderCoreTransformer
+  com.enderio.core.common.transform.SimpleMixinPatcher
+IELoadingPlugin (ImmersiveEngineering-core-0.12-92.jar)
+  blusunrize.immersiveengineering.common.asm.IEClassTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+ForgePlugin (CustomSkinLoader_Forge-14.9.jar)
+  customskinloader.forge.TransformerManager
+Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  invtweaks.forge.asm.ContainerTransformer
+LoadingPlugin (RandomThings-MC1.12.2-4.2.7.3.jar)
+  lumien.randomthings.asm.ClassTransformer
+JechCore (JustEnoughCharacters-1.12.0-3.4.7.jar)
+  me.towdium.jecharacters.core.JechClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 560.81' Renderer: 'NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2'
+[19:03:49] [Client thread/INFO]: MinecraftForge v14.23.5.2847 Initialized
+[19:03:49] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:03:49] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:03:49] [Client thread/INFO]: Replaced 1227 ore ingredients
+[19:03:49] [Client thread/INFO]: [JaideepSinghHeer.Minecraft.mod.ServerPropertiesLAN:<init>:72]: -=-=-=-=-=-=-=ServerPropertiesLAN-Constructed=-=-=-=-=-=-=-
+[19:03:49] [Client thread/INFO]: Searching D:\Minecraft\AuraForAdmin\.minecraft\mods for mods
+[19:03:49] [VersionCheck/INFO]: [OptiFine] Version found: G5
+[19:03:50] [Client thread/WARN]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.2
+[19:03:50] [Client thread/WARN]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[19:03:50] [Client thread/WARN]: Mod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.5.0
+[19:03:50] [Client thread/INFO]: Mod customoregen is missing the required element 'name'. Substituting customoregen
+[19:03:51] [Client thread/WARN]: Mod enderstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.6.137
+[19:03:51] [Thread-5/INFO]: Using sync timing. 200 frames of Display.update took 30841000 nanos
+[19:03:51] [Client thread/WARN]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[19:03:51] [Client thread/WARN]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[19:03:51] [Client thread/WARN]: Mod mod_autofish is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12-1.7
+[19:03:52] [Client thread/WARN]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-20
+[19:03:52] [Client thread/WARN]: Mod voidislandcontrol is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.5.3
+[19:03:52] [Client thread/INFO]: Forge Mod Loader has identified 167 mods to load
+[19:03:52] [Client thread/INFO]: Found mod(s) [wct] containing declared API package yalter.mousetweaks.api (owned by mousetweaks) without associated API reference
+[19:03:53] [Client thread/INFO]: FML has found a non-mod file AutoSave-1.12.2-1.0.11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[19:03:53] [Client thread/INFO]: FML has found a non-mod file AutoConfig-1.12.2-1.0.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[19:03:53] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jecharacters, openmodscore, foamfixcore, splan, bspkrscore, armorstatushud, i18nmod, actuallyadditions, ae2stuff, ae2wtlib, appleskin, appliedenergistics2, armoryexpansion, armoryexpansion-conarm, armoryexpansion-custommaterials, armoryexpansion-iceandfire, armoryexpansion-matteroverdrive, astralsorcery, autoreglib, badmobs, baublelicious, baubles, bdlib, betterbuilderswands, bibliocraft, blockdrops, bonsaitrees, bookshelf, botania, botanicbonsai, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, carryon, chameleon, chisel, bathappymod, claybucket, codechickenlib, cofhcore, cofhworld, compactdrawers, conarm, cookingforblockheads, ctgui, crafttweaker, crafttweakerjei, ctm, cucumber, customoregen, customskinloader, dimstages, embers, eplus, endercore, enderio, enderiobase, enderioconduitsappliedenergistics, enderioconduitsopencomputers, enderioconduitsrefinedstorage, enderioconduits, enderiointegrationforestry, enderiointegrationtic, enderiointegrationticlate, enderiomachines, enderiopowertools, enderstorage, environmentaltech, etlunar, extendedcrafting, extrabotany, extracells, extrautils2, bigreactors, fastleafdecay, foamfix, forgelin, ftblib, ftbmoney, ftbquests, ftbutilities, gamestages, gardenofglass, guideapi, waila, immersivepetroleum, immersivetech, industrialforegoing, inventorytweaks, ironchest, itemfilters, itemstages, jei, jeiintegration, jeivillagers, jetif, jehc, jeresources, fluidtank, fluidtank_ae2, fluidtank_theoneprobe, lootcapacitortooltips, magipsi, mantle, mcmultipart, mekanism, mekanismgenerators, mekores, mm_lib, mod_autofish, modtweaker, mousetweaks, mtlib, nanfix, naturesaura, neat, openblocks, openmods, oreexcavation, p455w0rdslib, harvestcraft, patchouli, plustic, psi, randomthings, redstonearsenal, redstoneflux, sakura, sc, skyresources, storagedrawers, tconstruct, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, tinker_io, tinkertoolleveling, torchmaster, totemic, treegrowingsimulator, twilightforest, universalmodifiers, valkyrielib, voidislandcontrol, wailaharvestability, wanionlib, wawla, wct, woot, worldedit, xaerominimap, zerocore, immersiveengineering, kiwi, phosphor-lighting] at CLIENT
+[19:03:53] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jecharacters, openmodscore, foamfixcore, splan, bspkrscore, armorstatushud, i18nmod, actuallyadditions, ae2stuff, ae2wtlib, appleskin, appliedenergistics2, armoryexpansion, armoryexpansion-conarm, armoryexpansion-custommaterials, armoryexpansion-iceandfire, armoryexpansion-matteroverdrive, astralsorcery, autoreglib, badmobs, baublelicious, baubles, bdlib, betterbuilderswands, bibliocraft, blockdrops, bonsaitrees, bookshelf, botania, botanicbonsai, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, carryon, chameleon, chisel, bathappymod, claybucket, codechickenlib, cofhcore, cofhworld, compactdrawers, conarm, cookingforblockheads, ctgui, crafttweaker, crafttweakerjei, ctm, cucumber, customoregen, customskinloader, dimstages, embers, eplus, endercore, enderio, enderiobase, enderioconduitsappliedenergistics, enderioconduitsopencomputers, enderioconduitsrefinedstorage, enderioconduits, enderiointegrationforestry, enderiointegrationtic, enderiointegrationticlate, enderiomachines, enderiopowertools, enderstorage, environmentaltech, etlunar, extendedcrafting, extrabotany, extracells, extrautils2, bigreactors, fastleafdecay, foamfix, forgelin, ftblib, ftbmoney, ftbquests, ftbutilities, gamestages, gardenofglass, guideapi, waila, immersivepetroleum, immersivetech, industrialforegoing, inventorytweaks, ironchest, itemfilters, itemstages, jei, jeiintegration, jeivillagers, jetif, jehc, jeresources, fluidtank, fluidtank_ae2, fluidtank_theoneprobe, lootcapacitortooltips, magipsi, mantle, mcmultipart, mekanism, mekanismgenerators, mekores, mm_lib, mod_autofish, modtweaker, mousetweaks, mtlib, nanfix, naturesaura, neat, openblocks, openmods, oreexcavation, p455w0rdslib, harvestcraft, patchouli, plustic, psi, randomthings, redstonearsenal, redstoneflux, sakura, sc, skyresources, storagedrawers, tconstruct, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, tinker_io, tinkertoolleveling, torchmaster, totemic, treegrowingsimulator, twilightforest, universalmodifiers, valkyrielib, voidislandcontrol, wailaharvestability, wanionlib, wawla, wct, woot, worldedit, xaerominimap, zerocore, immersiveengineering, kiwi, phosphor-lighting] at SERVER
+[19:03:53] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
+[19:03:55] [Client thread/INFO]: 检测到网络不可用，跳过下载阶段
+[19:03:56] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.ReturnIfBooleanTruePatch:apply:89]: Added return if option true in net/minecraft/client/renderer/texture/TextureMap func_94248_c
+[19:03:56] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[19:03:56] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[19:03:56] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/client/renderer/texture/TextureAtlasSprite to pl/asie/foamfix/client/FastTextureAtlasSprite
+[19:03:56] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/client/renderer/texture/TextureAtlasSprite to pl/asie/foamfix/client/FastTextureAtlasSprite
+[19:03:56] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[19:03:56] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[19:03:56] [Client thread/INFO]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[19:03:56] [Client thread/INFO]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[19:03:56] [Client thread/ERROR]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[19:03:56] [Client thread/ERROR]: The mod cofhworld is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source CoFHWorld-1.12.2-1.4.0.1-universal.jar, however there is no signature matching that description
+[19:03:56] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[19:03:56] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[19:03:56] [Client thread/WARN]: Static binding violation: PRIVATE @Overwrite method func_76615_h in mixins.phosphor.json:common.MixinChunk cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[19:03:56] [Client thread/ERROR]: The mod thermalfoundation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalFoundation-1.12.2-2.6.7.1-universal.jar, however there is no signature matching that description
+[19:03:56] [Client thread/ERROR]: The mod thermalexpansion is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalExpansion-1.12.2-5.5.7.1-universal.jar, however there is no signature matching that description
+[19:03:56] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin
+[19:03:56] [Client thread/INFO]: Registered mixin.
+[19:03:56] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.integration.thaumcraft.ThaumcraftArmorMixin
+[19:03:56] [Client thread/INFO]: Skipping mixin due to missing dependencies: [thaumcraft]
+[19:03:56] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[19:03:56] [Client thread/INFO]: Registered mixin.
+[19:03:56] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[19:03:56] [Client thread/INFO]: Registered mixin.
+[19:03:56] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin
+[19:03:56] [Client thread/INFO]: Registered mixin.
+[19:03:56] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[19:03:56] [Client thread/INFO]: Registered mixin.
+[19:03:56] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[19:03:56] [Client thread/INFO]: Registered mixin.
+[19:03:56] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin.
+[19:03:56] [Client thread/INFO]: Found interface target crazypants.enderio.base.power.forge.item.IInternalPoweredItem
+[19:03:56] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[19:03:56] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[19:03:56] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[19:03:56] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[19:03:56] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin.
+[19:03:56] [Client thread/INFO]: Found interface target crazypants.enderio.api.upgrades.IDarkSteelItem
+[19:03:56] [Client thread/INFO]: Found interface target crazypants.enderio.base.paint.IPaintable$ITexturePaintableBlock
+[19:03:56] [Client thread/INFO]: Found interface target crazypants.enderio.base.paint.IPaintable$ISolidBlockPaintableBlock
+[19:03:56] [Client thread/INFO]: Found interface target crazypants.enderio.base.paint.IPaintable$IBlockPaintableBlock
+[19:03:56] [Client thread/INFO]: Found interface target crazypants.enderio.base.paint.IPaintable$INonSolidBlockPaintableBlock
+[19:03:56] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.renderer.block.model.ModelResourceLocation.<init>
+[19:03:57] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:03:57] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook
+[19:03:57] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:03:57] [Client thread/INFO]: Successfully patched.
+[19:03:57] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemInventoryCharger from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:03:57] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemInventoryCharger
+[19:03:57] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:03:57] [Client thread/INFO]: Successfully patched.
+[19:03:57] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
+[19:03:59] [Client thread/INFO]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[19:03:59] [Client thread/INFO]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[19:03:59] [Client thread/INFO]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[19:03:59] [Client thread/INFO]: Skipping Pulse quarkIntegration; missing dependency: quark
+[19:03:59] [Client thread/INFO]: Preparing to take over the world
+[19:03:59] [Client thread/INFO]: Transforming class vazkii/botania/client/gui/lexicon/GuiLexiconIndex for string contains.
+[19:03:59] [Client thread/INFO]: Transforming invoke of java/lang/String.contains to me/towdium/jecharacters/match/PinyinMatcher.contains in method matchesSearch.
+[19:04:01] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.conduit.me.conduit.MEMixin
+[19:04:01] [Client thread/INFO]: Registered mixin.
+[19:04:01] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.conduit.me.conduit.MEMixin.
+[19:04:01] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.conduits.conduit.TileConduitBundle
+[19:04:01] [Client thread/INFO]: Added 1 new interface: [appeng/api/networking/IGridHost]
+[19:04:01] [Client thread/INFO]: Added 3 new methods: [getGridNode(Lappeng/api/util/AEPartLocation;)Lappeng/api/networking/IGridNode;, getCableConnectionType(Lappeng/api/util/AEPartLocation;)Lappeng/api/util/AECableType;, securityBreak()V]
+[19:04:01] [Client thread/INFO]: Successfully patched.
+[19:04:01] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.conduit.oc.conduit.OCMixin
+[19:04:01] [Client thread/INFO]: Skipping mixin due to missing dependencies: [opencomputersapi|network]
+[19:04:01] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.integration.forestry.upgrades.ArmorMixin
+[19:04:01] [Client thread/INFO]: Skipping mixin due to missing dependencies: [forestry]
+[19:04:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[19:04:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraftforge.common.property.ExtendedBlockState.foamfix_mapper
+[19:04:05] [Client thread/ERROR]: The mod fluidtank is expecting signature 617a4e95f0af9de5402bb9883abe0f53a6bfa230 for source LargeFluidTank-12.5.0.jar, however there is no signature matching that description
+[19:04:05] [Client thread/ERROR]: The mod fluidtank_ae2 is expecting signature 617a4e95f0af9de5402bb9883abe0f53a6bfa230 for source LargeFluidTank-12.5.0.jar, however there is no signature matching that description
+[19:04:05] [Client thread/ERROR]: The mod fluidtank_theoneprobe is expecting signature 617a4e95f0af9de5402bb9883abe0f53a6bfa230 for source LargeFluidTank-12.5.0.jar, however there is no signature matching that description
+[19:04:05] [Client thread/INFO]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a, func_184391_a]
+[19:04:05] [Client thread/INFO]: Transforming failed. Applying ersatz patch...
+[19:04:05] [Client thread/WARN]: Ersatz patch applied, things may break!
+[19:04:05] [Client thread/INFO]: Transforming net.minecraft.client.renderer.RenderItem Finished.
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] CLASS net.minecraft.client.resources.SkinManager will be transformed
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method <init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V in class cex(net.minecraft.client.resources.SkinManager)
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method <init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V in class cex(net.minecraft.client.resources.SkinManager)
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation; in class cex(net.minecraft.client.resources.SkinManager)
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation; in class cex(net.minecraft.client.resources.SkinManager)
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V in class cex(net.minecraft.client.resources.SkinManager)
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V in class cex(net.minecraft.client.resources.SkinManager)
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map; in class cex(net.minecraft.client.resources.SkinManager)
+[19:04:05] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map; in class cex(net.minecraft.client.resources.SkinManager)
+[19:04:05] [Client thread/INFO]: Hooked Proxy Resource Pack
+[19:04:06] [Client thread/ERROR]: The mod redstonearsenal is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneArsenal-1.12.2-2.6.6.1-universal.jar, however there is no signature matching that description
+[19:04:06] [Client thread/ERROR]: The mod thermaldynamics is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalDynamics-1.12.2-2.5.6.1-universal.jar, however there is no signature matching that description
+[19:04:06] [Client thread/ERROR]: The mod torchmaster is expecting signature 5e9a436b366831c8f54a7e80b015784da69278c6 for source torchmaster_1.12.2-1.8.5.0.jar, however there is no signature matching that description
+[19:04:07] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Just Enough Characters, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:ArmorStatusHUD, FMLFileResourcePack:I18n Update Mod, FMLFileResourcePack:Actually Additions, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AE2 Wireless Terminals (AE2WTLib), FMLFileResourcePack:AppleSkin, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Armory Expansion, FMLFileResourcePack:Armory Expansion - Construct's Armory, FMLFileResourcePack:Armory Expansion - Custom Materials, FMLFileResourcePack:Armory Expansion - Ice and Fire, FMLFileResourcePack:Armory Expansion - MatterOverdrive, FMLFileResourcePack:Astral Sorcery, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:Bad Mobs, FMLFileResourcePack:Baublelicious, FMLFileResourcePack:Baubles, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Builder's Wands, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Block Drops, FMLFileResourcePack:Bonsai Trees, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:Botania, FMLFileResourcePack:Botanic Bonsai, FMLFileResourcePack:BuildCraft Compat, FMLFileResourcePack:BuildCraft Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BuildCraft Energy, FMLFileResourcePack:BuildCraft Factory, FMLFileResourcePack:BuildCraft Lib, FMLFileResourcePack:BuildCraft Robotics, FMLFileResourcePack:BuildCraft Silicon, FMLFileResourcePack:BuildCraft Transport, FMLFileResourcePack:Carry On, FMLFileResourcePack:Chameleon, FMLFileResourcePack:Chisel, FMLFileResourcePack:Bat Happy Mod, FMLFileResourcePack:Clay Bucket, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CoFH World, FMLFileResourcePack:Compact Drawers, FMLFileResourcePack:Construct's Armory, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CTM, FMLFileResourcePack:Cucumber Library, FMLFileResourcePack:customoregen, FMLFileResourcePack:CustomSkinLoader, FMLFileResourcePack:Dimension Stages, FMLFileResourcePack:Embers, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:Ender IO Base, FMLFileResourcePack:Ender IO Applied Energistics Conduits, FMLFileResourcePack:Ender IO Open Computers Conduits, FMLFileResourcePack:Ender IO Refined Storage Conduits, FMLFileResourcePack:Ender IO Conduits, FMLFileResourcePack:Ender IO Integration with Forestry, FMLFileResourcePack:Ender IO Integration with Tinkers' Construct, FMLFileResourcePack:Ender IO Integration with Tinkers' Construct, FMLFileResourcePack:Ender IO Machines, FMLFileResourcePack:Ender IO Powertools, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Environmental Tech, FMLFileResourcePack:ET Lunar, FMLFileResourcePack:Extended Crafting, FMLFileResourcePack:ExtraBotany, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:Extra Utilities 2, FMLFileResourcePack:Extreme Reactors, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:FoamFix, FMLFileResourcePack:Shadowfacts' Forgelin, FMLFileResourcePack:FTB Library, FMLFileResourcePack:FTB Money, FMLFileResourcePack:FTB Quests, FMLFileResourcePack:FTB Utilities, FMLFileResourcePack:Game Stages, FMLFileResourcePack:Garden of Glass, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Waila, FMLFileResourcePack:Immersive Petroleum, FMLFileResourcePack:Immersive Tech, FMLFileResourcePack:Industrial Foregoing, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Item Filters, FMLFileResourcePack:Item Stages, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Integration, FMLFileResourcePack:Jeivillagers, FMLFileResourcePack:Just Enough Throwing In Fluids, FMLFileResourcePack:Just Enough HarvestCraft, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:FluidTank, FMLFileResourcePack:FluidTank_AE2, FMLFileResourcePack:FluidTank_TheOneProbe, FMLFileResourcePack:Loot Capacitor Tooltips, FMLFileResourcePack:Magical Psi, FMLFileResourcePack:Mantle, FMLFileResourcePack:MCMultiPart, FMLFileResourcePack:Mekanism, FMLFileResourcePack:Mekanism: Generators, FMLFileResourcePack:MekanismOres, FMLFileResourcePack:Mysterious Mountain Lib, FMLFileResourcePack:AutoFish Forge Mod, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:MTLib, FMLFileResourcePack:NaN Entity Health Fix, FMLFileResourcePack:Nature's Aura, FMLFileResourcePack:Neat, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenModsLib, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:p455w0rd's Library, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Patchouli, FMLFileResourcePack:PlusTiC, FMLFileResourcePack:Psi, FMLFileResourcePack:Random Things, FMLFileResourcePack:Redstone Arsenal, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Sakura, FMLFileResourcePack:Sky Compression, FMLFileResourcePack:Sky Resources 2, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Tesla Core Lib, FMLFileResourcePack:Tesla Core Lib Registries, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Tinker I/O, FMLFileResourcePack:Tinkers Tool Leveling, FMLFileResourcePack:TorchMaster, FMLFileResourcePack:Totemic, FMLFileResourcePack:Tree Growing Simulator 2016, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Universal Modifiers, FMLFileResourcePack:Valkyrie Lib, FMLFileResourcePack:Void Island Control, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WanionLib, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Wireless Crafting Terminal 2, FMLFileResourcePack:Woot, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Zero CORE, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Kiwi, FMLFileResourcePack:Phosphor Lighting Engine, magipsi-texture-proxy, Minecraft-Mod-Language-Modpack.zip, BDcraft Sounds MC111.zip
+[19:04:07] [Client thread/INFO]: Processing ObjectHolder annotations
+[19:04:08] [Client thread/INFO]: Found 1892 ObjectHolder annotations
+[19:04:08] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[19:04:08] [Client thread/INFO]: Found 2 ItemStackHolder annotations
+[19:04:08] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[19:04:08] [Forge Version Check/INFO]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[19:04:08] [Client thread/INFO]: Starting PreInitialization Phase...
+[19:04:08] [Client thread/INFO]: Transforming class de/ellpeck/actuallyadditions/mod/booklet/entry/BookletEntry for string contains.
+[19:04:08] [Client thread/INFO]: Transforming invoke of java/lang/String.contains to me/towdium/jecharacters/match/PinyinMatcher.contains in method fitsFilter.
+[19:04:08] [Client thread/INFO]: Transforming invoke of java/lang/String.contains to me/towdium/jecharacters/match/PinyinMatcher.contains in method getChaptersForDisplay.
+[19:04:08] [Client thread/INFO]: Grabbing Configurations...
+[19:04:08] [Client thread/INFO]: Initializing Tool Materials...
+[19:04:08] [Client thread/INFO]: Initializing Armor Materials...
+[19:04:08] [Client thread/INFO]: Initializing Update Checker...
+[19:04:08] [Client thread/INFO]: PreInitializing ClientProxy...
+[19:04:08] [Actually Additions Update Checker/INFO]: Starting Update Check...
+[19:04:08] [Client thread/INFO]: PreInitialization Finished.
+[19:04:08] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.bakeNormal
+[19:04:08] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper], Method [getTextures]
+[19:04:08] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper Finished.
+[19:04:08] [Client thread/INFO]: Pre Initialization ( started )
+[19:04:08] [Forge Version Check/INFO]: [twilightforest] Found status: AHEAD Target: null
+[19:04:08] [Forge Version Check/INFO]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[19:04:09] [Actually Additions Update Checker/INFO]: Update Check done!
+[19:04:09] [Actually Additions Update Checker/INFO]: Actually Additions is up to date!
+[19:04:10] [Forge Version Check/INFO]: [buildcraftcore] Found status: OUTDATED Target: 7.99.24.8
+[19:04:10] [Forge Version Check/INFO]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[19:04:10] [Client thread/INFO]: Starting AE2 VersionChecker
+[19:04:10] [Client thread/INFO]: Pre Initialization ( ended after 1577ms )
+[19:04:10] [Client thread/INFO]: bdlib 1.14.3.12 loaded
+[19:04:10] [Client thread/INFO]: Initialized network channel 'bdew.multiblock' for mod 'bdlib'
+[19:04:10] [Forge Version Check/INFO]: [buildcraftcompat] Found status: AHEAD Target: null
+[19:04:10] [Forge Version Check/INFO]: [enderstorage] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=EnderStorage
+[19:04:10] [Client thread/INFO]: Loading internal config files for mod AE2 Stuff
+[19:04:10] [Client thread/INFO]: Loading config: jar:file:/D:/Minecraft/AuraForAdmin/.minecraft/mods/ae2stuff-0.7.0.4-mc1.12.2.jar!/assets/ae2stuff/config/tuning.cfg
+[19:04:10] [Client thread/INFO]: Loading config: jar:file:/D:/Minecraft/AuraForAdmin/.minecraft/mods/ae2stuff-0.7.0.4-mc1.12.2.jar!/assets/ae2stuff/config/recipes.cfg
+[19:04:10] [Client thread/INFO]: Loading user config files for mod AE2 Stuff
+[19:04:10] [Client thread/INFO]: Config loading for mod AE2 Stuff finished
+[19:04:10] [Client thread/INFO]: Loaded creative tabs for ae2stuff
+[19:04:10] [AE2 VersionChecker/INFO]: No newer version is available: missing(found) < rv6-stable-7 (current)
+[19:04:10] [AE2 VersionChecker/INFO]: Stopping AE2 VersionChecker
+[19:04:10] [Forge Version Check/INFO]: [enderstorage] Found status: BETA Target: null
+[19:04:10] [Forge Version Check/INFO]: [totemic] Starting version check at https://raw.githubusercontent.com/TeamTotemic/Totemic/version/version.json
+[19:04:11] [Forge Version Check/INFO]: [totemic] Found status: OUTDATED Target: 1.12.2-0.11.7
+[19:04:11] [Forge Version Check/INFO]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[19:04:11] [Forge Version Check/INFO]: [buildcraftlib] Found status: OUTDATED Target: 7.99.24.8
+[19:04:11] [Forge Version Check/INFO]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[19:04:11] [Client thread/INFO]: Extra Utilities 2 JEI Plugin - ACTIVATE!
+[19:04:11] [Forge Version Check/INFO]: [fastleafdecay] Starting version check at http://www.olafkeijsers.net/fastleafdecay-update.json
+[19:04:12] [Client thread/INFO]: Registering default Feature Templates...
+[19:04:12] [Client thread/INFO]: Registering default World Generators...
+[19:04:12] [Client thread/INFO]: Verifying or creating base world generation directory...
+[19:04:12] [Client thread/INFO]: Complete.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedFence from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedFence
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedFenceGate from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedFenceGate
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedWall from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedWall
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedStairs from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedStairs
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedSlab from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedSlab
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedGlowstone from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedGlowstone
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedGlowstone$BlockPaintedGlowstoneNonSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedGlowstone$BlockPaintedGlowstoneNonSolid
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedGlowstone$BlockPaintedGlowstoneSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedGlowstone$BlockPaintedGlowstoneSolid
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedCarpet from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedCarpet
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedPressurePlate from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedPressurePlate
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedRedstone from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedRedstone
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedRedstone$BlockPaintedRedstoneNonSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedRedstone$BlockPaintedRedstoneNonSolid
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedRedstone$BlockPaintedRedstoneSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedRedstone$BlockPaintedRedstoneSolid
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedStone from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedStone
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedTrapDoor from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedTrapDoor
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedDoor from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedDoor
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedWorkbench from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedWorkbench
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian$BlockPaintedReinforcedObsidianNonSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian$BlockPaintedReinforcedObsidianNonSolid
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian$BlockPaintedReinforcedObsidianSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian$BlockPaintedReinforcedObsidianSolid
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedPackedIce from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedPackedIce
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedPackedIce$BlockPaintedPackedIceNonSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedPackedIce$BlockPaintedPackedIceNonSolid
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedPackedIce$BlockPaintedPackedIceSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedPackedIce$BlockPaintedPackedIceSolid
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.travelstaff.ItemTravelStaff from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.travelstaff.ItemTravelStaff
+[19:04:13] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.power.forge.item.AbstractPoweredItem from implemented interfaces: [crazypants/enderio/base/power/forge/item/IInternalPoweredItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.power.forge.item.AbstractPoweredItem
+[19:04:13] [Client thread/INFO]: Added 1 new method: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.material.glass.BlockPaintedFusedQuartz from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.material.glass.BlockPaintedFusedQuartz
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.detector.BlockDetector from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.detector.BlockDetector
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor
+[19:04:13] [Client thread/INFO]: Added 4 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, addCommonEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, addBasicEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelShield from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelShield
+[19:04:13] [Client thread/INFO]: Added 2 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelSword from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelSword
+[19:04:13] [Client thread/INFO]: Added 2 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelPickaxe from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelPickaxe
+[19:04:13] [Client thread/INFO]: Added 5 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, addCommonEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, addBasicEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelAxe from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelAxe
+[19:04:13] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelBow from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelBow
+[19:04:13] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelShears from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelShears
+[19:04:13] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelTreetap from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelTreetap
+[19:04:13] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelHand from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelHand
+[19:04:13] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.staffoflevity.ItemStaffOfLevity from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.staffoflevity.ItemStaffOfLevity
+[19:04:13] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.conduits.conduit.BlockConduitBundle from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.conduits.conduit.BlockConduitBundle
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Class 2 super was object or null
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.alloy.BlockAlloySmelter from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.alloy.BlockAlloySmelter
+[19:04:13] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.power.forge.item.PoweredBlockItem from implemented interfaces: [crazypants/enderio/base/power/forge/item/IInternalPoweredItem]
+[19:04:13] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.power.forge.item.PoweredBlockItem
+[19:04:13] [Client thread/INFO]: Added 1 new method: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;]
+[19:04:13] [Client thread/INFO]: Successfully patched.
+[19:04:13] [Forge Version Check/INFO]: [fastleafdecay] Found status: UP_TO_DATE Target: null
+[19:04:13] [Forge Version Check/INFO]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.buffer.BlockBuffer from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.buffer.BlockBuffer
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.farm.BlockFarmStation from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.farm.BlockFarmStation
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.generator.combustion.BlockCombustionGenerator from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.generator.combustion.BlockCombustionGenerator
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.generator.stirling.BlockStirlingGenerator from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.generator.stirling.BlockStirlingGenerator
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.generator.lava.BlockLavaGenerator from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.generator.lava.BlockLavaGenerator
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.painter.BlockPainter from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.painter.BlockPainter
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.sagmill.BlockSagMill from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.sagmill.BlockSagMill
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.slicensplice.BlockSliceAndSplice from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.slicensplice.BlockSliceAndSplice
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.soul.BlockSoulBinder from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.soul.BlockSoulBinder
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.spawner.BlockPoweredSpawner from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.spawner.BlockPoweredSpawner
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.vat.BlockVat from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.vat.BlockVat
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.wired.BlockWiredCharger from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.wired.BlockWiredCharger
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.wireless.BlockWirelessCharger from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.wireless.BlockWirelessCharger
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.tank.BlockTank from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.tank.BlockTank
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.transceiver.BlockTransceiver from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.transceiver.BlockTransceiver
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.vacuum.chest.BlockVacuumChest from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.vacuum.chest.BlockVacuumChest
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.vacuum.xp.BlockXPVacuum from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.vacuum.xp.BlockXPVacuum
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.niard.BlockNiard from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.niard.BlockNiard
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.teleport.anchor.BlockTravelAnchor from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.teleport.anchor.BlockTravelAnchor
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.teleport.telepad.BlockTelePad from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.teleport.telepad.BlockTelePad
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.crafter.BlockCrafter from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.crafter.BlockCrafter
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.spawner.creative.BlockCreativeSpawner from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.spawner.creative.BlockCreativeSpawner
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.powertools.machine.capbank.BlockCapBank from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.powertools.machine.capbank.BlockCapBank
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.powertools.machine.capbank.BlockItemCapBank from implemented interfaces: [crazypants/enderio/base/power/forge/item/IInternalPoweredItem]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.powertools.machine.capbank.BlockItemCapBank
+[19:04:14] [Client thread/INFO]: Added 1 new method: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.powertools.machine.monitor.BlockPowerMonitor from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[19:04:14] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.powertools.machine.monitor.BlockPowerMonitor
+[19:04:14] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[19:04:14] [Client thread/INFO]: Successfully patched.
+[19:04:14] [Forge Version Check/INFO]: [cofhworld] Found status: UP_TO_DATE Target: null
+[19:04:14] [Forge Version Check/INFO]: [thermalexpansion] Starting version check at https://raw.github.com/cofh/version/master/thermalexpansion_update.json
+[19:04:14] [Client thread/INFO]: Applying holder lookups
+[19:04:14] [Client thread/INFO]: Holder lookups applied
+[19:04:14] [Client thread/WARN]: TConstruct, you fail again, muhaha! The world is mine, mine!
+[19:04:15] [Forge Version Check/INFO]: [thermalexpansion] Found status: UP_TO_DATE Target: null
+[19:04:15] [Forge Version Check/INFO]: [jeiintegration] Starting version check at https://content.blamesnow.co.uk/mods/jeiintegration/update.json
+[19:04:15] [Client thread/INFO]: Loaded compatibility for mod Baubles.
+[19:04:15] [Client thread/INFO]: Loaded compatibility for mod Chisel.
+[19:04:15] [Client thread/INFO]: Skipped compatibility for mod Forestry.
+[19:04:15] [Client thread/INFO]: Loaded compatibility for mod Immersive Engineering.
+[19:04:15] [Client thread/INFO]: Loaded compatibility for mod Just Enough Items.
+[19:04:15] [Client thread/INFO]: Loaded compatibility for mod Tinkers' Construct.
+[19:04:15] [Client thread/INFO]: Skipped compatibility for mod Thaumcraft.
+[19:04:17] [Client thread/INFO]: Welcome to the World of the supreme principle of Mana
+[19:04:17] [Client thread/INFO]: Done loading config from local JSON file
+[19:04:17] [Client thread/INFO]: Done loading config from source
+[19:04:17] [Client thread/INFO]: Done loading all materials from local JSON files
+[19:04:17] [Client thread/INFO]: Done loading all materials from source
+[19:04:17] [Client thread/INFO]: Done loading all material traits from local JSON files
+[19:04:17] [Client thread/INFO]: Done loading all material traits from source
+[19:04:17] [Client thread/INFO]: Done loading all ore dictionary entries from local JSON files
+[19:04:17] [Client thread/INFO]: Done loading all ore dictionary entries from source
+[19:04:17] [Client thread/INFO]: Done loading all alloys from local JSON files
+[19:04:17] [Client thread/INFO]: Done loading all alloys from source
+[19:04:17] [Client thread/INFO]: Done saving config to local JSON file
+[19:04:17] [Client thread/INFO]: Done saving all materials to local JSON files
+[19:04:17] [Client thread/INFO]: Done saving all material traits to local JSON files
+[19:04:17] [Client thread/INFO]: Done saving all ore dictionary entries to local JSON files
+[19:04:17] [Client thread/INFO]: Done saving all alloys to local JSON files
+[19:04:17] [Client thread/INFO]: [AssetLibrary] Refreshing and Invalidating Resources
+[19:04:17] [Client thread/INFO]: [AssetLibrary] Finished reloading, rebinding textures...
+[19:04:17] [Client thread/INFO]: [AssetLibrary] Preload mandatory textures
+[19:04:17] [Client thread/INFO]: [AssetLibrary] Preload textures
+[19:04:18] [Client thread/INFO]: [AssetLibrary] Initializing sprite library
+[19:04:18] [Client thread/INFO]: [AssetLibrary] Texture Preloading took 994ms!
+[19:04:18] [Client thread/INFO]: [AssetLibrary] Successfully reloaded and rebound library.
+[19:04:18] [Client thread/INFO]: OBJLoader: Domain astralsorcery has been added.
+[19:04:19] [Client thread/INFO]: Crafttweaker found! Adding recipe handlers...
+[19:04:19] [Client thread/INFO]: Access transform success createStackedBlock (func_180643_i).
+[19:04:19] [Client thread/INFO]: Loading configuration
+[19:04:19] [Client thread/INFO]: Trying to tell Waila about us
+[19:04:19] [Client thread/INFO]: Trying to tell CraftTweaker2 about us
+[19:04:19] [Client thread/INFO]: 
+[19:04:19] [Client thread/INFO]: Starting BuildCraft 7.99.24.6
+[19:04:19] [Client thread/INFO]: Copyright (c) the BuildCraft team, 2011-2018
+[19:04:19] [Client thread/INFO]: https://www.mod-buildcraft.com
+[19:04:19] [Client thread/INFO]: Detailed Build Information:
+[19:04:19] [Client thread/INFO]:   Branch HEAD
+[19:04:19] [Client thread/INFO]:   Commit 28b89ad8936f9d6c1ad00a7491453f68fc683232
+[19:04:19] [Client thread/INFO]:     Update Localisation, changelog and version for 7.99.24.6
+[19:04:19] [Client thread/INFO]:     committed by AlexIIL
+[19:04:19] [Client thread/INFO]: 
+[19:04:19] [Client thread/INFO]: Loaded Modules:
+[19:04:19] [Client thread/INFO]:   - lib
+[19:04:19] [Client thread/INFO]:   - core
+[19:04:19] [Client thread/INFO]:   - builders
+[19:04:19] [Client thread/INFO]:   - energy
+[19:04:19] [Client thread/INFO]:   - factory
+[19:04:19] [Client thread/INFO]:   - robotics
+[19:04:19] [Client thread/INFO]:   - silicon
+[19:04:19] [Client thread/INFO]:   - transport
+[19:04:19] [Client thread/INFO]:   - compat
+[19:04:19] [Client thread/INFO]: Missing Modules:
+[19:04:19] [Client thread/INFO]: 
+[19:04:20] [Client thread/INFO]: [debugger] Not a dev environment!
+[19:04:20] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[19:04:21] [Client thread/INFO]: 
+[19:04:21] [Client thread/INFO]: Starting BuildCraftCompat 7.99.24.6
+[19:04:21] [Client thread/INFO]: Copyright (c) the BuildCraft team, 2011-2017
+[19:04:21] [Client thread/INFO]: https://www.mod-buildcraft.com
+[19:04:21] [Client thread/INFO]: Detailed Build Information:
+[19:04:21] [Client thread/INFO]:   Branch 8.0.x-1.12.2
+[19:04:21] [Client thread/INFO]:   Commit 3ce2fe3c5d1a541dcc0db3285bdb840e44615cde
+[19:04:21] [Client thread/INFO]:     Update BC for 7.99.24.6
+[19:04:21] [Client thread/INFO]:     committed by AlexIIL
+[19:04:21] [Client thread/INFO]: 
+[19:04:21] [Client thread/INFO]: [compat] Module list:
+[19:04:21] [Client thread/INFO]: [compat]   x forestry (It cannot load)
+[19:04:21] [Client thread/INFO]: [compat]   x theoneprobe (It cannot load)
+[19:04:21] [Client thread/INFO]: [compat]   + crafttweaker
+[19:04:21] [Client thread/INFO]: Reloading fakeplayers stage data from gameStagesFakePlayerData.json.
+[19:04:22] [Client thread/WARN]: Applied Energistics conduits loaded. Let your networks connect!
+[19:04:22] [Client thread/WARN]: OpenComputers conduits NOT loaded. OpenComputers is not installed
+[19:04:22] [Client thread/WARN]: Refined Storage conduits NOT loaded. Refined Storage is not installed
+[19:04:22] [Client thread/WARN]: Forestry integration NOT loaded. Forestry is not installed
+[19:04:22] [Client thread/WARN]: Replacing com.feed_the_beast.ftblib.lib.config.DefaultRankConfigHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
+[19:04:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ender chest`, expected `enderstorage`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ender tank`, expected `enderstorage`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:22] [Client thread/INFO]: [com.valkyrieofnight.vliblegacy.m_guide.item.ItemGuide:getGuiRegistryObject:26]: com.valkyrieofnight.vliblegacy.m_guide.item.ItemGuide$GuiRegistryID@665fb2df
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: java.io.FileNotFoundException: https://raw.githubusercontent.com/ValkyrieofNight/ValkyrieLib/ValkyrieofNight-supporters/supporters.json
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1890)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:91)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1484)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1482)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1481)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:263)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at java.net.URL.openStream(URL.java:1045)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry.download(JsonSupporterRegistry.java:60)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry.loadRegistryData(JsonSupporterRegistry.java:39)
+[19:04:22] [Thread-9/INFO]: [com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry:download:66]: 	at com.valkyrieofnight.vlib.supporters.download.SupporterRegistryThread.run(SupporterRegistryThread.java:18)
+[19:04:22] [Thread-9/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.NullPointerException
+[19:04:22] [Thread-9/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at com.valkyrieofnight.vlib.supporters.registry.JsonSupporterRegistry.loadRegistryData(JsonSupporterRegistry.java:46)
+[19:04:22] [Thread-9/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at com.valkyrieofnight.vlib.supporters.download.SupporterRegistryThread.run(SupporterRegistryThread.java:18)
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ec_pedestal`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ec_crafting_core`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ec_automation_interface`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ec_basic_table`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ec_advanced_table`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ec_elite_table`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ec_ultimate_table`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ec_compressor`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `extendedcraftingender_crafter`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:23] [Client thread/INFO]: Enable integration for 'waila (waila)'
+[19:04:23] [Client thread/INFO]: Enable integration for 'MekanismGas (MekanismAPI|gas)'
+[19:04:23] [Client thread/INFO]: Enable integration for 'mekanism (mekanism)'
+[19:04:23] [Client thread/INFO]: Enable integration for 'AE2 Wireless Crafting Terminal (wct)'
+[19:04:23] [Client thread/INFO]: Enable integration for 'Just Enough Items (jei)'
+[19:04:23] [Client thread/INFO]: OBJLoader: Domain extracells has been added.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Itemstack 1xitem.null@17 cannot represent material xu_evil_metal since it is not associated with the material!
+[19:04:24] [Client thread/WARN]: Itemstack 1xitem.null@12 cannot represent material xu_enchanted_metal since it is not associated with the material!
+[19:04:24] [Client thread/WARN]: Itemstack 1xitem.null@11 cannot represent material xu_demonic_metal since it is not associated with the material!
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilechunkloader`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativechest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeharvest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/WARN]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:24] [Client thread/INFO]: Loaded support for thermalexpansion
+[19:04:24] [Client thread/INFO]: Loaded support for mekanism
+[19:04:24] [Client thread/INFO]: Removing LaunchWrapper package manifest map...
+[19:04:24] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.client.model.ItemLayerModel.bake
+[19:04:25] [Client thread/WARN]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
+[19:04:25] [Client thread/INFO]: OBJLoader: Domain immersiveengineering has been added.
+[19:04:25] [Client thread/INFO]: Custom OBJLoader: Domain has been added: immersiveengineering
+[19:04:26] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[19:04:26] [Client thread/WARN]: A mod has attempted to assign Block Block{minecraft:air} to the Fluid 'oil' but this Fluid has already been linked to the Block Block{minecraft:air}. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
+[19:04:26] [Client thread/ERROR]: Error registering event handler: FMLMod:immersivepetroleum{1.1.9} class blusunrize.immersiveengineering.api.MultiblockHandler$MultiblockFormEvent public void flaxbeard.immersivepetroleum.common.items.ItemProjector.handleMultiblockComplete(blusunrize.immersiveengineering.api.MultiblockHandler$MultiblockFormEvent)
+java.lang.InstantiationException: null
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48) ~[?:1.8.0_202]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_202]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:130) [EventBus.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:112) [EventBus.class:?]
+	at flaxbeard.immersivepetroleum.common.items.ItemProjector.<init>(ItemProjector.java:73) [ItemProjector.class:?]
+	at flaxbeard.immersivepetroleum.common.IPContent.preInit(IPContent.java:146) [IPContent.class:?]
+	at flaxbeard.immersivepetroleum.ImmersivePetroleum.preInit(ImmersivePetroleum.java:55) [ImmersivePetroleum.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_202]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_202]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_202]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_202]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_202]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_202]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_202]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_202]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_202]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_202]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_202]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_202]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_202]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_202]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:04:26] [Client thread/INFO]: OBJLoader: Domain immersivetech has been added.
+[19:04:26] [Client thread/INFO]: Custom OBJLoader: Domain has been added: immersivetech
+[19:04:26] [Client thread/ERROR]: WireType#init was called by Immersive Tech (immersivetech)!
+[19:04:26] [Client thread/ERROR]: The method should only be called by Immersive Engineering, calls from other mods will cause many hard-to-debug issues and are therefore forbidden!
+[19:04:26] [Client thread/ERROR]: Please report this as a bug to Immersive Tech
+[19:04:27] [Client thread/INFO]: OBJLoader: Domain industrialforegoing has been added.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `apple`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `wheat`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `carrot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `melon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `clownfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pufferfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `baked_potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:04:28] [Client thread/INFO]: Loading configs..
+[19:04:28] [Client thread/INFO]: Updating ModMetaData...
+[19:04:28] [Client thread/INFO]: Providing API...
+[19:04:28] [Forge Version Check/INFO]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[19:04:28] [Client thread/INFO]: Presented by Zaia
+[19:04:28] [Forge Version Check/INFO]: [codechickenlib] Found status: BETA Target: null
+[19:04:28] [Forge Version Check/INFO]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json

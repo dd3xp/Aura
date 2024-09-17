@@ -1,0 +1,1 @@
+waypoint:od:O:-5823:64:-5525:4:false:0:gui.xaero_default:false:0

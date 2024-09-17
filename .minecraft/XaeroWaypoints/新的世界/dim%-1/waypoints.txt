@@ -1,0 +1,4 @@
+waypoint:Fortress:F:125:53:805:11:true:0:gui.xaero_default:false:0
+waypoint:Fortress:F:18:56:-162:12:true:0:gui.xaero_default:false:0
+waypoint:od:O:271:70:275:6:true:0:gui.xaero_default:false:0
+waypoint:diaoling:D:272:36:305:5:true:0:gui.xaero_default:false:0

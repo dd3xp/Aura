@@ -1,0 +1,3 @@
+waypoint:fortress:F:2524:59:-3028:1:true:0:gui.xaero_default:false:0
+waypoint:overworld:O:-5:92:6:8:true:0:gui.xaero_default:false:0
+waypoint:Fortress:F:370:63:331:12:true:0:gui.xaero_default:false:0

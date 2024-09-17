@@ -1,0 +1,2 @@
+waypoint:Fortress:F:366:84:-1393:6:false:0:gui.xaero_default:false:0
+waypoint:NetherDoor:N:601:67:-1062:10:false:0:gui.xaero_default:false:0

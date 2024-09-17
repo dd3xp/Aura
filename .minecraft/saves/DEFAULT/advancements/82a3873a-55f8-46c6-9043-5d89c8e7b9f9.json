@@ -1,0 +1,32 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2024-08-24 05:39:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-24 05:39:29 +0800"
+    },
+    "done": true
+  },
+  "extrabotany:main/buddhistrelics": {
+    "criteria": {
+      "ebt_trigger": "2024-08-24 05:39:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2024-08-24 05:39:32 +0800"
+    },
+    "done": false
+  },
+  "extrabotany:main/armorsetcombat": {
+    "criteria": {
+      "ebt_trigger": "2024-08-24 05:39:30 +0800"
+    },
+    "done": true
+  }
+}

@@ -1,0 +1,6 @@
+waypoint:Home:H:-2828:53:2523:8:false:0:gui.xaero_default:false:0
+waypoint:Wild:W:4825:65:-8493:0:false:0:gui.xaero_default:false:0
+waypoint:Ocean:O:-1369:56:-953:13:false:0:gui.xaero_default:false:0
+waypoint:Gaia:G:9023:67:-3317:5:false:0:gui.xaero_default:false:0
+waypoint:EndDoor:E:-1343:37:-1068:5:false:0:gui.xaero_default:false:0
+waypoint:Home2:H:9275:66:-10957:14:false:0:gui.xaero_default:false:0

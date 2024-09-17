@@ -1,0 +1,415 @@
+[16:24:18] [main/INFO]: LiteLoader 1.12.2 starting up...
+[16:24:18] [main/INFO]: Active Pack: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
+[16:24:18] [main/INFO]: Java reports OS="windows 10"
+[16:24:18] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[16:24:18] [main/INFO]: Enumerating class path...
+[16:24:18] [main/INFO]: Class path separator=";"
+[16:24:18] [main/INFO]: Class path entries=(
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mumfrey\liteloader\1.12.2-20171128.144431-4\liteloader-1.12.2-20171128.144431-4.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_F4\OptiFine-1.12.2_HD_U_F4.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+   classpathEntry=C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\versions\1.12.2\1.12.2.jar
+)
+[16:24:18] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[16:24:18] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods]
+[16:24:18] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\1.12.2]
+[16:24:18] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@695a69a1]
+[16:24:18] [main/INFO]: Discovering valid mod files in folder C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ActuallyAdditions-1.12.2-r151-2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ActuallyAdditions-1.12.2-r151-2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ae2stuff-0.7.0.4-mc1.12.2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ae2stuff-0.7.0.4-mc1.12.2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'AE2WTLib-1.12.2-1.0.34.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\AE2WTLib-1.12.2-1.0.34.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'AppleSkin-mc1.12-1.0.9.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\AppleSkin-mc1.12-1.0.9.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'appliedenergistics2-rv6-stable-7.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'astralsorcery-1.12.2-1.10.23.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\astralsorcery-1.12.2-1.10.23.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Avaritia-1.12.2-3.3.0.33-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Avaritia-1.12.2-3.3.0.33-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'avaritiarecipemaker-1.0.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\avaritiarecipemaker-1.0.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Baubles-1.12-1.5.2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Baubles-1.12-1.5.2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'bdlib-1.14.3.12-mc1.12.2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\bdlib-1.14.3.12-mc1.12.2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'blockdrops-1.12.2-1.4.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\blockdrops-1.12.2-1.4.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'bonsaitrees-1.1.4-b170.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\bonsaitrees-1.1.4-b170.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Bookshelf-1.12.2-2.3.581.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Bookshelf-1.12.2-2.3.581.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'buildcraft-all-7.99.24.6.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\buildcraft-all-7.99.24.6.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Chameleon-1.12-4.1.3.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Chameleon-1.12-4.1.3.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'chickens-6.1.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\chickens-6.1.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Chisel-MC1.12.2-1.0.2.45.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Chisel-MC1.12.2-1.0.2.45.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ClayBucket-1.12-1.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ClayBucket-1.12-1.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'CodeChickenLib-1.12.2-3.2.3.358-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'CoFHCore-1.12.2-4.6.6.1-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\CoFHCore-1.12.2-4.6.6.1-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'CoFHWorld-1.12.2-1.4.0.1-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\CoFHWorld-1.12.2-1.4.0.1-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'CompactDrawers-1.12.2-1.0.5.125.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\CompactDrawers-1.12.2-1.0.5.125.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'CookingForBlockheads_1.12.2-6.5.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\CookingForBlockheads_1.12.2-6.5.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'CraftTweaker2-1.12-4.1.19.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\CraftTweaker2-1.12-4.1.19.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'CTM-MC1.12.2-1.0.2.31.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\CTM-MC1.12.2-1.0.2.31.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'CustomSkinLoader_Forge-14.9.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\CustomSkinLoader_Forge-14.9.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'denseneutroncollectors-1.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\denseneutroncollectors-1.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'embers-0.230.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\embers-0.230.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'EnchantingPlus-1.12.2-5.0.176.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\EnchantingPlus-1.12.2-5.0.176.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'EnderCore-1.12.2-0.5.73.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\EnderCore-1.12.2-0.5.73.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'EnderIO-1.12.2-5.1.55.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\EnderIO-1.12.2-5.1.55.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'EnderStorage-1.12.2-2.4.6.137-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\EnderStorage-1.12.2-2.4.6.137-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'environmentaltech-1.12.2-2.0.20.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\environmentaltech-1.12.2-2.0.20.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'eternalsingularity-1.12.2-1.0.6.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\eternalsingularity-1.12.2-1.0.6.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'etlunar-1.12.2-2.0.20.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\etlunar-1.12.2-2.0.20.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ExtraCells-1.12.2-2.6.5.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ExtraCells-1.12.2-2.6.5.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'extrautils2-1.12-1.9.9.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\extrautils2-1.12-1.9.9.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'FastLeafDecay-v14.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\FastLeafDecay-v14.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Forgelin-1.8.4.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Forgelin-1.8.4.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'FTBLib-5.4.7.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\FTBLib-5.4.7.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'FTBQuests-1.8.0.237.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\FTBQuests-1.8.0.237.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'FTBUtilities-5.4.0.124.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\FTBUtilities-5.4.0.124.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'GameStages-1.12.2-2.0.115.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\GameStages-1.12.2-2.0.115.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Hwyla-1.8.26-B41_1.12.2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ImmersiveEngineering-0.12-92.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ImmersiveEngineering-0.12-92.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'immersivepetroleum-1.12.2-1.1.9.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\immersivepetroleum-1.12.2-1.1.9.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'immersivetech-1.12-1.3.10.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\immersivetech-1.12-1.3.10.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'industrialforegoing-1.12.2-1.12.13-237.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\industrialforegoing-1.12.2-1.12.13-237.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'InventoryTweaks-1.63.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\InventoryTweaks-1.63.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ironchest-1.12.2-7.0.72.847.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ItemFilters-1.0.3.12.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ItemFilters-1.0.3.12.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ItemStages-1.12.2-2.0.49.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ItemStages-1.12.2-2.0.49.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'jeiintegration_1.12.2-1.5.1.36.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\jeiintegration_1.12.2-1.5.1.36.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'jeivillagers-1.12-1.0.2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\jeivillagers-1.12-1.0.2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'jei_1.12.2-4.15.0.293.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\jei_1.12.2-4.15.0.293.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'jetif-1.12.2-1.5.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\jetif-1.12.2-1.5.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'just-enough-harvestcraft-1.12.2-1.7.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\just-enough-harvestcraft-1.12.2-1.7.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'JustEnoughCharacters-1.12.0-3.4.7.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\JustEnoughCharacters-1.12.0-3.4.7.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'JustEnoughResources-1.12.2-0.9.2.60.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\JustEnoughResources-1.12.2-0.9.2.60.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'LargeFluidTank-12.5.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\LargeFluidTank-12.5.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'lootcapacitortooltips-1.3.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\lootcapacitortooltips-1.3.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Mantle-1.12-1.3.3.55.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Mantle-1.12-1.3.3.55.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Mekanism-1.12.2-9.8.3.390.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Mekanism-1.12.2-9.8.3.390.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'MekanismGenerators-1.12.2-9.8.3.390.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\MekanismGenerators-1.12.2-9.8.3.390.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'mekores-2.0.13.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\mekores-2.0.13.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'MMLib-1.3.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\MMLib-1.3.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'modtweaker-4.0.18.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\modtweaker-4.0.18.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'morechickens-1.12.2-3.1.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\morechickens-1.12.2-3.1.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'MTLib-3.0.6.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\MTLib-3.0.6.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'NaturesAura-18.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\NaturesAura-18.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Neat+1.4-17.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Neat+1.4-17.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'OpenBlocks-1.12.2-1.8.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\OpenBlocks-1.12.2-1.8.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'OpenModsLib-1.12.2-0.12.2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\OpenModsLib-1.12.2-0.12.2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'OreExcavation-1.4.140.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\OreExcavation-1.4.140.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'p455w0rdslib-1.12.2-2.3.161.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\p455w0rdslib-1.12.2-2.3.161.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Pam's+HarvestCraft+1.12.2zg.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Pam's+HarvestCraft+1.12.2zg.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Patchouli-1.0-20.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Patchouli-1.0-20.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'plustic-8.0.1.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\plustic-8.0.1.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'RandomThings-MC1.12.2-4.2.7.3.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\RandomThings-MC1.12.2-4.2.7.3.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'RedstoneArsenal-1.12.2-2.6.6.1-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\RedstoneArsenal-1.12.2-2.6.6.1-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'RedstoneFlux-1.12-2.1.1.1-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\RedstoneFlux-1.12-2.1.1.1-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'roost-1.12.2-2.0.10.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\roost-1.12.2-2.0.10.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Sakura-0.0.9.3-1.12.2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Sakura-0.0.9.3-1.12.2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Sky-Compression-1.2.2.5.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Sky-Compression-1.2.2.5.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'skyresources-2.3.9.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\skyresources-2.3.9.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'StorageDrawers-1.12.2-5.4.2.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\StorageDrawers-1.12.2-5.4.2.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'StorageDrawersExtras-1.12-3.1.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\StorageDrawersExtras-1.12-3.1.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'TConstruct-1.12.2-2.13.0.183.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\TConstruct-1.12.2-2.13.0.183.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'tesla-core-lib-1.12.2-1.0.17.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\tesla-core-lib-1.12.2-1.0.17.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ThermalDynamics-1.12.2-2.5.6.1-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ThermalDynamics-1.12.2-2.5.6.1-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ThermalExpansion-1.12.2-5.5.7.1-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ThermalExpansion-1.12.2-5.5.7.1-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'ThermalFoundation-1.12.2-2.6.7.1-universal.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\ThermalFoundation-1.12.2-2.6.7.1-universal.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'TinkerToolLeveling-1.12.2-1.1.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\TinkerToolLeveling-1.12.2-1.1.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'tinker_io-1.12.2-rw2.8.1a.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\tinker_io-1.12.2-rw2.8.1a.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Totemic-1.12.2-0.11.6.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Totemic-1.12.2-0.11.6.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'TreeGrowingSimulator2017-1.0.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\TreeGrowingSimulator2017-1.0.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'valkyrielib-1.12.2-2.0.20.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\valkyrielib-1.12.2-2.0.20.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'voidislandcontrol-1.5.3.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\voidislandcontrol-1.5.3.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'WailaHarvestability-mc1.12-1.1.12.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\WailaHarvestability-mc1.12-1.1.12.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'WanionLib-1.12.2-2.4.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\WanionLib-1.12.2-2.4.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Wawla-1.12.2-2.6.275 (1).jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Wawla-1.12.2-2.6.275 (1).jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'WirelessCraftingTerminal-1.12.2-3.12.97.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\WirelessCraftingTerminal-1.12.2-3.12.97.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in 'Xaeros_Minimap_1.19.5_Forge_1.12.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\Xaeros_Minimap_1.19.5_Forge_1.12.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in '[1.12.2]bspkrscore-universal-8.0.1.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\[1.12.2]bspkrscore-universal-8.0.1.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in '[1.12]ArmorStatusHUD-client-1.43.0.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\[1.12]ArmorStatusHUD-client-1.43.0.jar
+[16:24:18] [main/INFO]: Inspecting jar metadata in '[自动汉化]i18nupdatemod-1.12.2-1.0.8.jar'
+[16:24:18] [main/INFO]: Ignoring C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\[自动汉化]i18nupdatemod-1.12.2-1.0.8.jar
+[16:24:18] [main/INFO]: Discovering valid mod files in folder C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\1.12.2
+[16:24:18] [main/INFO]: Discovering tweaks on class path...
+[16:24:18] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
+[16:24:18] [main/INFO]: Registering discovered mod files in folder C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods
+[16:24:18] [main/INFO]: Registering discovered mod files in folder C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\mods\1.12.2
+[16:24:18] [main/INFO]: Initialising LiteLoader Mixins
+[16:24:18] [main/INFO]: LiteLoader PREINIT complete
+[16:24:22] [main/INFO]: FML detected, switching to searge mappings
+[16:26:52] [Client thread/INFO]: JInput Component Registry is initialising...
+[16:26:53] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Keyboard controller PS/2 ±ê׼¼ü on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Mouse controller PS/2 Port Compatible Pointing Device on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Corsair Gaming K55 RGB Keyboard on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Corsair Gaming K55 RGB Keyboard on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller HIDI2C Device on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller ÒÑת»»±ãЯʽÉ豸¿ØÖ on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Corsair Gaming K55 RGB Keyboard on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Corsair Gaming K55 RGB Keyboard on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller ÒÑת»»±ãЯʽÉ豸¿ØÖ on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller Intel(R) HID Event Filter on Unknown...
+[16:26:53] [Client thread/INFO]: Inspecting Unknown controller MI Mouse A1w on Unknown...
+[16:26:53] [Client thread/INFO]: JInput Component Registry initialised, found 32 controller(s) 529 component(s)
+[16:26:53] [Client thread/INFO]: LiteLoader begin INIT...
+[16:26:53] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
+[16:26:53] [Client thread/INFO]: Injecting external mods into class path...
+[16:26:53] [Client thread/INFO]: Injecting external mods into class path...
+[16:26:53] [Client thread/INFO]: Discovering mods on class path...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\mumfrey\liteloader\1.12.2-20171128.144431-4\liteloader-1.12.2-20171128.144431-4.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_F4\OptiFine-1.12.2_HD_U_F4.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar...
+[16:26:53] [Client thread/INFO]: Searching C:\Users\张景铭\Desktop\lxr\mc\自然灵气整合包\.minecraft\versions\1.12.2\1.12.2.jar...
+[16:26:53] [Client thread/INFO]: Discovering mods in valid mod files...
+[16:26:53] [Client thread/INFO]: Discovering mods in valid mod files...
+[16:26:53] [Client thread/INFO]: Mod class discovery completed
+[16:26:53] [Client thread/INFO]: LiteLoader begin POSTINIT...
+[16:26:53] [Client thread/INFO]: Inhibiting sound handler reload
+[16:26:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient for API LiteLoader core API
+[16:26:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
+[16:26:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[16:26:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[16:26:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
+[16:26:53] [Client thread/INFO]: Discovered 0 total mod(s), injected 0 tweak(s)
+[16:26:53] [Client thread/INFO]: No mod classes were found. Not loading any mods.
+[16:30:13] [Client thread/INFO]: Baking listener list for ViewportListener with 0 listeners
+[16:30:13] [Client thread/INFO]: Sound handler reload inhibit removed
+[16:30:13] [Client thread/INFO]: Reloading sound handler
+[16:30:18] [Client thread/INFO]: Baking listener list for GameLoopListener with 0 listeners
+[16:30:18] [Client thread/INFO]: Baking listener list for RenderListener with 0 listeners
+[16:30:19] [Client thread/INFO]: Baking listener list for TickObserver with 3 listeners
+[16:30:19] [Client thread/INFO]: Baking listener list for PostRenderObserver with 3 listeners
+[16:30:19] [Client thread/INFO]: Baking listener list for Tickable with 0 listeners
+[16:30:19] [Client thread/INFO]: Baking listener list for FrameBufferListener with 0 listeners
+[16:32:25] [Client thread/INFO]: Baking listener list for ServerCommandProvider with 0 listeners
+[16:35:15] [Server thread/INFO]: Baking listener list for IEventState with 0 listeners
+[16:35:15] [Server thread/INFO]: Baking listener list for ServerTickable with 0 listeners
+[16:35:16] [Netty Server IO #1/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[16:35:16] [Netty Server IO #1/INFO]: Successfully generated event handler proxy class with 124 handlers(s) and 124 total invocations
+[16:35:17] [Netty Local Client IO #0/INFO]: Baking listener list for PostLoginListener with 0 listeners
+[16:35:17] [Server thread/INFO]: Baking listener list for ServerPlayerListener with 0 listeners
+[16:35:17] [Server thread/INFO]: Baking listener list for IEventState with 1 listeners
+[16:35:18] [Client thread/INFO]: Baking listener list for PreJoinGameListener with 0 listeners
+[16:35:34] [Client thread/INFO]: Baking listener list for JoinGameListener with 0 listeners
+[16:35:35] [Client thread/INFO]: Baking listener list for PreRenderListener with 0 listeners
+[16:35:35] [Client thread/INFO]: Baking listener list for PostRenderListener with 0 listeners
+[16:35:35] [Client thread/INFO]: Baking listener list for HUDRenderListener with 0 listeners
+[16:35:36] [Client thread/INFO]: Baking listener list for WorldObserver with 2 listeners

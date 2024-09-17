@@ -1,0 +1,68 @@
+[17:09:27] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:09:27] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:09:27] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[17:09:27] [main/WARN]: Tweak class name optifine.OptiFineForgeTweaker has already been visited -- skipping
+[17:09:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:09:27] [main/INFO]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[17:09:27] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy
+[17:09:27] [main/WARN]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[17:09:27] [main/WARN]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[17:09:27] [main/INFO]: Searching D:\Minecraft\AuraForAdmin\.minecraft\mods for mods
+[17:09:27] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.23.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:27] [main/WARN]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:27] [main/INFO]: [AstralCore] Initialized.
+[17:09:27] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[17:09:27] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:27] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:27] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[17:09:27] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CustomSkinLoader_Forge-14.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:27] [main/WARN]: The coremod customskinloader.forge.ForgePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:27] [main/WARN]: The coremod ForgePlugin (customskinloader.forge.ForgePlugin) is not signed!
+[17:09:27] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.14-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:27] [main/WARN]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:27] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:27] [main/WARN]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:27] [main/WARN]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[17:09:27] [main/INFO]: Loading tweaker i18nupdatemod.launchwrapper.LaunchWrapperTweaker from I18nUpdateMod-3.5.2-all.jar
+[17:09:27] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:27] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:27] [main/WARN]: The coremod me.towdium.jecharacters.core.JechCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:27] [main/WARN]: The coremod JechCore (me.towdium.jecharacters.core.JechCore) is not signed!
+[17:09:27] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:27] [main/WARN]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:27] [main/WARN]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[17:09:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:28] [main/WARN]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in RandomThings-MC1.12.2-4.2.7.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:09:28] [main/WARN]: The coremod lumien.randomthings.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:28] [main/WARN]: The coremod JaideepSinghHeer.Minecraft.mod.ServerPropertiesLAN does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:28] [main/WARN]: The coremod ServerPropertiesLAN (JaideepSinghHeer.Minecraft.mod.ServerPropertiesLAN) is not signed!
+[17:09:28] [main/INFO]: [JaideepSinghHeer.Minecraft.mod.ServerPropertiesLAN:<init>:72]: -=-=-=-=-=-=-=ServerPropertiesLAN-Constructed=-=-=-=-=-=-=-
+[17:09:28] [main/WARN]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:09:28] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-forge-mc1.12.2-0.2.7-universal.jar
+[17:09:28] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[17:09:28] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[17:09:28] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[17:09:28] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[17:09:28] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: D:\Minecraft\AuraForAdmin\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_G5\OptiFine-1.12.2_HD_U_G5-installer.jar
+[17:09:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:09:28] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[17:09:28] [main/INFO]: Loading tweak class name i18nupdatemod.launchwrapper.LaunchWrapperTweaker
+[17:09:28] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[17:09:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/Minecraft/AuraForAdmin/.minecraft/mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar Service=LaunchWrapper Env=CLIENT
+[17:09:28] [main/DEBUG]: Instantiating coremod class PhosphorFMLLoadingPlugin
+[17:09:28] [main/DEBUG]: The coremod me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[17:09:28] [main/WARN]: The coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin) is not signed!
+[17:09:28] [main/DEBUG]: Enqueued coremod PhosphorFMLLoadingPlugin
+[17:09:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:09:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:09:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:09:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:09:28] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[17:09:28] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[17:09:28] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[17:09:28] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[17:09:28] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[17:09:28] [main/DEBUG]: Injection complete
+[17:09:28] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[17:09:28] [main/DEBUG]: Running coremod plugin FMLCorePlugin

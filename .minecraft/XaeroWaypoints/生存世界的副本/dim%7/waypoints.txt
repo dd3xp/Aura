@@ -1,0 +1,1 @@
+waypoint:TwilightForestDoor:T:4831:34:-8488:13:false:0:gui.xaero_default:false:0

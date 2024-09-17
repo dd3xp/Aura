@@ -1,0 +1,123 @@
+{
+    "HurtByTimestamp": 0,
+    "ForgeData": {
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "Attributes": [
+        {
+            "Base": 20.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.25d,
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.armor"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.armorToughness"
+        },
+        {
+            "Base": 1.0d,
+            "Name": "forge.swimSpeed"
+        },
+        {
+            "Base": 16.0d,
+            "Modifiers": [
+                {
+                    "UUIDMost": 6853167862310390819L,
+                    "UUIDLeast": -9087668862781294838L,
+                    "Amount": -0.06421189977120591d,
+                    "Operation": 1,
+                    "Name": "Random spawn bonus"
+                }
+            ],
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 4.0d,
+            "Name": "generic.attackDamage"
+        }
+    ],
+    "Invulnerable": 0b,
+    "FallFlying": 0b,
+    "PortalCooldown": 0,
+    "AbsorptionAmount": 0.0f,
+    "FallDistance": 0.0f,
+    "ModRev": 1,
+    "DeathTime": 0s,
+    "ForgeCaps": {
+        "twilightforest:cap_shield": {
+            "permshields": 0,
+            "tempshields": 0
+        },
+        "flammpfeil.slashblade:mobeffect": {
+            "FreezeTimeout": -1L,
+            "StunTimeout": -1L
+        }
+    },
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "PersistenceRequired": 0b,
+    "id": "minecraft:wither_skeleton",
+    "Motion": [
+        0.0558032809034201d,
+        0.014943999485015836d,
+        0.0d
+    ],
+    "Leashed": 0b,
+    "Health": 20.0f,
+    "LeftHanded": 0b,
+    "Air": 300s,
+    "OnGround": 0b,
+    "Dimension": 0,
+    "Rotation": [
+        -149.62491f,
+        0.0f
+    ],
+    "UpdateBlocked": 0b,
+    "HandItems": [
+        {
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            },
+            "id": "minecraft:stone_sword",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+        }
+    ],
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "Fire": -1s,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "CanPickUpLoot": 0b,
+    "HurtTime": 0s
+}

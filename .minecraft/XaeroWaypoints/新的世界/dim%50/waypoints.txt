@@ -1,0 +1,2 @@
+waypoint:od:O:-5826:69:-5547:4:false:0:gui.xaero_default:false:0
+waypoint:www:W:-7389:33:-3635:8:false:0:gui.xaero_default:false:0
