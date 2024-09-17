@@ -1,0 +1,384 @@
+[19:03:47.820] [Start] 程序版本：Release 2.8.6 (336)
+[19:03:47.822] [Start] 识别码：836D-67D3-19EC-148C
+[19:03:47.822] [Start] 程序路径：D:\Minecraft\AuraForAdmin\Plain Craft Launcher 2.exe
+[19:03:47.822] [Start] 系统编码：System.Text.DBCSCodePageEncoding (936, GBK=True)
+[19:03:47.822] [Start] 管理员权限：False
+[19:03:47.826] [Start] 第一阶段加载用时：62 ms
+[19:03:47.979] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:03:47.979] [Start] 第二阶段加载用时：141 ms
+[19:03:47.984] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:03:48.264] [System] 窗口已置顶，位置：(362.4, 158.4), 810.4 x 500
+[19:03:48.269] [Animation] 动画线程开始
+[19:03:48.269] [Start] 第三阶段加载用时：47 ms
+[19:03:48.271] [Start] 加载 DLL：Json
+[19:03:48.271] [System] 获取资源：Json
+[19:03:48.280] [Launch] Minecraft 文件夹：D:\Minecraft\AuraForAdmin\.minecraft\
+[19:03:48.315] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[19:03:48.321] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[19:03:48.345] [Page] 实例化：清空自定义主页 UI，来源为空
+[19:03:48.351] [Skin] 载入头像成功：Loader Skin Ms
+[19:03:48.358] [Java] 缓存中有 5 个可用的 Java：
+[19:03:48.359] [Java]  - JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:03:48.359] [Java]  - JRE 8 (8.0.202)：C:\Program Files\Java\jdk1.8.0_202\jre\bin\
+[19:03:48.359] [Java]  - JDK 8 (8.0.202)：C:\Program Files\Java\jdk1.8.0_202\bin\
+[19:03:48.359] [Java]  - JDK 11 (11.16.1)：C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\
+[19:03:48.359] [Java]  - JDK 16 (16.0.2)：C:\Program Files\Java\jdk-16.0.2\bin\
+[19:03:48.406] [Minecraft] 启动按钮：Minecraft 版本：D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\
+[19:03:48.411] [Loader] 加载器 登录 状态改变：Loading
+[19:03:48.414] [Launch] 登录加载已开始
+[19:03:48.415] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:03:48.417] [Launch] 登录方式：正版（aoh71）
+[19:03:48.418] [Launch] 开始微软登录步骤 2（刷新登录）
+[19:03:48.422] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:03:48.577] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[19:03:48.578] [Loader] 加载器 PCL 服务 状态改变：Loading
+[19:03:48.578] [Server] 正在连接到 PCL 服务器
+[19:03:48.582] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[19:03:48.584] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1726571029-3d8a9751-0-1a7d32cad2bacc95a19317f2686b5960，超时 10000ms
+[19:03:48.660] [Server] 服务器公告：149|335|336|5，无需更新
+[19:03:48.665] [Loader] 加载器 PCL 服务 状态改变：Finished
+[19:03:48.678] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:03:48.983] [System] DPI：120，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Minecraft\AuraForAdmin\Plain Craft Launcher 2.exe
+[19:03:49.173] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[19:03:49.392] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (400) 错误的请求。，https://login.live.com/oauth20_token.srf）
+{"error":"invalid_grant","error_description":"The user could not be authenticated or user interaction is required. The user must sign in again and if needed grant the client application access to the requested scope.","foci":"1","correlation_id":"681cfd90-b097-4c50-bc52-0c21b096dab7"}
+→ 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:03:49.601] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (400) 错误的请求。，https://login.live.com/oauth20_token.srf）
+{"error":"invalid_grant","error_description":"The user could not be authenticated or user interaction is required. The user must sign in again and if needed grant the client application access to the requested scope.","foci":"1","correlation_id":"38c5da3f-cb8b-463c-b39d-177509381827"}
+→ 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:03:49.615] [Launch] 开始微软登录步骤 1
+[19:03:49.616] [System] 正在打开网页：https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?prompt=login&client_id=00000000402b5328&response_type=code&scope=service%3A%3Auser.auth.xboxlive.com%3A%3AMBI_SSL&redirect_uri=https:%2F%2Flogin.live.com%2Foauth20_desktop.srf
+[19:03:49.674] [Control] 按下按钮：启动游戏
+[19:03:49.676] [Loader] 加载器 Loader Launch 状态改变：Loading
+[19:03:49.724] [Control] 输入弹窗：等待网页登录
+[19:03:49.729] [Launch] 预检测已通过
+[19:03:49.731] [Download] 开始后台检查资源文件索引
+[19:03:49.732] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[19:03:49.735] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[19:03:49.737] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[19:03:49.737] [Loader] 加载器 获取 Java 状态改变：Loading
+[19:03:49.739] [Download] 版本 1.12.2 对应的资源文件索引为 1.12
+[19:03:49.739] [Taskbar] Minecraft 启动 已加入任务列表
+[19:03:49.741] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[19:03:49.743] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[19:03:49.743] [Launch] Java 版本需求：最低 0.0.0.0，最高 1.8.999.999
+[19:03:49.756] [Java] 开始完全遍历查找：D:\Minecraft\AuraForAdmin\
+[19:03:49.793] [Download] 1.12.json 142#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json
+[19:03:49.805] [Java] 开始完全遍历查找：D:\Minecraft\AuraForAdmin\.minecraft\
+[19:03:49.817] [Java] 开始完全遍历查找：D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\
+[19:03:49.825] [Java] 排序后的 Java 优先顺序：
+[19:03:49.825] [Java]  - JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:03:49.825] [Java]  - JRE 8 (8.0.202)：C:\Program Files\Java\jdk1.8.0_202\jre\bin\
+[19:03:49.825] [Java]  - JDK 8 (8.0.202)：C:\Program Files\Java\jdk1.8.0_202\bin\
+[19:03:49.828] [System] 执行外部命令并等待返回结果：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\java.exe -version
+[19:03:50.043] [Java] 最终选定的 Java：JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:03:50.043] [Launch] 选择的 Java：JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:03:50.043] [Loader] 加载器 获取 Java 状态改变：Finished
+[19:03:51.258] [Download] 1.12.json 142#：文件大小 143138（140 K）
+[19:03:51.389] [Download] 1.12.json：已完成，剩余文件 0
+[19:03:51.389] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[19:03:51.389] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[19:03:51.401] [Launch] 后台更新资源文件索引成功：C:\Users\17145\AppData\Local\Temp\PCL\Cache\1.12.json
+[19:03:51.401] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[19:03:51.401] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[19:04:21.777] [Control] 按下按钮：确定
+[19:04:21.778] [Control] 输入弹框返回：https://login.live.com/oauth20_desktop.srf?code=M.C505_SN1.2.U.cf76b5eb-6c65-12be-7031-df54423547d3&lc=2052
+[19:04:21.778] [Launch] 开始微软登录步骤 2（非刷新登录）
+[19:04:21.778] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:04:22.036] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:04:22.542] [Launch] 开始微软登录步骤 3
+[19:04:22.542] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:04:22.629] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (400) 错误的请求。，https://login.live.com/oauth20_token.srf）
+{"error":"invalid_grant","error_description":"The provided value for the 'code' parameter is not valid. The code has expired.","correlation_id":"b7da139d-f2a9-4942-abb9-5f7ae80c4aff"}
+→ 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:04:22.805] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:04:23.315] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:04:24.073] [Launch] 开始微软登录步骤 4
+[19:04:24.073] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:04:24.337] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:04:24.843] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:04:25.596] [Launch] 开始微软登录步骤 5
+[19:04:25.597] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[19:04:25.854] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[19:04:27.396] [Launch] 开始微软登录步骤 6
+[19:04:27.397] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[19:04:27.655] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[19:04:28.160] [Launch] 开始微软登录步骤 7
+[19:04:28.160] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[19:04:28.418] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[19:04:28.928] [Launch] 微软登录完成
+[19:04:28.928] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[19:04:28.937] [Launch] 登录加载已结束
+[19:04:28.937] [Loader] 加载器 登录 状态改变：Finished
+[19:04:28.939] [Loader] 加载器 登录 状态改变：Loading
+[19:04:28.940] [Loader] 加载器 补全文件 状态改变：Loading
+[19:04:28.940] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[19:04:28.940] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[19:04:28.940] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[19:04:28.940] [Launch] 登录加载已开始
+[19:04:28.940] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:04:28.940] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[19:04:28.941] [Launch] 登录方式：正版（dd3xp）
+[19:04:28.941] [Launch] 微软登录完成
+[19:04:28.941] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[19:04:28.942] [Download] 版本 1.12.2 对应的资源文件索引为 1.12
+[19:04:28.944] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[19:04:28.944] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[19:04:28.945] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[19:04:28.945] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[19:04:28.953] [Launch] 登录加载已结束
+[19:04:28.953] [Loader] 加载器 登录 状态改变：Finished
+[19:04:28.965] [Minecraft] 获取支持库列表：1.12.2
+[19:04:28.972] [Launch] 已将 optifine:OptiFine:1.12.2_HD_U_G5:installer 特判替换为对应的 Installer 文件
+[19:04:28.982] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[19:04:28.982] [Loader] 加载器 下载资源文件 状态改变：Loading
+[19:04:28.982] [Loader] 加载器 下载资源文件 状态改变：Finished
+[19:04:28.983] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[19:04:29.062] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[19:04:29.062] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[19:04:29.062] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[19:04:29.062] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[19:04:29.062] [Loader] 加载器 补全文件 状态改变：Finished
+[19:04:29.063] [Loader] 加载器 获取启动参数 状态改变：Loading
+[19:04:29.065] [Launch] 开始获取 Minecraft 启动参数
+[19:04:29.065] [Launch] 获取旧版 JVM 参数
+[19:04:29.070] [Java] 选定的 Java Wrapper 路径：D:\Minecraft\AuraForAdmin\PCL\JavaWrapper.jar
+[19:04:29.070] [System] 获取资源：JavaWrapper
+[19:04:29.071] [Launch] 旧版 JVM 参数获取成功：
+[19:04:29.071] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn1382m -Xmx9216m "-Djava.library.path=D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\1.12.2-natives" -cp ${classpath} -Doolloo.jlw.tmpdir="D:\Minecraft\AuraForAdmin\PCL" -jar "D:\Minecraft\AuraForAdmin\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch
+[19:04:29.071] [Launch] 获取旧版 Game 参数
+[19:04:29.071] [Launch] 旧版 Game 参数获取成功
+[19:04:29.071] [Launch] 获取新版 Game 参数
+[19:04:29.073] [Launch] 发现正确的 OptiFineForge TweakClass，目前参数：--tweakClass optifine.OptiFineForgeTweaker
+[19:04:29.073] [Launch] 新版 Game 参数获取成功
+[19:04:29.075] [Minecraft] 获取支持库列表：1.12.2
+[19:04:29.075] [Launch] 已将 optifine:OptiFine:1.12.2_HD_U_G5:installer 特判替换为对应的 Installer 文件
+[19:04:29.080] [Launch] Minecraft 启动参数：
+[19:04:29.082] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn1382m -Xmx9216m "-Djava.library.path=D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\1.12.2-natives" -cp "D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_G5\OptiFine-1.12.2_HD_U_G5-installer.jar;D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\1.12.2.jar" -Doolloo.jlw.tmpdir="D:\Minecraft\AuraForAdmin\PCL" -jar "D:\Minecraft\AuraForAdmin\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch --username dd3xp --version 1.12.2 --gameDir "D:\Minecraft\AuraForAdmin\.minecraft" --assetsDir "D:\Minecraft\AuraForAdmin\.minecraft\assets" --assetIndex 1.12 --uuid e88efc507ade4c5a9b9a43d65691c9fd --accessToken eyJra**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************3ttk0 --userType msa --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --height 501 --width 873 --tweakClass optifine.OptiFineForgeTweaker --tweakClass optifine.OptiFineForgeTweaker 
+[19:04:29.082] [Loader] 加载器 获取启动参数 状态改变：Finished
+[19:04:29.084] [Loader] 加载器 解压文件 状态改变：Loading
+[19:04:29.087] [Launch] 正在解压 Natives 文件
+[19:04:29.098] [Loader] 加载器 解压文件 状态改变：Finished
+[19:04:29.101] [Loader] 加载器 预启动处理 状态改变：Loading
+[19:04:29.111] [Launch] 已更新 launcher_profiles.json
+[19:04:29.112] [Launch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+[19:04:29.112] [Loader] 加载器 预启动处理 状态改变：Finished
+[19:04:29.120] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[19:04:29.123] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[19:04:29.144] [Loader] 加载器 启动进程 状态改变：Loading
+[19:04:29.153] [Launch] 已启动游戏进程：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\javaw.exe
+[19:04:29.153] [Loader] 加载器 启动进程 状态改变：Finished
+[19:04:29.171] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[19:04:29.173] [Launch] 
+[19:04:29.173] [Launch] ~ 基础参数 ~
+[19:04:29.173] [Launch] PCL 版本：Release 2.8.6 (336)
+[19:04:29.173] [Launch] 游戏版本：1.12.2, Forge 14.23.5.2847, OptiFine G5（识别为 1.12.2）
+[19:04:29.173] [Launch] 资源版本：1.12
+[19:04:29.173] [Launch] 版本继承：无
+[19:04:29.174] [Launch] 分配的内存：9 GB（9216 MB）
+[19:04:29.174] [Launch] MC 文件夹：D:\Minecraft\AuraForAdmin\.minecraft\
+[19:04:29.174] [Launch] 版本文件夹：D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\
+[19:04:29.174] [Launch] 版本隔离：False
+[19:04:29.174] [Launch] HMCL 格式：False
+[19:04:29.174] [Launch] Java 信息：JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:04:29.174] [Launch] 环境变量：未设置
+[19:04:29.174] [Launch] Natives 文件夹：D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\1.12.2-natives
+[19:04:29.174] [Launch] 
+[19:04:29.174] [Launch] ~ 登录参数 ~
+[19:04:29.174] [Launch] 玩家用户名：dd3xp
+[19:04:29.174] [Launch] AccessToken：eyJra**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************3ttk0
+[19:04:29.174] [Launch] ClientToken：e88efc507ade4c5a9b9a43d65691c9fd
+[19:04:29.174] [Launch] UUID：e88efc507ade4c5a9b9a43d65691c9fd
+[19:04:29.174] [Launch] 登录方式：Microsoft
+[19:04:29.174] [Launch] 
+[19:04:29.177] [Launch] [25952] 开始 Minecraft 日志监控
+[19:04:29.177] [Launch] [全局] 出现运行中的 Minecraft
+[19:04:29.543] [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[19:04:30.196] [Launch] [25952] 日志 1/5：已出现日志输出
+[19:04:32.498] [Control] 按下按钮：取消
+[19:04:32.499] [Loader] 加载器 Minecraft 启动 状态改变：Aborted
+[19:04:32.499] [Launch] 已取消启动
+[19:04:32.500] [Loader] 加载器 等待游戏窗口出现 状态改变：Aborted
+[19:04:32.500] [Launch] [全局] 已无运行中的 Minecraft
+[19:04:32.500] [Launch] [25952] 尝试强制结束 Minecraft 进程
+[19:04:32.501] [Launch] [25952] 已强制结束 Minecraft 进程
+[19:04:32.542] [Loader] 加载器 Loader Launch 状态改变：Finished
+[19:04:32.556] [UI] 弹出提示：已取消启动！
+[19:04:32.557] [Taskbar] Minecraft 启动 已移出任务列表
+[19:04:32.666] [Launch] [25952] Minecraft 日志监控已退出
+[19:04:37.818] [Control] 按下图标按钮：BtnExit
+[19:04:46.055] [Control] 按下按钮：登录
+[19:04:46.057] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:04:46.058] [Launch] 登录方式：正版（尚未登录）
+[19:04:46.058] [Launch] 开始微软登录步骤 1
+[19:04:46.058] [System] 正在打开网页：https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?prompt=login&client_id=00000000402b5328&response_type=code&scope=service%3A%3Auser.auth.xboxlive.com%3A%3AMBI_SSL&redirect_uri=https:%2F%2Flogin.live.com%2Foauth20_desktop.srf
+[19:04:46.101] [Control] 输入弹窗：等待网页登录
+[19:07:04.505] [Control] 按下按钮：确定
+[19:07:04.505] [Control] 输入弹框返回：https://login.live.com/oauth20_desktop.srf?code=M.C527_BAY.2.U.b620f84c-b339-05f3-a794-bc9636771abc&lc=2052
+[19:07:04.505] [Launch] 开始微软登录步骤 2（非刷新登录）
+[19:07:04.505] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:07:04.762] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:07:05.607] [Launch] 开始微软登录步骤 3
+[19:07:05.607] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:07:05.868] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:07:06.147] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (400) 错误的请求。，https://login.live.com/oauth20_token.srf）
+{"error":"invalid_grant","error_description":"The provided value for the 'code' parameter is not valid. The code has expired.","correlation_id":"32aec70d-0012-49d6-b031-e6f190967647"}
+→ 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:07:06.381] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:07:07.136] [Launch] 开始微软登录步骤 4
+[19:07:07.136] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:07:07.401] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:07:07.909] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:07:08.667] [Launch] 开始微软登录步骤 5
+[19:07:08.667] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[19:07:08.929] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[19:07:09.876] [Launch] 开始微软登录步骤 6
+[19:07:09.876] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[19:07:10.136] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[19:07:10.646] [Launch] 开始微软登录步骤 7
+[19:07:10.646] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[19:07:10.909] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[19:07:11.419] [Launch] 微软登录完成
+[19:07:11.419] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[19:07:12.696] [Control] 按下按钮：启动游戏
+[19:07:12.696] [Loader] 加载器 Loader Launch 状态改变：Loading
+[19:07:12.701] [Launch] 预检测已通过
+[19:07:12.701] [Download] 开始后台检查资源文件索引
+[19:07:12.701] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[19:07:12.701] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[19:07:12.701] [Download] 版本 1.12.2 对应的资源文件索引为 1.12
+[19:07:12.701] [Download] 无需更新资源文件索引
+[19:07:12.701] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Aborted
+[19:07:12.701] [Loader] 加载器 后台更新资源文件索引 状态改变：Aborted
+[19:07:12.701] [Loader] 加载器 登录 状态改变：Waiting
+[19:07:12.701] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[19:07:12.701] [Loader] 加载器 获取 Java 状态改变：Loading
+[19:07:12.701] [Launch] Java 版本需求：最低 0.0.0.0，最高 1.8.999.999
+[19:07:12.702] [Java] 开始完全遍历查找：D:\Minecraft\AuraForAdmin\
+[19:07:12.702] [Loader] 加载器 登录 状态改变：Loading
+[19:07:12.702] [Loader] 加载器 补全文件 状态改变：Loading
+[19:07:12.702] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[19:07:12.702] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[19:07:12.702] [Loader] 加载器 后台下载资源文件索引 状态改变：Aborted
+[19:07:12.702] [Download] 后台下载资源文件索引 已取消！
+[19:07:12.702] [Launch] 登录加载已开始
+[19:07:12.702] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:07:12.702] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[19:07:12.702] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[19:07:12.702] [Loader] 加载线程 后台分析资源文件索引地址 (53) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[19:07:12.702] [Launch] 登录方式：正版（aoh71）
+[19:07:12.702] [Launch] 微软登录完成
+[19:07:12.702] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[19:07:12.702] [Download] 版本 1.12.2 对应的资源文件索引为 1.12
+[19:07:12.702] [Taskbar] Minecraft 启动 已加入任务列表
+[19:07:12.702] [Java] 开始完全遍历查找：D:\Minecraft\AuraForAdmin\.minecraft\
+[19:07:12.707] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[19:07:12.707] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[19:07:12.708] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[19:07:12.708] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[19:07:12.708] [Java] 开始完全遍历查找：D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\
+[19:07:12.708] [Java] 排序后的 Java 优先顺序：
+[19:07:12.708] [Java]  - JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:07:12.708] [Java]  - JRE 8 (8.0.202)：C:\Program Files\Java\jdk1.8.0_202\jre\bin\
+[19:07:12.708] [Java]  - JDK 8 (8.0.202)：C:\Program Files\Java\jdk1.8.0_202\bin\
+[19:07:12.708] [Java] 最终选定的 Java：JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:07:12.708] [Launch] 选择的 Java：JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:07:12.708] [Loader] 加载器 获取 Java 状态改变：Finished
+[19:07:12.717] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[19:07:12.717] [Loader] 加载器 下载资源文件 状态改变：Loading
+[19:07:12.718] [Loader] 加载器 下载资源文件 状态改变：Finished
+[19:07:12.718] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[19:07:12.719] [Launch] 登录加载已结束
+[19:07:12.719] [Loader] 加载器 登录 状态改变：Finished
+[19:07:12.722] [Minecraft] 获取支持库列表：1.12.2
+[19:07:12.723] [Launch] 已将 optifine:OptiFine:1.12.2_HD_U_G5:installer 特判替换为对应的 Installer 文件
+[19:07:12.798] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[19:07:12.798] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[19:07:12.799] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[19:07:12.799] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[19:07:12.799] [Loader] 加载器 补全文件 状态改变：Finished
+[19:07:12.799] [Loader] 加载器 获取启动参数 状态改变：Loading
+[19:07:12.799] [Launch] 开始获取 Minecraft 启动参数
+[19:07:12.799] [Launch] 获取旧版 JVM 参数
+[19:07:12.799] [Java] 选定的 Java Wrapper 路径：D:\Minecraft\AuraForAdmin\PCL\JavaWrapper.jar
+[19:07:12.799] [System] 获取资源：JavaWrapper
+[19:07:12.800] [Launch] 旧版 JVM 参数获取成功：
+[19:07:12.800] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn875m -Xmx5836m "-Djava.library.path=D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\1.12.2-natives" -cp ${classpath} -Doolloo.jlw.tmpdir="D:\Minecraft\AuraForAdmin\PCL" -jar "D:\Minecraft\AuraForAdmin\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch
+[19:07:12.800] [Launch] 获取旧版 Game 参数
+[19:07:12.800] [Launch] 旧版 Game 参数获取成功
+[19:07:12.800] [Launch] 获取新版 Game 参数
+[19:07:12.800] [Launch] 发现正确的 OptiFineForge TweakClass，目前参数：--tweakClass optifine.OptiFineForgeTweaker
+[19:07:12.800] [Launch] 新版 Game 参数获取成功
+[19:07:12.800] [Minecraft] 获取支持库列表：1.12.2
+[19:07:12.800] [Launch] 已将 optifine:OptiFine:1.12.2_HD_U_G5:installer 特判替换为对应的 Installer 文件
+[19:07:12.805] [Launch] Minecraft 启动参数：
+[19:07:12.806] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn875m -Xmx5836m "-Djava.library.path=D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\1.12.2-natives" -cp "D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;D:\Minecraft\AuraForAdmin\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_G5\OptiFine-1.12.2_HD_U_G5-installer.jar;D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\1.12.2.jar" -Doolloo.jlw.tmpdir="D:\Minecraft\AuraForAdmin\PCL" -jar "D:\Minecraft\AuraForAdmin\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch --username aoh71 --version 1.12.2 --gameDir "D:\Minecraft\AuraForAdmin\.minecraft" --assetsDir "D:\Minecraft\AuraForAdmin\.minecraft\assets" --assetIndex 1.12 --uuid 82a3873a55f846c690435d89c8e7b9f9 --accessToken eyJra******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************xWt5I --userType msa --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --height 501 --width 873 --tweakClass optifine.OptiFineForgeTweaker --tweakClass optifine.OptiFineForgeTweaker 
+[19:07:12.806] [Loader] 加载器 获取启动参数 状态改变：Finished
+[19:07:12.808] [Loader] 加载器 解压文件 状态改变：Loading
+[19:07:12.808] [Launch] 正在解压 Natives 文件
+[19:07:12.809] [Loader] 加载器 解压文件 状态改变：Finished
+[19:07:12.821] [Loader] 加载器 预启动处理 状态改变：Loading
+[19:07:12.822] [Launch] 已更新 launcher_profiles.json
+[19:07:12.822] [Launch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+[19:07:12.822] [Loader] 加载器 预启动处理 状态改变：Finished
+[19:07:12.839] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[19:07:12.840] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[19:07:12.852] [Loader] 加载器 启动进程 状态改变：Loading
+[19:07:12.855] [Launch] 已启动游戏进程：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\javaw.exe
+[19:07:12.855] [Loader] 加载器 启动进程 状态改变：Finished
+[19:07:12.855] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[19:07:12.856] [Launch] 
+[19:07:12.856] [Launch] ~ 基础参数 ~
+[19:07:12.856] [Launch] PCL 版本：Release 2.8.6 (336)
+[19:07:12.856] [Launch] 游戏版本：1.12.2, Forge 14.23.5.2847, OptiFine G5（识别为 1.12.2）
+[19:07:12.856] [Launch] 资源版本：1.12
+[19:07:12.856] [Launch] 版本继承：无
+[19:07:12.856] [Launch] 分配的内存：5.7 GB（5837 MB）
+[19:07:12.856] [Launch] MC 文件夹：D:\Minecraft\AuraForAdmin\.minecraft\
+[19:07:12.856] [Launch] 版本文件夹：D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\
+[19:07:12.856] [Launch] 版本隔离：False
+[19:07:12.856] [Launch] HMCL 格式：False
+[19:07:12.856] [Launch] Java 信息：JRE 8 (8.0.51)：C:\Users\17145\AppData\Roaming\.minecraft\cache\java\jre-legacy\windows-x64\jre-legacy\bin\
+[19:07:12.856] [Launch] 环境变量：未设置
+[19:07:12.856] [Launch] Natives 文件夹：D:\Minecraft\AuraForAdmin\.minecraft\versions\1.12.2\1.12.2-natives
+[19:07:12.856] [Launch] 
+[19:07:12.856] [Launch] ~ 登录参数 ~
+[19:07:12.856] [Launch] 玩家用户名：aoh71
+[19:07:12.856] [Launch] AccessToken：eyJra******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************xWt5I
+[19:07:12.856] [Launch] ClientToken：82a3873a55f846c690435d89c8e7b9f9
+[19:07:12.856] [Launch] UUID：82a3873a55f846c690435d89c8e7b9f9
+[19:07:12.856] [Launch] 登录方式：Microsoft
+[19:07:12.856] [Launch] 
+[19:07:12.856] [Launch] [23472] 开始 Minecraft 日志监控
+[19:07:12.856] [Launch] [全局] 出现运行中的 Minecraft
+[19:07:13.863] [Launch] [23472] 日志 1/5：已出现日志输出
+[19:07:19.289] [Launch] [23472] 日志 2/5：游戏用户已设置
+[19:07:21.021] [Launch] [23472] 日志 3/5：LWJGL 版本已确认
+[19:07:21.282] [Launch] [23472] Minecraft 窗口已加载：Minecraft 1.12.2（133556）
+[19:07:21.513] [Launch] [23472] Minecraft 加载已完成
+[19:07:21.543] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[19:07:21.560] [Loader] 加载器 结束处理 状态改变：Loading
+[19:07:21.562] [Launch] 开始启动结束处理
+[19:07:21.562] [Launch] 启动器可见性：5
+[19:07:21.563] [Loader] 加载器 结束处理 状态改变：Finished
+[19:07:21.601] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[19:07:21.619] [Taskbar] Minecraft 启动 已移出任务列表
+[19:07:21.773] [Loader] 加载器 Loader Launch 状态改变：Finished
+[19:07:21.804] [UI] 弹出提示：1.12.2 启动成功！
+[19:08:15.092] [Launch] [23472] 日志 4/5：OpenAL 已加载
+[19:08:38.096] [Launch] [23472] 日志 5/5：材质已加载
+[20:04:53.735] [Launch] [23472] Minecraft 已退出，返回值：0
+[20:04:53.735] [Launch] [全局] 已无运行中的 Minecraft
+[20:04:53.964] [Launch] [23472] Minecraft 日志监控已退出

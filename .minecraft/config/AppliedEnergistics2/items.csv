@@ -1393,6 +1393,13 @@ extracells:pattern.fluid:0, ME流体模板: 熔融玄钢
 extracells:pattern.fluid:0, ME流体模板: 熔融魂金
 extracells:pattern.fluid:0, ME流体模板: 熔融末影钢
 extracells:pattern.fluid:0, ME流体模板: 熔融铁合金
+extracells:pattern.fluid:0, ME流体模板: 熔融粗钢
+extracells:pattern.fluid:0, ME流体模板: 熔融晶化合金
+extracells:pattern.fluid:0, ME流体模板: 熔融旋律合金
+extracells:pattern.fluid:0, ME流体模板: 熔融恒星合金
+extracells:pattern.fluid:0, ME流体模板: 熔融晶化粉红史莱姆
+extracells:pattern.fluid:0, ME流体模板: 熔融充能银
+extracells:pattern.fluid:0, ME流体模板: 熔融生动合金
 extracells:pattern.fluid:0, ME流体模板: 熔融炽铁
 extracells:pattern.fluid:0, ME流体模板: 熔融骑士金属
 extracells:pattern.fluid:0, ME流体模板: 炽血精华
@@ -8994,65 +9001,6 @@ appliedenergistics2:facade:0, 线缆伪装板 - 雕琢褐岩块
 appliedenergistics2:facade:0, 线缆伪装板 - 三角纹褐岩石砖
 appliedenergistics2:facade:0, 线缆伪装板 - 细纹褐岩石砖
 appliedenergistics2:facade:0, 线缆伪装板 - 褐岩瓷砖块
-appliedenergistics2:facade:0, 线缆伪装板 - 烟熏石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制烟熏石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 竖纹烟熏石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 魔力石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制魔力石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 竖纹魔力石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 烈焰石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制烈焰石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 竖纹烈焰石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 熏香石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制熏香石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 竖纹熏香石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 红色石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制红色石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 竖纹红色石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 精灵石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制精灵石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 竖纹精灵石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 金黄石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制金黄石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 竖纹金黄石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 变质森林石头
-appliedenergistics2:facade:0, 线缆伪装板 - 变质平原石头
-appliedenergistics2:facade:0, 线缆伪装板 - 变质高山石头
-appliedenergistics2:facade:0, 线缆伪装板 - 变质菌丝石头
-appliedenergistics2:facade:0, 线缆伪装板 - 变质沼泽石头
-appliedenergistics2:facade:0, 线缆伪装板 - 变质沙漠石头
-appliedenergistics2:facade:0, 线缆伪装板 - 变质雪原石头
-appliedenergistics2:facade:0, 线缆伪装板 - 变质高原石头
-appliedenergistics2:facade:0, 线缆伪装板 - 变质森林圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 变质平原圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 变质高山圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 变质菌丝圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 变质沼泽圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 变质沙漠圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 变质雪原圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 变质高原圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 变质森林石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 变质平原石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 变质高山石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 变质菌丝石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 变质沼泽石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 变质沙漠石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 变质雪原石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 变质高原石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质森林石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质平原石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质高山石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质菌丝石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质沼泽石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质沙漠石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质雪原石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质高原石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 白色葡萄牙路面
-appliedenergistics2:facade:0, 线缆伪装板 - 黑色葡萄牙路面
-appliedenergistics2:facade:0, 线缆伪装板 - 蓝色葡萄牙路面
-appliedenergistics2:facade:0, 线缆伪装板 - 红色葡萄牙路面
-appliedenergistics2:facade:0, 线缆伪装板 - 黄色葡萄牙路面
-appliedenergistics2:facade:0, 线缆伪装板 - 绿色葡萄牙路面
 appliedenergistics2:facade:0, 线缆伪装板 - 活石
 appliedenergistics2:facade:0, 线缆伪装板 - 活石砖
 appliedenergistics2:facade:0, 线缆伪装板 - 苔活石砖
@@ -9123,6 +9071,65 @@ appliedenergistics2:facade:0, 线缆伪装板 - 鲜草草地
 appliedenergistics2:facade:0, 线缆伪装板 - 焦草草地
 appliedenergistics2:facade:0, 线缆伪装板 - 注魔草地
 appliedenergistics2:facade:0, 线缆伪装板 - 异变草地
+appliedenergistics2:facade:0, 线缆伪装板 - 烟熏石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制烟熏石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 竖纹烟熏石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 魔力石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制魔力石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 竖纹魔力石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 烈焰石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制烈焰石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 竖纹烈焰石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 熏香石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制熏香石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 竖纹熏香石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 红色石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制红色石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 竖纹红色石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 精灵石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制精灵石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 竖纹精灵石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 金黄石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制金黄石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 竖纹金黄石英块
+appliedenergistics2:facade:0, 线缆伪装板 - 变质森林石头
+appliedenergistics2:facade:0, 线缆伪装板 - 变质平原石头
+appliedenergistics2:facade:0, 线缆伪装板 - 变质高山石头
+appliedenergistics2:facade:0, 线缆伪装板 - 变质菌丝石头
+appliedenergistics2:facade:0, 线缆伪装板 - 变质沼泽石头
+appliedenergistics2:facade:0, 线缆伪装板 - 变质沙漠石头
+appliedenergistics2:facade:0, 线缆伪装板 - 变质雪原石头
+appliedenergistics2:facade:0, 线缆伪装板 - 变质高原石头
+appliedenergistics2:facade:0, 线缆伪装板 - 变质森林圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 变质平原圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 变质高山圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 变质菌丝圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 变质沼泽圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 变质沙漠圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 变质雪原圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 变质高原圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 变质森林石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 变质平原石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 变质高山石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 变质菌丝石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 变质沼泽石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 变质沙漠石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 变质雪原石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 变质高原石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质森林石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质平原石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质高山石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质菌丝石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质沼泽石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质沙漠石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质雪原石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制变质高原石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 白色葡萄牙路面
+appliedenergistics2:facade:0, 线缆伪装板 - 黑色葡萄牙路面
+appliedenergistics2:facade:0, 线缆伪装板 - 蓝色葡萄牙路面
+appliedenergistics2:facade:0, 线缆伪装板 - 红色葡萄牙路面
+appliedenergistics2:facade:0, 线缆伪装板 - 黄色葡萄牙路面
+appliedenergistics2:facade:0, 线缆伪装板 - 绿色葡萄牙路面
 appliedenergistics2:facade:0, 线缆伪装板 - 奥利哈刚块
 appliedenergistics2:facade:0, 线缆伪装板 - 暗影块
 appliedenergistics2:facade:0, 线缆伪装板 - 光子块
@@ -9825,12 +9832,17 @@ enderio:item_material:74, 魂金粉
 enderio:item_material:75, 无尽试剂
 enderio:item_material:76, 粘土荧石粉
 enderio:item_material:77, 黑纸
+enderio:item_material:78, 动物标记徽章
+enderio:item_material:79, 怪物标记徽章
+enderio:item_material:80, 玩家标记徽章
+enderio:item_material:81, 未烧制的死亡之瓮
 enderio:item_broken_spawner:0, 破损的刷怪箱
 enderio:block_infinity_fog:0, 基岩尘
 enderio:block_infinity:0, 基岩粉块
 enderio:block_infinity:1, 压缩基岩粉块
 enderio:block_infinity:2, 二重压缩基岩粉块
 enderio:block_holy_fog, 荧石纳米颗粒（旧）
+enderio:block_holier_fog, 荧石纳米颗粒
 enderio:block_dark_steel_anvil:0, 玄钢砧
 enderio:block_dark_steel_anvil:1, 轻微损坏的玄钢砧
 enderio:block_dark_steel_anvil:2, 严重损坏的玄钢砧
@@ -10045,6 +10057,582 @@ enderio:block_dark_fused_glass:12, 黑暗纯净玻璃
 enderio:block_dark_fused_glass:13, 黑暗纯净玻璃
 enderio:block_dark_fused_glass:14, 黑暗纯净玻璃
 enderio:block_dark_fused_glass:15, 黑暗纯净玻璃
+enderio:block_holy_fused_quartz:0, 石英玻璃
+enderio:block_holy_fused_quartz:1, 石英玻璃
+enderio:block_holy_fused_quartz:2, 石英玻璃
+enderio:block_holy_fused_quartz:3, 石英玻璃
+enderio:block_holy_fused_quartz:4, 石英玻璃
+enderio:block_holy_fused_quartz:5, 石英玻璃
+enderio:block_holy_fused_quartz:6, 石英玻璃
+enderio:block_holy_fused_quartz:7, 石英玻璃
+enderio:block_holy_fused_quartz:8, 石英玻璃
+enderio:block_holy_fused_quartz:9, 石英玻璃
+enderio:block_holy_fused_quartz:10, 石英玻璃
+enderio:block_holy_fused_quartz:11, 石英玻璃
+enderio:block_holy_fused_quartz:12, 石英玻璃
+enderio:block_holy_fused_quartz:13, 石英玻璃
+enderio:block_holy_fused_quartz:14, 石英玻璃
+enderio:block_holy_fused_quartz:15, 石英玻璃
+enderio:block_holy_fused_glass:0, 纯净玻璃
+enderio:block_holy_fused_glass:1, 纯净玻璃
+enderio:block_holy_fused_glass:2, 纯净玻璃
+enderio:block_holy_fused_glass:3, 纯净玻璃
+enderio:block_holy_fused_glass:4, 纯净玻璃
+enderio:block_holy_fused_glass:5, 纯净玻璃
+enderio:block_holy_fused_glass:6, 纯净玻璃
+enderio:block_holy_fused_glass:7, 纯净玻璃
+enderio:block_holy_fused_glass:8, 纯净玻璃
+enderio:block_holy_fused_glass:9, 纯净玻璃
+enderio:block_holy_fused_glass:10, 纯净玻璃
+enderio:block_holy_fused_glass:11, 纯净玻璃
+enderio:block_holy_fused_glass:12, 纯净玻璃
+enderio:block_holy_fused_glass:13, 纯净玻璃
+enderio:block_holy_fused_glass:14, 纯净玻璃
+enderio:block_holy_fused_glass:15, 纯净玻璃
+enderio:block_holy_enlightened_fused_quartz:0, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:1, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:2, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:3, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:4, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:5, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:6, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:7, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:8, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:9, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:10, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:11, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:12, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:13, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:14, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_quartz:15, 荧光石英玻璃
+enderio:block_holy_enlightened_fused_glass:0, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:1, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:2, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:3, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:4, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:5, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:6, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:7, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:8, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:9, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:10, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:11, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:12, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:13, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:14, 荧光纯净玻璃
+enderio:block_holy_enlightened_fused_glass:15, 荧光纯净玻璃
+enderio:block_holy_dark_fused_quartz:0, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:1, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:2, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:3, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:4, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:5, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:6, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:7, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:8, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:9, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:10, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:11, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:12, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:13, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:14, 黑暗石英玻璃
+enderio:block_holy_dark_fused_quartz:15, 黑暗石英玻璃
+enderio:block_holy_dark_fused_glass:0, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:1, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:2, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:3, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:4, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:5, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:6, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:7, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:8, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:9, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:10, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:11, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:12, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:13, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:14, 黑暗纯净玻璃
+enderio:block_holy_dark_fused_glass:15, 黑暗纯净玻璃
+enderio:block_unholy_fused_quartz:0, 石英玻璃
+enderio:block_unholy_fused_quartz:1, 石英玻璃
+enderio:block_unholy_fused_quartz:2, 石英玻璃
+enderio:block_unholy_fused_quartz:3, 石英玻璃
+enderio:block_unholy_fused_quartz:4, 石英玻璃
+enderio:block_unholy_fused_quartz:5, 石英玻璃
+enderio:block_unholy_fused_quartz:6, 石英玻璃
+enderio:block_unholy_fused_quartz:7, 石英玻璃
+enderio:block_unholy_fused_quartz:8, 石英玻璃
+enderio:block_unholy_fused_quartz:9, 石英玻璃
+enderio:block_unholy_fused_quartz:10, 石英玻璃
+enderio:block_unholy_fused_quartz:11, 石英玻璃
+enderio:block_unholy_fused_quartz:12, 石英玻璃
+enderio:block_unholy_fused_quartz:13, 石英玻璃
+enderio:block_unholy_fused_quartz:14, 石英玻璃
+enderio:block_unholy_fused_quartz:15, 石英玻璃
+enderio:block_unholy_fused_glass:0, 纯净玻璃
+enderio:block_unholy_fused_glass:1, 纯净玻璃
+enderio:block_unholy_fused_glass:2, 纯净玻璃
+enderio:block_unholy_fused_glass:3, 纯净玻璃
+enderio:block_unholy_fused_glass:4, 纯净玻璃
+enderio:block_unholy_fused_glass:5, 纯净玻璃
+enderio:block_unholy_fused_glass:6, 纯净玻璃
+enderio:block_unholy_fused_glass:7, 纯净玻璃
+enderio:block_unholy_fused_glass:8, 纯净玻璃
+enderio:block_unholy_fused_glass:9, 纯净玻璃
+enderio:block_unholy_fused_glass:10, 纯净玻璃
+enderio:block_unholy_fused_glass:11, 纯净玻璃
+enderio:block_unholy_fused_glass:12, 纯净玻璃
+enderio:block_unholy_fused_glass:13, 纯净玻璃
+enderio:block_unholy_fused_glass:14, 纯净玻璃
+enderio:block_unholy_fused_glass:15, 纯净玻璃
+enderio:block_unholy_enlightened_fused_quartz:0, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:1, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:2, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:3, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:4, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:5, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:6, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:7, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:8, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:9, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:10, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:11, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:12, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:13, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:14, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_quartz:15, 荧光石英玻璃
+enderio:block_unholy_enlightened_fused_glass:0, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:1, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:2, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:3, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:4, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:5, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:6, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:7, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:8, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:9, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:10, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:11, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:12, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:13, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:14, 荧光纯净玻璃
+enderio:block_unholy_enlightened_fused_glass:15, 荧光纯净玻璃
+enderio:block_unholy_dark_fused_quartz:0, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:1, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:2, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:3, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:4, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:5, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:6, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:7, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:8, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:9, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:10, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:11, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:12, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:13, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:14, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_quartz:15, 黑暗石英玻璃
+enderio:block_unholy_dark_fused_glass:0, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:1, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:2, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:3, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:4, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:5, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:6, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:7, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:8, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:9, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:10, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:11, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:12, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:13, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:14, 黑暗纯净玻璃
+enderio:block_unholy_dark_fused_glass:15, 黑暗纯净玻璃
+enderio:block_pasture_fused_quartz:0, 石英玻璃
+enderio:block_pasture_fused_quartz:1, 石英玻璃
+enderio:block_pasture_fused_quartz:2, 石英玻璃
+enderio:block_pasture_fused_quartz:3, 石英玻璃
+enderio:block_pasture_fused_quartz:4, 石英玻璃
+enderio:block_pasture_fused_quartz:5, 石英玻璃
+enderio:block_pasture_fused_quartz:6, 石英玻璃
+enderio:block_pasture_fused_quartz:7, 石英玻璃
+enderio:block_pasture_fused_quartz:8, 石英玻璃
+enderio:block_pasture_fused_quartz:9, 石英玻璃
+enderio:block_pasture_fused_quartz:10, 石英玻璃
+enderio:block_pasture_fused_quartz:11, 石英玻璃
+enderio:block_pasture_fused_quartz:12, 石英玻璃
+enderio:block_pasture_fused_quartz:13, 石英玻璃
+enderio:block_pasture_fused_quartz:14, 石英玻璃
+enderio:block_pasture_fused_quartz:15, 石英玻璃
+enderio:block_pasture_fused_glass:0, 纯净玻璃
+enderio:block_pasture_fused_glass:1, 纯净玻璃
+enderio:block_pasture_fused_glass:2, 纯净玻璃
+enderio:block_pasture_fused_glass:3, 纯净玻璃
+enderio:block_pasture_fused_glass:4, 纯净玻璃
+enderio:block_pasture_fused_glass:5, 纯净玻璃
+enderio:block_pasture_fused_glass:6, 纯净玻璃
+enderio:block_pasture_fused_glass:7, 纯净玻璃
+enderio:block_pasture_fused_glass:8, 纯净玻璃
+enderio:block_pasture_fused_glass:9, 纯净玻璃
+enderio:block_pasture_fused_glass:10, 纯净玻璃
+enderio:block_pasture_fused_glass:11, 纯净玻璃
+enderio:block_pasture_fused_glass:12, 纯净玻璃
+enderio:block_pasture_fused_glass:13, 纯净玻璃
+enderio:block_pasture_fused_glass:14, 纯净玻璃
+enderio:block_pasture_fused_glass:15, 纯净玻璃
+enderio:block_pasture_enlightened_fused_quartz:0, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:1, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:2, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:3, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:4, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:5, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:6, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:7, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:8, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:9, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:10, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:11, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:12, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:13, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:14, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_quartz:15, 荧光石英玻璃
+enderio:block_pasture_enlightened_fused_glass:0, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:1, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:2, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:3, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:4, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:5, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:6, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:7, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:8, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:9, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:10, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:11, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:12, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:13, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:14, 荧光纯净玻璃
+enderio:block_pasture_enlightened_fused_glass:15, 荧光纯净玻璃
+enderio:block_pasture_dark_fused_quartz:0, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:1, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:2, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:3, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:4, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:5, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:6, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:7, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:8, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:9, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:10, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:11, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:12, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:13, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:14, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_quartz:15, 黑暗石英玻璃
+enderio:block_pasture_dark_fused_glass:0, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:1, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:2, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:3, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:4, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:5, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:6, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:7, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:8, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:9, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:10, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:11, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:12, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:13, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:14, 黑暗纯净玻璃
+enderio:block_pasture_dark_fused_glass:15, 黑暗纯净玻璃
+enderio:block_not_holy_fused_quartz:0, 石英玻璃
+enderio:block_not_holy_fused_quartz:1, 石英玻璃
+enderio:block_not_holy_fused_quartz:2, 石英玻璃
+enderio:block_not_holy_fused_quartz:3, 石英玻璃
+enderio:block_not_holy_fused_quartz:4, 石英玻璃
+enderio:block_not_holy_fused_quartz:5, 石英玻璃
+enderio:block_not_holy_fused_quartz:6, 石英玻璃
+enderio:block_not_holy_fused_quartz:7, 石英玻璃
+enderio:block_not_holy_fused_quartz:8, 石英玻璃
+enderio:block_not_holy_fused_quartz:9, 石英玻璃
+enderio:block_not_holy_fused_quartz:10, 石英玻璃
+enderio:block_not_holy_fused_quartz:11, 石英玻璃
+enderio:block_not_holy_fused_quartz:12, 石英玻璃
+enderio:block_not_holy_fused_quartz:13, 石英玻璃
+enderio:block_not_holy_fused_quartz:14, 石英玻璃
+enderio:block_not_holy_fused_quartz:15, 石英玻璃
+enderio:block_not_holy_fused_glass:0, 纯净玻璃
+enderio:block_not_holy_fused_glass:1, 纯净玻璃
+enderio:block_not_holy_fused_glass:2, 纯净玻璃
+enderio:block_not_holy_fused_glass:3, 纯净玻璃
+enderio:block_not_holy_fused_glass:4, 纯净玻璃
+enderio:block_not_holy_fused_glass:5, 纯净玻璃
+enderio:block_not_holy_fused_glass:6, 纯净玻璃
+enderio:block_not_holy_fused_glass:7, 纯净玻璃
+enderio:block_not_holy_fused_glass:8, 纯净玻璃
+enderio:block_not_holy_fused_glass:9, 纯净玻璃
+enderio:block_not_holy_fused_glass:10, 纯净玻璃
+enderio:block_not_holy_fused_glass:11, 纯净玻璃
+enderio:block_not_holy_fused_glass:12, 纯净玻璃
+enderio:block_not_holy_fused_glass:13, 纯净玻璃
+enderio:block_not_holy_fused_glass:14, 纯净玻璃
+enderio:block_not_holy_fused_glass:15, 纯净玻璃
+enderio:block_not_holy_enlightened_fused_quartz:0, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:1, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:2, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:3, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:4, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:5, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:6, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:7, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:8, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:9, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:10, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:11, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:12, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:13, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:14, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_quartz:15, 荧光石英玻璃
+enderio:block_not_holy_enlightened_fused_glass:0, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:1, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:2, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:3, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:4, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:5, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:6, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:7, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:8, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:9, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:10, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:11, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:12, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:13, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:14, 荧光纯净玻璃
+enderio:block_not_holy_enlightened_fused_glass:15, 荧光纯净玻璃
+enderio:block_not_holy_dark_fused_quartz:0, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:1, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:2, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:3, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:4, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:5, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:6, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:7, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:8, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:9, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:10, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:11, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:12, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:13, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:14, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_quartz:15, 黑暗石英玻璃
+enderio:block_not_holy_dark_fused_glass:0, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:1, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:2, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:3, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:4, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:5, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:6, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:7, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:8, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:9, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:10, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:11, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:12, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:13, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:14, 黑暗纯净玻璃
+enderio:block_not_holy_dark_fused_glass:15, 黑暗纯净玻璃
+enderio:block_not_unholy_fused_quartz:0, 石英玻璃
+enderio:block_not_unholy_fused_quartz:1, 石英玻璃
+enderio:block_not_unholy_fused_quartz:2, 石英玻璃
+enderio:block_not_unholy_fused_quartz:3, 石英玻璃
+enderio:block_not_unholy_fused_quartz:4, 石英玻璃
+enderio:block_not_unholy_fused_quartz:5, 石英玻璃
+enderio:block_not_unholy_fused_quartz:6, 石英玻璃
+enderio:block_not_unholy_fused_quartz:7, 石英玻璃
+enderio:block_not_unholy_fused_quartz:8, 石英玻璃
+enderio:block_not_unholy_fused_quartz:9, 石英玻璃
+enderio:block_not_unholy_fused_quartz:10, 石英玻璃
+enderio:block_not_unholy_fused_quartz:11, 石英玻璃
+enderio:block_not_unholy_fused_quartz:12, 石英玻璃
+enderio:block_not_unholy_fused_quartz:13, 石英玻璃
+enderio:block_not_unholy_fused_quartz:14, 石英玻璃
+enderio:block_not_unholy_fused_quartz:15, 石英玻璃
+enderio:block_not_unholy_fused_glass:0, 纯净玻璃
+enderio:block_not_unholy_fused_glass:1, 纯净玻璃
+enderio:block_not_unholy_fused_glass:2, 纯净玻璃
+enderio:block_not_unholy_fused_glass:3, 纯净玻璃
+enderio:block_not_unholy_fused_glass:4, 纯净玻璃
+enderio:block_not_unholy_fused_glass:5, 纯净玻璃
+enderio:block_not_unholy_fused_glass:6, 纯净玻璃
+enderio:block_not_unholy_fused_glass:7, 纯净玻璃
+enderio:block_not_unholy_fused_glass:8, 纯净玻璃
+enderio:block_not_unholy_fused_glass:9, 纯净玻璃
+enderio:block_not_unholy_fused_glass:10, 纯净玻璃
+enderio:block_not_unholy_fused_glass:11, 纯净玻璃
+enderio:block_not_unholy_fused_glass:12, 纯净玻璃
+enderio:block_not_unholy_fused_glass:13, 纯净玻璃
+enderio:block_not_unholy_fused_glass:14, 纯净玻璃
+enderio:block_not_unholy_fused_glass:15, 纯净玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:0, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:1, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:2, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:3, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:4, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:5, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:6, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:7, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:8, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:9, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:10, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:11, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:12, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:13, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:14, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_quartz:15, 荧光石英玻璃
+enderio:block_not_unholy_enlightened_fused_glass:0, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:1, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:2, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:3, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:4, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:5, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:6, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:7, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:8, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:9, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:10, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:11, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:12, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:13, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:14, 荧光纯净玻璃
+enderio:block_not_unholy_enlightened_fused_glass:15, 荧光纯净玻璃
+enderio:block_not_unholy_dark_fused_quartz:0, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:1, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:2, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:3, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:4, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:5, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:6, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:7, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:8, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:9, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:10, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:11, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:12, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:13, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:14, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_quartz:15, 黑暗石英玻璃
+enderio:block_not_unholy_dark_fused_glass:0, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:1, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:2, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:3, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:4, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:5, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:6, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:7, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:8, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:9, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:10, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:11, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:12, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:13, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:14, 黑暗纯净玻璃
+enderio:block_not_unholy_dark_fused_glass:15, 黑暗纯净玻璃
+enderio:block_not_pasture_fused_quartz:0, 石英玻璃
+enderio:block_not_pasture_fused_quartz:1, 石英玻璃
+enderio:block_not_pasture_fused_quartz:2, 石英玻璃
+enderio:block_not_pasture_fused_quartz:3, 石英玻璃
+enderio:block_not_pasture_fused_quartz:4, 石英玻璃
+enderio:block_not_pasture_fused_quartz:5, 石英玻璃
+enderio:block_not_pasture_fused_quartz:6, 石英玻璃
+enderio:block_not_pasture_fused_quartz:7, 石英玻璃
+enderio:block_not_pasture_fused_quartz:8, 石英玻璃
+enderio:block_not_pasture_fused_quartz:9, 石英玻璃
+enderio:block_not_pasture_fused_quartz:10, 石英玻璃
+enderio:block_not_pasture_fused_quartz:11, 石英玻璃
+enderio:block_not_pasture_fused_quartz:12, 石英玻璃
+enderio:block_not_pasture_fused_quartz:13, 石英玻璃
+enderio:block_not_pasture_fused_quartz:14, 石英玻璃
+enderio:block_not_pasture_fused_quartz:15, 石英玻璃
+enderio:block_not_pasture_fused_glass:0, 纯净玻璃
+enderio:block_not_pasture_fused_glass:1, 纯净玻璃
+enderio:block_not_pasture_fused_glass:2, 纯净玻璃
+enderio:block_not_pasture_fused_glass:3, 纯净玻璃
+enderio:block_not_pasture_fused_glass:4, 纯净玻璃
+enderio:block_not_pasture_fused_glass:5, 纯净玻璃
+enderio:block_not_pasture_fused_glass:6, 纯净玻璃
+enderio:block_not_pasture_fused_glass:7, 纯净玻璃
+enderio:block_not_pasture_fused_glass:8, 纯净玻璃
+enderio:block_not_pasture_fused_glass:9, 纯净玻璃
+enderio:block_not_pasture_fused_glass:10, 纯净玻璃
+enderio:block_not_pasture_fused_glass:11, 纯净玻璃
+enderio:block_not_pasture_fused_glass:12, 纯净玻璃
+enderio:block_not_pasture_fused_glass:13, 纯净玻璃
+enderio:block_not_pasture_fused_glass:14, 纯净玻璃
+enderio:block_not_pasture_fused_glass:15, 纯净玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:0, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:1, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:2, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:3, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:4, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:5, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:6, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:7, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:8, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:9, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:10, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:11, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:12, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:13, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:14, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_quartz:15, 荧光石英玻璃
+enderio:block_not_pasture_enlightened_fused_glass:0, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:1, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:2, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:3, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:4, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:5, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:6, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:7, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:8, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:9, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:10, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:11, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:12, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:13, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:14, 荧光纯净玻璃
+enderio:block_not_pasture_enlightened_fused_glass:15, 荧光纯净玻璃
+enderio:block_not_pasture_dark_fused_quartz:0, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:1, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:2, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:3, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:4, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:5, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:6, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:7, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:8, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:9, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:10, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:11, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:12, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:13, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:14, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_quartz:15, 黑暗石英玻璃
+enderio:block_not_pasture_dark_fused_glass:0, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:1, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:2, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:3, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:4, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:5, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:6, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:7, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:8, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:9, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:10, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:11, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:12, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:13, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:14, 黑暗纯净玻璃
+enderio:block_not_pasture_dark_fused_glass:15, 黑暗纯净玻璃
 enderio:item_soul_vial, 灵魂瓶
 enderio:block_detector_block:0, 方块检测器
 enderio:block_detector_block_silent:0, 方块检测器（无声）
@@ -10155,6 +10743,7 @@ enderio:item_dark_steel_upgrade:1, 玄钢升级（爆炸 V）
 enderio:item_dark_steel_upgrade:1, 玄钢升级（爆炸 V）
 enderio:item_dark_steel_upgrade:1, 玄钢升级（旅行）
 enderio:item_dark_steel_upgrade:1, 玄钢升级（旅行）
+enderio:block_death_pouch, 死亡之瓮
 enderio:item_owl_egg, 猫头鹰蛋
 enderio:block_alloy_endergy:0, 粗钢块
 enderio:block_alloy_endergy:1, 晶化合金块
@@ -10196,6 +10785,24 @@ enderio:item_extract_speed_upgrade:0, 导管提取速率升级
 enderio:item_extract_speed_downgrade:0, 导管提取速率降级
 enderio:item_me_conduit:0, ME导管
 enderio:item_me_conduit:1, ME致密导管
+enderio:block_inventory_panel, 存储面板
+enderio:block_inventory_panel_sensor, 物品感应器
+enderio:block_inventory_chest_tiny, 微型存储系统仓库
+enderio:block_inventory_chest_small, 小型存储系统仓库
+enderio:block_inventory_chest_medium, 中型存储系统仓库
+enderio:block_inventory_chest_big, 大型存储系统仓库
+enderio:block_inventory_chest_large, 巨型存储系统仓库
+enderio:block_inventory_chest_huge, 超级存储系统仓库
+enderio:block_inventory_chest_enormous, 终极存储系统仓库
+enderio:block_inventory_chest_warehouse, 存储系统仓库货栈
+enderio:block_inventory_chest_warehouse13, 物品系统存储器扩展货栈
+enderio:item_inventory_remote:0, 远程存储面板
+enderio:item_inventory_remote:0, 远程存储面板
+enderio:item_inventory_remote:1, 高级远程存储面板
+enderio:item_inventory_remote:1, 高级远程存储面板
+enderio:item_inventory_remote:2, 末影远程存储面板
+enderio:item_inventory_remote:2, 末影远程存储面板
+enderio:item_data_conduit:0, 数据导管
 enderio:block_simple_furnace, 简易电炉
 enderio:block_simple_alloy_smelter, 简易合金炉
 enderio:block_alloy_smelter, 合金炉
@@ -10238,6 +10845,9 @@ enderio:block_solar_panel:0, 简易光伏电池
 enderio:block_solar_panel:1, 光伏电池
 enderio:block_solar_panel:2, 强化光伏电池
 enderio:block_solar_panel:3, 脉冲光伏电池
+enderio:block_solar_panel:4, 晶化光伏电池
+enderio:block_solar_panel:5, 旋律光伏电池
+enderio:block_solar_panel:6, 恒星光伏电池
 enderio:block_soul_binder, 灵魂绑定器
 enderio:block_powered_spawner, 电动刷怪箱
 enderio:block_vat, 酿液桶
@@ -10272,6 +10882,33 @@ enderio:block_cap_bank:3, 脉冲电容库
 enderio:block_gauge, 能量存量计
 enderio:block_power_monitor, 能量监控器
 enderio:block_advanced_power_monitor, 图形化能量监控器
+enderio:item_capacitor_grainy, 基岩粉电容
+enderio:item_capacitor_crystalline, 晶化电容
+enderio:item_capacitor_melodic, 旋律电容
+enderio:item_capacitor_stellar, 恒星电容
+enderio:item_capacitor_totemic, 不死图腾电容
+enderio:item_endergy_conduit:0, 粗钢能量导管
+enderio:item_endergy_conduit:1, 铁能量导管
+enderio:item_endergy_conduit:2, 铝能量导管
+enderio:item_endergy_conduit:3, 金能量导管
+enderio:item_endergy_conduit:4, 铜能量导管
+enderio:item_endergy_conduit:5, 银能量导管
+enderio:item_endergy_conduit:6, 琥珀金能量导管
+enderio:item_endergy_conduit:7, 充能银能量导管
+enderio:item_endergy_conduit:8, 晶化合金能量导管
+enderio:item_endergy_conduit:9, 晶化粉红史莱姆能量导管
+enderio:item_endergy_conduit:10, 旋律合金能量导管
+enderio:item_endergy_conduit:11, 恒星合金能量导管
+enderio:item_capacitor_silver, 银制电容
+enderio:item_capacitor_energetic_silver, 充能银电容
+enderio:item_capacitor_vivid, 生动合金电容
+enderio:item_stellar_alloy_sword, 终结之剑 IV 型
+enderio:item_stellar_alloy_pickaxe, 恒星镐
+enderio:item_stellar_alloy_axe, 恒星斧
+enderio:item_stellar_alloy_helmet, 恒星头盔
+enderio:item_stellar_alloy_boots, 恒星靴子
+enderio:item_stellar_alloy_chestplate, 恒星胸甲
+enderio:item_stellar_alloy_leggings, 恒星护腿
 chisel:auto_chisel, 自动雕凿机
 chisel:chisel_iron, 凿子
 chisel:chisel_diamond, 钻石凿子
@@ -10820,44 +11457,44 @@ tconstruct:slime_vine_purple_end:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple_mid:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple:0, 紫色史莱姆藤蔓
 tconstruct:pattern:0, 空白模具
-tconstruct:pattern:0, 枪管模具
-tconstruct:pattern:0, 剑刃模具
-tconstruct:pattern:0, 磨制工具模具
-tconstruct:pattern:0, 蓄电池模具
+tconstruct:pattern:0, 宽剑刃模具
 tconstruct:pattern:0, 镐头模具
-tconstruct:pattern:0, 坚韧手柄模具
-tconstruct:pattern:0, 箭杆模具
-tconstruct:pattern:0, 牌板模具
-tconstruct:pattern:0, 开掘铲头模具
+tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 护甲板模具
+tconstruct:pattern:0, 十字柄模具
+tconstruct:pattern:0, 枪管模具
 tconstruct:pattern:0, 园艺镰头模具
-tconstruct:pattern:0, 大板模具
+tconstruct:pattern:0, 护腿基底模具
+tconstruct:pattern:0, 绑定结模具
+tconstruct:pattern:0, 胸甲基底模具
 tconstruct:pattern:0, 弓弦模具
-tconstruct:pattern:0, 激光传导器模具
 tconstruct:pattern:0, 锤头模具
 tconstruct:pattern:0, 盘模具
-tconstruct:pattern:0, 十字柄模具
-tconstruct:pattern:0, 手柄模具
-tconstruct:pattern:0, 箭羽模具
-tconstruct:pattern:0, 宽护手模具
-tconstruct:pattern:0, 刀刃模具
-tconstruct:pattern:0, 胸甲基底模具
-tconstruct:pattern:0, 宽斧刃模具
-tconstruct:pattern:0, 箭头模具
-tconstruct:pattern:0, 靴子基底模具
-tconstruct:pattern:0, 护甲夹板模具
-tconstruct:pattern:0, 锹头模具
-tconstruct:pattern:0, 弓臂模具
-tconstruct:pattern:0, 护甲板模具
-tconstruct:pattern:0, 绑定结模具
-tconstruct:pattern:0, 镰刀头模具
-tconstruct:pattern:0, 碎片模具
 tconstruct:pattern:0, 头盔基底模具
-tconstruct:pattern:0, 斧刃模具
-tconstruct:pattern:0, 抛光工具模具
-tconstruct:pattern:0, 护手模具
-tconstruct:pattern:0, 护腿基底模具
+tconstruct:pattern:0, 开掘铲头模具
+tconstruct:pattern:0, 宽斧刃模具
+tconstruct:pattern:0, 镰刀头模具
+tconstruct:pattern:0, 牌板模具
+tconstruct:pattern:0, 碎片模具
+tconstruct:pattern:0, 箭羽模具
+tconstruct:pattern:0, 大板模具
+tconstruct:pattern:0, 手柄模具
+tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, 激光传导器模具
+tconstruct:pattern:0, 锹头模具
+tconstruct:pattern:0, 靴子基底模具
 tconstruct:pattern:0, 坚韧绑定结模具
-tconstruct:pattern:0, 宽剑刃模具
+tconstruct:pattern:0, 抛光工具模具
+tconstruct:pattern:0, 蓄电池模具
+tconstruct:pattern:0, 弓臂模具
+tconstruct:pattern:0, 刀刃模具
+tconstruct:pattern:0, 箭杆模具
+tconstruct:pattern:0, 坚韧手柄模具
+tconstruct:pattern:0, 磨制工具模具
+tconstruct:pattern:0, 箭头模具
+tconstruct:pattern:0, 护甲夹板模具
+tconstruct:pattern:0, 宽护手模具
+tconstruct:pattern:0, 护手模具
 tconstruct:shard:0, 磁钢 碎片
 tconstruct:shard:0, 充能合金 碎片
 tconstruct:shard:0, 脉冲合金 碎片
@@ -10944,8 +11581,8 @@ tconstruct:shard:0, 活木 碎片
 tconstruct:shard:0, 魔力钢 碎片
 tconstruct:shard:0, 源质钢 碎片
 tconstruct:shard:0, 泰拉钢 碎片
-tconstruct:shard:0, 史莱姆碎片
 tconstruct:shard:0, 绿宝石 碎片
+tconstruct:shard:0, 史莱姆碎片
 tconstruct:sharpening_kit:0, 磁钢 磨制工具
 tconstruct:sharpening_kit:0, 充能合金 磨制工具
 tconstruct:sharpening_kit:0, 脉冲合金 磨制工具
@@ -11032,8 +11669,8 @@ tconstruct:sharpening_kit:0, 活木 磨制工具
 tconstruct:sharpening_kit:0, 魔力钢 磨制工具
 tconstruct:sharpening_kit:0, 源质钢 磨制工具
 tconstruct:sharpening_kit:0, 泰拉钢 磨制工具
-tconstruct:sharpening_kit:0, 史莱姆磨制工具
 tconstruct:sharpening_kit:0, 绿宝石 磨制工具
+tconstruct:sharpening_kit:0, 史莱姆磨制工具
 tconstruct:pick_head:0, 磁钢 镐头
 tconstruct:pick_head:0, 充能合金 镐头
 tconstruct:pick_head:0, 脉冲合金 镐头
@@ -11120,8 +11757,8 @@ tconstruct:pick_head:0, 活木 镐头
 tconstruct:pick_head:0, 魔力钢 镐头
 tconstruct:pick_head:0, 源质钢 镐头
 tconstruct:pick_head:0, 泰拉钢 镐头
-tconstruct:pick_head:0, 史莱姆镐头
 tconstruct:pick_head:0, 绿宝石 镐头
+tconstruct:pick_head:0, 史莱姆镐头
 tconstruct:shovel_head:0, 磁钢 锹头
 tconstruct:shovel_head:0, 充能合金 锹头
 tconstruct:shovel_head:0, 脉冲合金 锹头
@@ -11208,8 +11845,8 @@ tconstruct:shovel_head:0, 活木 锹头
 tconstruct:shovel_head:0, 魔力钢 锹头
 tconstruct:shovel_head:0, 源质钢 锹头
 tconstruct:shovel_head:0, 泰拉钢 锹头
-tconstruct:shovel_head:0, 史莱姆锹头
 tconstruct:shovel_head:0, 绿宝石 锹头
+tconstruct:shovel_head:0, 史莱姆锹头
 tconstruct:axe_head:0, 磁钢 斧刃
 tconstruct:axe_head:0, 充能合金 斧刃
 tconstruct:axe_head:0, 脉冲合金 斧刃
@@ -11296,8 +11933,8 @@ tconstruct:axe_head:0, 活木 斧刃
 tconstruct:axe_head:0, 魔力钢 斧刃
 tconstruct:axe_head:0, 源质钢 斧刃
 tconstruct:axe_head:0, 泰拉钢 斧刃
-tconstruct:axe_head:0, 史莱姆斧刃
 tconstruct:axe_head:0, 绿宝石 斧刃
+tconstruct:axe_head:0, 史莱姆斧刃
 tconstruct:broad_axe_head:0, 磁钢 宽斧刃
 tconstruct:broad_axe_head:0, 充能合金 宽斧刃
 tconstruct:broad_axe_head:0, 脉冲合金 宽斧刃
@@ -11384,8 +12021,8 @@ tconstruct:broad_axe_head:0, 活木 宽斧刃
 tconstruct:broad_axe_head:0, 魔力钢 宽斧刃
 tconstruct:broad_axe_head:0, 源质钢 宽斧刃
 tconstruct:broad_axe_head:0, 泰拉钢 宽斧刃
-tconstruct:broad_axe_head:0, 史莱姆宽斧刃
 tconstruct:broad_axe_head:0, 绿宝石 宽斧刃
+tconstruct:broad_axe_head:0, 史莱姆宽斧刃
 tconstruct:sword_blade:0, 磁钢 剑刃
 tconstruct:sword_blade:0, 充能合金 剑刃
 tconstruct:sword_blade:0, 脉冲合金 剑刃
@@ -11472,8 +12109,8 @@ tconstruct:sword_blade:0, 活木 剑刃
 tconstruct:sword_blade:0, 魔力钢 剑刃
 tconstruct:sword_blade:0, 源质钢 剑刃
 tconstruct:sword_blade:0, 泰拉钢 剑刃
-tconstruct:sword_blade:0, 史莱姆剑刃
 tconstruct:sword_blade:0, 绿宝石 剑刃
+tconstruct:sword_blade:0, 史莱姆剑刃
 tconstruct:large_sword_blade:0, 磁钢 宽剑刃
 tconstruct:large_sword_blade:0, 充能合金 宽剑刃
 tconstruct:large_sword_blade:0, 脉冲合金 宽剑刃
@@ -11560,8 +12197,8 @@ tconstruct:large_sword_blade:0, 活木 宽剑刃
 tconstruct:large_sword_blade:0, 魔力钢 宽剑刃
 tconstruct:large_sword_blade:0, 源质钢 宽剑刃
 tconstruct:large_sword_blade:0, 泰拉钢 宽剑刃
-tconstruct:large_sword_blade:0, 史莱姆宽剑刃
 tconstruct:large_sword_blade:0, 绿宝石 宽剑刃
+tconstruct:large_sword_blade:0, 史莱姆宽剑刃
 tconstruct:hammer_head:0, 磁钢 锤头
 tconstruct:hammer_head:0, 充能合金 锤头
 tconstruct:hammer_head:0, 脉冲合金 锤头
@@ -11648,8 +12285,8 @@ tconstruct:hammer_head:0, 活木 锤头
 tconstruct:hammer_head:0, 魔力钢 锤头
 tconstruct:hammer_head:0, 源质钢 锤头
 tconstruct:hammer_head:0, 泰拉钢 锤头
-tconstruct:hammer_head:0, 史莱姆锤头
 tconstruct:hammer_head:0, 绿宝石 锤头
+tconstruct:hammer_head:0, 史莱姆锤头
 tconstruct:excavator_head:0, 磁钢 开掘铲头
 tconstruct:excavator_head:0, 充能合金 开掘铲头
 tconstruct:excavator_head:0, 脉冲合金 开掘铲头
@@ -11736,8 +12373,8 @@ tconstruct:excavator_head:0, 活木 开掘铲头
 tconstruct:excavator_head:0, 魔力钢 开掘铲头
 tconstruct:excavator_head:0, 源质钢 开掘铲头
 tconstruct:excavator_head:0, 泰拉钢 开掘铲头
-tconstruct:excavator_head:0, 史莱姆开掘铲头
 tconstruct:excavator_head:0, 绿宝石 开掘铲头
+tconstruct:excavator_head:0, 史莱姆开掘铲头
 tconstruct:kama_head:0, 磁钢 园艺镰头
 tconstruct:kama_head:0, 充能合金 园艺镰头
 tconstruct:kama_head:0, 脉冲合金 园艺镰头
@@ -11824,8 +12461,8 @@ tconstruct:kama_head:0, 活木 园艺镰头
 tconstruct:kama_head:0, 魔力钢 园艺镰头
 tconstruct:kama_head:0, 源质钢 园艺镰头
 tconstruct:kama_head:0, 泰拉钢 园艺镰头
-tconstruct:kama_head:0, 史莱姆园艺镰头
 tconstruct:kama_head:0, 绿宝石 园艺镰头
+tconstruct:kama_head:0, 史莱姆园艺镰头
 tconstruct:scythe_head:0, 磁钢 镰刀头
 tconstruct:scythe_head:0, 充能合金 镰刀头
 tconstruct:scythe_head:0, 脉冲合金 镰刀头
@@ -11912,8 +12549,8 @@ tconstruct:scythe_head:0, 活木 镰刀头
 tconstruct:scythe_head:0, 魔力钢 镰刀头
 tconstruct:scythe_head:0, 源质钢 镰刀头
 tconstruct:scythe_head:0, 泰拉钢 镰刀头
-tconstruct:scythe_head:0, 史莱姆镰刀头
 tconstruct:scythe_head:0, 绿宝石 镰刀头
+tconstruct:scythe_head:0, 史莱姆镰刀头
 tconstruct:pan_head:0, 磁钢 盘
 tconstruct:pan_head:0, 充能合金 盘
 tconstruct:pan_head:0, 脉冲合金 盘
@@ -12000,8 +12637,8 @@ tconstruct:pan_head:0, 活木 盘
 tconstruct:pan_head:0, 魔力钢 盘
 tconstruct:pan_head:0, 源质钢 盘
 tconstruct:pan_head:0, 泰拉钢 盘
-tconstruct:pan_head:0, 史莱姆盘
 tconstruct:pan_head:0, 绿宝石 盘
+tconstruct:pan_head:0, 史莱姆盘
 tconstruct:sign_head:0, 磁钢 牌板
 tconstruct:sign_head:0, 充能合金 牌板
 tconstruct:sign_head:0, 脉冲合金 牌板
@@ -12088,8 +12725,8 @@ tconstruct:sign_head:0, 活木 牌板
 tconstruct:sign_head:0, 魔力钢 牌板
 tconstruct:sign_head:0, 源质钢 牌板
 tconstruct:sign_head:0, 泰拉钢 牌板
-tconstruct:sign_head:0, 史莱姆牌板
 tconstruct:sign_head:0, 绿宝石 牌板
+tconstruct:sign_head:0, 史莱姆牌板
 tconstruct:tool_rod:0, 磁钢 手柄
 tconstruct:tool_rod:0, 充能合金 手柄
 tconstruct:tool_rod:0, 脉冲合金 手柄
@@ -12175,8 +12812,8 @@ tconstruct:tool_rod:0, 活木 手柄
 tconstruct:tool_rod:0, 魔力钢 手柄
 tconstruct:tool_rod:0, 源质钢 手柄
 tconstruct:tool_rod:0, 泰拉钢 手柄
-tconstruct:tool_rod:0, 史莱姆手柄
 tconstruct:tool_rod:0, 绿宝石 手柄
+tconstruct:tool_rod:0, 史莱姆手柄
 tconstruct:tough_tool_rod:0, 磁钢 坚韧手柄
 tconstruct:tough_tool_rod:0, 充能合金 坚韧手柄
 tconstruct:tough_tool_rod:0, 脉冲合金 坚韧手柄
@@ -12262,8 +12899,8 @@ tconstruct:tough_tool_rod:0, 活木 坚韧手柄
 tconstruct:tough_tool_rod:0, 魔力钢 坚韧手柄
 tconstruct:tough_tool_rod:0, 源质钢 坚韧手柄
 tconstruct:tough_tool_rod:0, 泰拉钢 坚韧手柄
-tconstruct:tough_tool_rod:0, 史莱姆坚韧手柄
 tconstruct:tough_tool_rod:0, 绿宝石 坚韧手柄
+tconstruct:tough_tool_rod:0, 史莱姆坚韧手柄
 tconstruct:binding:0, 磁钢 绑定结
 tconstruct:binding:0, 充能合金 绑定结
 tconstruct:binding:0, 脉冲合金 绑定结
@@ -12349,8 +12986,8 @@ tconstruct:binding:0, 活木 绑定结
 tconstruct:binding:0, 魔力钢 绑定结
 tconstruct:binding:0, 源质钢 绑定结
 tconstruct:binding:0, 泰拉钢 绑定结
-tconstruct:binding:0, 史莱姆绑定结
 tconstruct:binding:0, 绿宝石 绑定结
+tconstruct:binding:0, 史莱姆绑定结
 tconstruct:tough_binding:0, 磁钢 坚韧绑定结
 tconstruct:tough_binding:0, 充能合金 坚韧绑定结
 tconstruct:tough_binding:0, 脉冲合金 坚韧绑定结
@@ -12436,8 +13073,8 @@ tconstruct:tough_binding:0, 活木 坚韧绑定结
 tconstruct:tough_binding:0, 魔力钢 坚韧绑定结
 tconstruct:tough_binding:0, 源质钢 坚韧绑定结
 tconstruct:tough_binding:0, 泰拉钢 坚韧绑定结
-tconstruct:tough_binding:0, 史莱姆坚韧绑定结
 tconstruct:tough_binding:0, 绿宝石 坚韧绑定结
+tconstruct:tough_binding:0, 史莱姆坚韧绑定结
 tconstruct:wide_guard:0, 磁钢 宽护手
 tconstruct:wide_guard:0, 充能合金 宽护手
 tconstruct:wide_guard:0, 脉冲合金 宽护手
@@ -12523,8 +13160,8 @@ tconstruct:wide_guard:0, 活木 宽护手
 tconstruct:wide_guard:0, 魔力钢 宽护手
 tconstruct:wide_guard:0, 源质钢 宽护手
 tconstruct:wide_guard:0, 泰拉钢 宽护手
-tconstruct:wide_guard:0, 史莱姆宽护手
 tconstruct:wide_guard:0, 绿宝石 宽护手
+tconstruct:wide_guard:0, 史莱姆宽护手
 tconstruct:hand_guard:0, 磁钢 护手
 tconstruct:hand_guard:0, 充能合金 护手
 tconstruct:hand_guard:0, 脉冲合金 护手
@@ -12610,8 +13247,8 @@ tconstruct:hand_guard:0, 活木 护手
 tconstruct:hand_guard:0, 魔力钢 护手
 tconstruct:hand_guard:0, 源质钢 护手
 tconstruct:hand_guard:0, 泰拉钢 护手
-tconstruct:hand_guard:0, 史莱姆护手
 tconstruct:hand_guard:0, 绿宝石 护手
+tconstruct:hand_guard:0, 史莱姆护手
 tconstruct:cross_guard:0, 磁钢 十字柄
 tconstruct:cross_guard:0, 充能合金 十字柄
 tconstruct:cross_guard:0, 脉冲合金 十字柄
@@ -12697,8 +13334,8 @@ tconstruct:cross_guard:0, 活木 十字柄
 tconstruct:cross_guard:0, 魔力钢 十字柄
 tconstruct:cross_guard:0, 源质钢 十字柄
 tconstruct:cross_guard:0, 泰拉钢 十字柄
-tconstruct:cross_guard:0, 史莱姆十字柄
 tconstruct:cross_guard:0, 绿宝石 十字柄
+tconstruct:cross_guard:0, 史莱姆十字柄
 tconstruct:large_plate:0, 磁钢 大板
 tconstruct:large_plate:0, 充能合金 大板
 tconstruct:large_plate:0, 脉冲合金 大板
@@ -12785,8 +13422,8 @@ tconstruct:large_plate:0, 活木 大板
 tconstruct:large_plate:0, 魔力钢 大板
 tconstruct:large_plate:0, 源质钢 大板
 tconstruct:large_plate:0, 泰拉钢 大板
-tconstruct:large_plate:0, 史莱姆大板
 tconstruct:large_plate:0, 绿宝石 大板
+tconstruct:large_plate:0, 史莱姆大板
 tconstruct:knife_blade:0, 磁钢 刀刃
 tconstruct:knife_blade:0, 充能合金 刀刃
 tconstruct:knife_blade:0, 脉冲合金 刀刃
@@ -12872,8 +13509,8 @@ tconstruct:knife_blade:0, 活木 刀刃
 tconstruct:knife_blade:0, 魔力钢 刀刃
 tconstruct:knife_blade:0, 源质钢 刀刃
 tconstruct:knife_blade:0, 泰拉钢 刀刃
-tconstruct:knife_blade:0, 史莱姆刀刃
 tconstruct:knife_blade:0, 绿宝石 刀刃
+tconstruct:knife_blade:0, 史莱姆刀刃
 tconstruct:bow_limb:0, 磁钢 弓臂
 tconstruct:bow_limb:0, 充能合金 弓臂
 tconstruct:bow_limb:0, 脉冲合金 弓臂
@@ -12957,8 +13594,8 @@ tconstruct:bow_limb:0, 活木 弓臂
 tconstruct:bow_limb:0, 魔力钢 弓臂
 tconstruct:bow_limb:0, 源质钢 弓臂
 tconstruct:bow_limb:0, 泰拉钢 弓臂
-tconstruct:bow_limb:0, 史莱姆弓臂
 tconstruct:bow_limb:0, 绿宝石 弓臂
+tconstruct:bow_limb:0, 史莱姆弓臂
 tconstruct:bow_string:0, 魂金 弓弦
 tconstruct:bow_string:0, 线 弓弦
 tconstruct:bow_string:0, 史莱姆藤蔓 弓弦
@@ -13051,8 +13688,8 @@ tconstruct:arrow_head:0, 活木 箭头
 tconstruct:arrow_head:0, 魔力钢 箭头
 tconstruct:arrow_head:0, 源质钢 箭头
 tconstruct:arrow_head:0, 泰拉钢 箭头
-tconstruct:arrow_head:0, 史莱姆箭头
 tconstruct:arrow_head:0, 绿宝石 箭头
+tconstruct:arrow_head:0, 史莱姆箭头
 tconstruct:arrow_shaft:0, 娜迦鳞片 箭杆
 tconstruct:arrow_shaft:0, 钢叶 箭杆
 tconstruct:arrow_shaft:0, 炽铁 箭杆
@@ -13281,6 +13918,13 @@ tconstruct:toolforge:0, 工具锻造台
 tconstruct:toolforge:0, 工具锻造台
 tconstruct:toolforge:0, 工具锻造台
 tconstruct:toolforge:0, 工具锻造台
+tconstruct:toolforge:0, 工具锻造台
+tconstruct:toolforge:0, 工具锻造台
+tconstruct:toolforge:0, 工具锻造台
+tconstruct:toolforge:0, 工具锻造台
+tconstruct:toolforge:0, 工具锻造台
+tconstruct:toolforge:0, 工具锻造台
+tconstruct:toolforge:0, 工具锻造台
 tconstruct:pickaxe, 镐
 tconstruct:shovel, 锹
 tconstruct:hatchet, 手斧
@@ -13351,88 +13995,88 @@ tconstruct:seared_stairs_road:0, 焦黑铺路石楼梯
 tconstruct:seared_stairs_tile:0, 焦黑瓷砖楼梯
 tconstruct:seared_stairs_creeper:0, 焦黑雕琢楼梯
 tconstruct:cast:0, 空白铸模
-tconstruct:cast:0, 枪管铸模
-tconstruct:cast:0, 剑刃铸模
-tconstruct:cast:0, 磨制工具铸模
-tconstruct:cast:0, 蓄电池铸模
+tconstruct:cast:0, 宽剑刃铸模
 tconstruct:cast:0, 镐头铸模
-tconstruct:cast:0, 坚韧手柄铸模
-tconstruct:cast:0, 箭杆铸模
-tconstruct:cast:0, 牌板铸模
-tconstruct:cast:0, 开掘铲头铸模
+tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 护甲板铸模
+tconstruct:cast:0, 十字柄铸模
+tconstruct:cast:0, 枪管铸模
 tconstruct:cast:0, 园艺镰头铸模
-tconstruct:cast:0, 大板铸模
+tconstruct:cast:0, 护腿基底铸模
+tconstruct:cast:0, 绑定结铸模
+tconstruct:cast:0, 胸甲基底铸模
 tconstruct:cast:0, 弓弦铸模
-tconstruct:cast:0, 激光传导器铸模
 tconstruct:cast:0, 锤头铸模
 tconstruct:cast:0, 盘铸模
-tconstruct:cast:0, 十字柄铸模
-tconstruct:cast:0, 手柄铸模
-tconstruct:cast:0, 箭羽铸模
-tconstruct:cast:0, 宽护手铸模
-tconstruct:cast:0, 刀刃铸模
-tconstruct:cast:0, 胸甲基底铸模
-tconstruct:cast:0, 宽斧刃铸模
-tconstruct:cast:0, 箭头铸模
-tconstruct:cast:0, 靴子基底铸模
-tconstruct:cast:0, 护甲夹板铸模
-tconstruct:cast:0, 锹头铸模
-tconstruct:cast:0, 弓臂铸模
-tconstruct:cast:0, 护甲板铸模
-tconstruct:cast:0, 绑定结铸模
-tconstruct:cast:0, 镰刀头铸模
-tconstruct:cast:0, 碎片铸模
 tconstruct:cast:0, 头盔基底铸模
-tconstruct:cast:0, 斧刃铸模
-tconstruct:cast:0, 抛光工具铸模
-tconstruct:cast:0, 护手铸模
-tconstruct:cast:0, 护腿基底铸模
+tconstruct:cast:0, 开掘铲头铸模
+tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, 镰刀头铸模
+tconstruct:cast:0, 牌板铸模
+tconstruct:cast:0, 碎片铸模
+tconstruct:cast:0, 箭羽铸模
+tconstruct:cast:0, 大板铸模
+tconstruct:cast:0, 手柄铸模
+tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, 激光传导器铸模
+tconstruct:cast:0, 锹头铸模
+tconstruct:cast:0, 靴子基底铸模
 tconstruct:cast:0, 坚韧绑定结铸模
-tconstruct:cast:0, 宽剑刃铸模
+tconstruct:cast:0, 抛光工具铸模
+tconstruct:cast:0, 蓄电池铸模
+tconstruct:cast:0, 弓臂铸模
+tconstruct:cast:0, 刀刃铸模
+tconstruct:cast:0, 箭杆铸模
+tconstruct:cast:0, 坚韧手柄铸模
+tconstruct:cast:0, 磨制工具铸模
+tconstruct:cast:0, 箭头铸模
+tconstruct:cast:0, 护甲夹板铸模
+tconstruct:cast:0, 宽护手铸模
+tconstruct:cast:0, 护手铸模
 tconstruct:cast_custom:0, 锭铸模
 tconstruct:cast_custom:1, 粒铸模
 tconstruct:cast_custom:2, 宝石铸模
 tconstruct:cast_custom:3, 板铸模
 tconstruct:cast_custom:4, 齿轮铸模
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 枪管粘土铸模
-tconstruct:clay_cast:0, 剑刃粘土铸模
-tconstruct:clay_cast:0, 磨制工具粘土铸模
-tconstruct:clay_cast:0, 蓄电池粘土铸模
+tconstruct:clay_cast:0, 宽剑刃粘土铸模
 tconstruct:clay_cast:0, 镐头粘土铸模
-tconstruct:clay_cast:0, 坚韧手柄粘土铸模
-tconstruct:clay_cast:0, 箭杆粘土铸模
-tconstruct:clay_cast:0, 牌板粘土铸模
-tconstruct:clay_cast:0, 开掘铲头粘土铸模
+tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 护甲板粘土铸模
+tconstruct:clay_cast:0, 十字柄粘土铸模
+tconstruct:clay_cast:0, 枪管粘土铸模
 tconstruct:clay_cast:0, 园艺镰头粘土铸模
-tconstruct:clay_cast:0, 大板粘土铸模
+tconstruct:clay_cast:0, 护腿基底粘土铸模
+tconstruct:clay_cast:0, 绑定结粘土铸模
+tconstruct:clay_cast:0, 胸甲基底粘土铸模
 tconstruct:clay_cast:0, 弓弦粘土铸模
-tconstruct:clay_cast:0, 激光传导器粘土铸模
 tconstruct:clay_cast:0, 锤头粘土铸模
 tconstruct:clay_cast:0, 盘粘土铸模
-tconstruct:clay_cast:0, 十字柄粘土铸模
-tconstruct:clay_cast:0, 手柄粘土铸模
-tconstruct:clay_cast:0, 箭羽粘土铸模
-tconstruct:clay_cast:0, 宽护手粘土铸模
-tconstruct:clay_cast:0, 刀刃粘土铸模
-tconstruct:clay_cast:0, 胸甲基底粘土铸模
-tconstruct:clay_cast:0, 宽斧刃粘土铸模
-tconstruct:clay_cast:0, 箭头粘土铸模
-tconstruct:clay_cast:0, 靴子基底粘土铸模
-tconstruct:clay_cast:0, 护甲夹板粘土铸模
-tconstruct:clay_cast:0, 锹头粘土铸模
-tconstruct:clay_cast:0, 弓臂粘土铸模
-tconstruct:clay_cast:0, 护甲板粘土铸模
-tconstruct:clay_cast:0, 绑定结粘土铸模
-tconstruct:clay_cast:0, 镰刀头粘土铸模
-tconstruct:clay_cast:0, 碎片粘土铸模
 tconstruct:clay_cast:0, 头盔基底粘土铸模
-tconstruct:clay_cast:0, 斧刃粘土铸模
-tconstruct:clay_cast:0, 抛光工具粘土铸模
-tconstruct:clay_cast:0, 护手粘土铸模
-tconstruct:clay_cast:0, 护腿基底粘土铸模
+tconstruct:clay_cast:0, 开掘铲头粘土铸模
+tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, 镰刀头粘土铸模
+tconstruct:clay_cast:0, 牌板粘土铸模
+tconstruct:clay_cast:0, 碎片粘土铸模
+tconstruct:clay_cast:0, 箭羽粘土铸模
+tconstruct:clay_cast:0, 大板粘土铸模
+tconstruct:clay_cast:0, 手柄粘土铸模
+tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, 激光传导器粘土铸模
+tconstruct:clay_cast:0, 锹头粘土铸模
+tconstruct:clay_cast:0, 靴子基底粘土铸模
 tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
-tconstruct:clay_cast:0, 宽剑刃粘土铸模
+tconstruct:clay_cast:0, 抛光工具粘土铸模
+tconstruct:clay_cast:0, 蓄电池粘土铸模
+tconstruct:clay_cast:0, 弓臂粘土铸模
+tconstruct:clay_cast:0, 刀刃粘土铸模
+tconstruct:clay_cast:0, 箭杆粘土铸模
+tconstruct:clay_cast:0, 坚韧手柄粘土铸模
+tconstruct:clay_cast:0, 磨制工具粘土铸模
+tconstruct:clay_cast:0, 箭头粘土铸模
+tconstruct:clay_cast:0, 护甲夹板粘土铸模
+tconstruct:clay_cast:0, 宽护手粘土铸模
+tconstruct:clay_cast:0, 护手粘土铸模
 tconstruct:stone_torch:0, 石柄火把
 tconstruct:stone_ladder:0, 石梯
 tconstruct:punji:0, 尖竹钉
@@ -13599,8 +14243,8 @@ conarm:helmet_core:0, 活木 头盔基底
 conarm:helmet_core:0, 魔力钢 头盔基底
 conarm:helmet_core:0, 源质钢 头盔基底
 conarm:helmet_core:0, 泰拉钢 头盔基底
-conarm:helmet_core:0, 史莱姆头盔基底
 conarm:helmet_core:0, 绿宝石 头盔基底
+conarm:helmet_core:0, 史莱姆头盔基底
 conarm:armor_trim:0, 磁钢 护甲夹板
 conarm:armor_trim:0, 充能合金 护甲夹板
 conarm:armor_trim:0, 脉冲合金 护甲夹板
@@ -13687,8 +14331,8 @@ conarm:armor_trim:0, 活木 护甲夹板
 conarm:armor_trim:0, 魔力钢 护甲夹板
 conarm:armor_trim:0, 源质钢 护甲夹板
 conarm:armor_trim:0, 泰拉钢 护甲夹板
-conarm:armor_trim:0, 史莱姆护甲夹板
 conarm:armor_trim:0, 绿宝石 护甲夹板
+conarm:armor_trim:0, 史莱姆护甲夹板
 conarm:armor_plate:0, 磁钢 护甲板
 conarm:armor_plate:0, 充能合金 护甲板
 conarm:armor_plate:0, 脉冲合金 护甲板
@@ -13775,8 +14419,8 @@ conarm:armor_plate:0, 活木 护甲板
 conarm:armor_plate:0, 魔力钢 护甲板
 conarm:armor_plate:0, 源质钢 护甲板
 conarm:armor_plate:0, 泰拉钢 护甲板
-conarm:armor_plate:0, 史莱姆护甲板
 conarm:armor_plate:0, 绿宝石 护甲板
+conarm:armor_plate:0, 史莱姆护甲板
 conarm:chest_core:0, 磁钢 胸甲基底
 conarm:chest_core:0, 充能合金 胸甲基底
 conarm:chest_core:0, 脉冲合金 胸甲基底
@@ -13863,8 +14507,8 @@ conarm:chest_core:0, 活木 胸甲基底
 conarm:chest_core:0, 魔力钢 胸甲基底
 conarm:chest_core:0, 源质钢 胸甲基底
 conarm:chest_core:0, 泰拉钢 胸甲基底
-conarm:chest_core:0, 史莱姆胸甲基底
 conarm:chest_core:0, 绿宝石 胸甲基底
+conarm:chest_core:0, 史莱姆胸甲基底
 conarm:leggings_core:0, 磁钢 护腿基底
 conarm:leggings_core:0, 充能合金 护腿基底
 conarm:leggings_core:0, 脉冲合金 护腿基底
@@ -13951,8 +14595,8 @@ conarm:leggings_core:0, 活木 护腿基底
 conarm:leggings_core:0, 魔力钢 护腿基底
 conarm:leggings_core:0, 源质钢 护腿基底
 conarm:leggings_core:0, 泰拉钢 护腿基底
-conarm:leggings_core:0, 史莱姆护腿基底
 conarm:leggings_core:0, 绿宝石 护腿基底
+conarm:leggings_core:0, 史莱姆护腿基底
 conarm:boots_core:0, 磁钢 靴子基底
 conarm:boots_core:0, 充能合金 靴子基底
 conarm:boots_core:0, 脉冲合金 靴子基底
@@ -14039,8 +14683,8 @@ conarm:boots_core:0, 活木 靴子基底
 conarm:boots_core:0, 魔力钢 靴子基底
 conarm:boots_core:0, 源质钢 靴子基底
 conarm:boots_core:0, 泰拉钢 靴子基底
-conarm:boots_core:0, 史莱姆靴子基底
 conarm:boots_core:0, 绿宝石 靴子基底
+conarm:boots_core:0, 史莱姆靴子基底
 conarm:helmet, 头盔
 conarm:chestplate, 胸甲
 conarm:leggings, 护腿
@@ -14153,8 +14797,15 @@ conarm:polishing_kit:0, 活木 抛光工具
 conarm:polishing_kit:0, 魔力钢 抛光工具
 conarm:polishing_kit:0, 源质钢 抛光工具
 conarm:polishing_kit:0, 泰拉钢 抛光工具
-conarm:polishing_kit:0, 史莱姆抛光工具
 conarm:polishing_kit:0, 绿宝石 抛光工具
+conarm:polishing_kit:0, 史莱姆抛光工具
+conarm:armorforge:0, 盔甲装配台
+conarm:armorforge:0, 盔甲装配台
+conarm:armorforge:0, 盔甲装配台
+conarm:armorforge:0, 盔甲装配台
+conarm:armorforge:0, 盔甲装配台
+conarm:armorforge:0, 盔甲装配台
+conarm:armorforge:0, 盔甲装配台
 conarm:armorforge:0, 盔甲装配台
 conarm:armorforge:0, 盔甲装配台
 conarm:armorforge:0, 盔甲装配台
@@ -14202,169 +14853,6 @@ conarm:armorforge:0, 盔甲装配台
 conarm:armorforge:0, 盔甲装配台
 conarm:armorforge:0, 盔甲装配台
 conarm:armorstation:0, 盔甲组装台
-botania:livingwood0stairs, tile.livingwood0Stairs.name
-botania:livingwood0slab:0, 活木台阶
-botania:livingwood0wall, tile.livingwood0Wall.name
-botania:livingwood1stairs, tile.livingwood1Stairs.name
-botania:livingwood1slab:0, 活木台阶
-botania:livingrock0stairs, tile.livingrock0Stairs.name
-botania:livingrock0slab:0, 活石台阶
-botania:livingrock0wall, tile.livingrock0Wall.name
-botania:livingrock1stairs, tile.livingrock1Stairs.name
-botania:livingrock1slab:0, 活石砖台阶
-botania:dreamwood0stairs, tile.dreamwood0Stairs.name
-botania:dreamwood0slab:0, 梦之木台阶
-botania:dreamwood0wall, tile.dreamwood0Wall.name
-botania:dreamwood1stairs, tile.dreamwood1Stairs.name
-botania:dreamwood1slab:0, 梦之木台阶
-botania:quartztypedark:0, 烟熏石英块
-botania:quartztypedark:1, 錾制烟熏石英块
-botania:quartztypedark:2, 竖纹烟熏石英块
-botania:quartzslabdarkhalf:0, 烟熏石英台阶
-botania:quartzstairsdark, tile.quartzStairsDark.name
-botania:quartztypemana:0, 魔力石英块
-botania:quartztypemana:1, 錾制魔力石英块
-botania:quartztypemana:2, 竖纹魔力石英块
-botania:quartzslabmanahalf:0, 魔力石英台阶
-botania:quartzstairsmana, tile.quartzStairsMana.name
-botania:quartztypeblaze:0, 烈焰石英块
-botania:quartztypeblaze:1, 錾制烈焰石英块
-botania:quartztypeblaze:2, 竖纹烈焰石英块
-botania:quartzslabblazehalf:0, 烈焰石英台阶
-botania:quartzstairsblaze, tile.quartzStairsBlaze.name
-botania:quartztypelavender:0, 熏香石英块
-botania:quartztypelavender:1, 錾制熏香石英块
-botania:quartztypelavender:2, 竖纹熏香石英块
-botania:quartzslablavenderhalf:0, 熏香石英台阶
-botania:quartzstairslavender, tile.quartzStairsLavender.name
-botania:quartztypered:0, 红色石英块
-botania:quartztypered:1, 錾制红色石英块
-botania:quartztypered:2, 竖纹红色石英块
-botania:quartzslabredhalf:0, 红色石英台阶
-botania:quartzstairsred, tile.quartzStairsRed.name
-botania:quartztypeelf:0, 精灵石英块
-botania:quartztypeelf:1, 錾制精灵石英块
-botania:quartztypeelf:2, 竖纹精灵石英块
-botania:quartzslabelfhalf:0, 精灵石英台阶
-botania:quartzstairself, tile.quartzStairsElf.name
-botania:quartztypesunny:0, 金黄石英块
-botania:quartztypesunny:1, 錾制金黄石英块
-botania:quartztypesunny:2, 竖纹金黄石英块
-botania:quartzslabsunnyhalf:0, 金黄石英台阶
-botania:quartzstairssunny, tile.quartzStairsSunny.name
-botania:biomestonea:0, 变质森林石头
-botania:biomestonea:1, 变质平原石头
-botania:biomestonea:2, 变质高山石头
-botania:biomestonea:3, 变质菌丝石头
-botania:biomestonea:4, 变质沼泽石头
-botania:biomestonea:5, 变质沙漠石头
-botania:biomestonea:6, 变质雪原石头
-botania:biomestonea:7, 变质高原石头
-botania:biomestonea:8, 变质森林圆石
-botania:biomestonea:9, 变质平原圆石
-botania:biomestonea:10, 变质高山圆石
-botania:biomestonea:11, 变质菌丝圆石
-botania:biomestonea:12, 变质沼泽圆石
-botania:biomestonea:13, 变质沙漠圆石
-botania:biomestonea:14, 变质雪原圆石
-botania:biomestonea:15, 变质高原圆石
-botania:biomestoneb:0, 变质森林石砖
-botania:biomestoneb:1, 变质平原石砖
-botania:biomestoneb:2, 变质高山石砖
-botania:biomestoneb:3, 变质菌丝石砖
-botania:biomestoneb:4, 变质沼泽石砖
-botania:biomestoneb:5, 变质沙漠石砖
-botania:biomestoneb:6, 变质雪原石砖
-botania:biomestoneb:7, 变质高原石砖
-botania:biomestoneb:8, 錾制变质森林石砖
-botania:biomestoneb:9, 錾制变质平原石砖
-botania:biomestoneb:10, 錾制变质高山石砖
-botania:biomestoneb:11, 錾制变质菌丝石砖
-botania:biomestoneb:12, 錾制变质沼泽石砖
-botania:biomestoneb:13, 錾制变质沙漠石砖
-botania:biomestoneb:14, 錾制变质雪原石砖
-botania:biomestoneb:15, 錾制变质高原石砖
-botania:pavement:0, 白色葡萄牙路面
-botania:pavement:1, 黑色葡萄牙路面
-botania:pavement:2, 蓝色葡萄牙路面
-botania:pavement:3, 红色葡萄牙路面
-botania:pavement:4, 黄色葡萄牙路面
-botania:pavement:5, 绿色葡萄牙路面
-botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
-botania:biomestonea0slab:0, 变质森林石头台阶
-botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
-botania:biomestonea1slab:0, 变质平原石头台阶
-botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
-botania:biomestonea2slab:0, 变质高山石头台阶
-botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
-botania:biomestonea3slab:0, 变质菌丝石头台阶
-botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
-botania:biomestonea4slab:0, 变质沼泽石头台阶
-botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
-botania:biomestonea5slab:0, 变质沙漠石头台阶
-botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
-botania:biomestonea6slab:0, 变质雪原石头台阶
-botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
-botania:biomestonea7slab:0, 变质高原石头台阶
-botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
-botania:biomestonea8slab:0, 变质森林圆石台阶
-botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
-botania:biomestonea9slab:0, 变质平原圆石台阶
-botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
-botania:biomestonea10slab:0, 变质高山圆石台阶
-botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
-botania:biomestonea11slab:0, 变质菌丝圆石台阶
-botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
-botania:biomestonea12slab:0, 变质沼泽圆石台阶
-botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
-botania:biomestonea13slab:0, 变质沙漠圆石台阶
-botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
-botania:biomestonea14slab:0, 变质雪原圆石台阶
-botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
-botania:biomestonea15slab:0, 变质高原圆石台阶
-botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
-botania:biomestoneb0slab:0, 变质森林石砖台阶
-botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
-botania:biomestoneb1slab:0, 变质平原石砖台阶
-botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
-botania:biomestoneb2slab:0, 变质高山石砖台阶
-botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
-botania:biomestoneb3slab:0, 变质菌丝石砖台阶
-botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
-botania:biomestoneb4slab:0, 变质沼泽石砖台阶
-botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
-botania:biomestoneb5slab:0, 变质沙漠石砖台阶
-botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
-botania:biomestoneb6slab:0, 变质雪原石砖台阶
-botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
-botania:biomestoneb7slab:0, 变质高原石砖台阶
-botania:biomestonea0wall:0, 变质森林石墙
-botania:biomestonea0wall:1, 变质平原石墙
-botania:biomestonea0wall:2, 变质高山石墙
-botania:biomestonea0wall:3, 变质菌丝石墙
-botania:biomestonea0wall:4, 变质沼泽石墙
-botania:biomestonea0wall:5, 变质沙漠石墙
-botania:biomestonea0wall:6, 变质雪原石墙
-botania:biomestonea0wall:7, 变质高原石墙
-botania:pavement0stairs, tile.pavement0Stairs.name
-botania:pavement0slab:0, 白色葡萄牙台阶
-botania:pavement1stairs, tile.pavement1Stairs.name
-botania:pavement1slab:0, 黑色葡萄牙台阶
-botania:pavement2stairs, tile.pavement2Stairs.name
-botania:pavement2slab:0, 蓝色葡萄牙台阶
-botania:pavement3stairs, tile.pavement3Stairs.name
-botania:pavement3slab:0, 红色葡萄牙台阶
-botania:pavement4stairs, tile.pavement4Stairs.name
-botania:pavement4slab:0, 黄色葡萄牙台阶
-botania:pavement5stairs, tile.pavement5Stairs.name
-botania:pavement5slab:0, 绿色葡萄牙台阶
-botania:shimmerrock0slab:0, 微光石台阶
-botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
-botania:shimmerwoodplanks0slab:0, 微光木板台阶
-botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
-botania:managlasspane, tile.manaGlassPane.name
-botania:elfglasspane, tile.elfGlassPane.name
-botania:bifrostpermpane, tile.bifrostPermPane.name
 botania:lexicon, item.lexicon.name
 botania:petal:0, 白色神秘花瓣
 botania:petal:1, 橙色神秘花瓣
@@ -15027,20 +15515,169 @@ botania:altgrass:3, 焦草草地
 botania:altgrass:4, 注魔草地
 botania:altgrass:5, 异变草地
 botania:animatedtorch, tile.animatedTorch.name
-extrabotany:pedestal, 基座
-extrabotany:blockorichalcos, tile.blockorichalcos.name
-extrabotany:manabarrel, tile.manabarrel.name
-extrabotany:cocoondesire, tile.cocoondesire.name
-extrabotany:managenerator, tile.managenerator.name
-extrabotany:manaliquefaction, tile.manaliquefaction.name
-extrabotany:fluidedmana, 液态魔力
-extrabotany:elfjar, tile.elfjar.name
-extrabotany:trophy, tile.trophy.name
-extrabotany:quantummanabuffer, tile.quantummanabuffer.name
-extrabotany:dimensioncatalyst, tile.dimensioncatalyst.name
-extrabotany:blockshadowium, tile.blockshadowium.name
-extrabotany:blockphotonium, tile.blockphotonium.name
-extrabotany:chargepad, tile.chargepad.name
+botania:livingwood0stairs, tile.livingwood0Stairs.name
+botania:livingwood0slab:0, 活木台阶
+botania:livingwood0wall, tile.livingwood0Wall.name
+botania:livingwood1stairs, tile.livingwood1Stairs.name
+botania:livingwood1slab:0, 活木台阶
+botania:livingrock0stairs, tile.livingrock0Stairs.name
+botania:livingrock0slab:0, 活石台阶
+botania:livingrock0wall, tile.livingrock0Wall.name
+botania:livingrock1stairs, tile.livingrock1Stairs.name
+botania:livingrock1slab:0, 活石砖台阶
+botania:dreamwood0stairs, tile.dreamwood0Stairs.name
+botania:dreamwood0slab:0, 梦之木台阶
+botania:dreamwood0wall, tile.dreamwood0Wall.name
+botania:dreamwood1stairs, tile.dreamwood1Stairs.name
+botania:dreamwood1slab:0, 梦之木台阶
+botania:quartztypedark:0, 烟熏石英块
+botania:quartztypedark:1, 錾制烟熏石英块
+botania:quartztypedark:2, 竖纹烟熏石英块
+botania:quartzslabdarkhalf:0, 烟熏石英台阶
+botania:quartzstairsdark, tile.quartzStairsDark.name
+botania:quartztypemana:0, 魔力石英块
+botania:quartztypemana:1, 錾制魔力石英块
+botania:quartztypemana:2, 竖纹魔力石英块
+botania:quartzslabmanahalf:0, 魔力石英台阶
+botania:quartzstairsmana, tile.quartzStairsMana.name
+botania:quartztypeblaze:0, 烈焰石英块
+botania:quartztypeblaze:1, 錾制烈焰石英块
+botania:quartztypeblaze:2, 竖纹烈焰石英块
+botania:quartzslabblazehalf:0, 烈焰石英台阶
+botania:quartzstairsblaze, tile.quartzStairsBlaze.name
+botania:quartztypelavender:0, 熏香石英块
+botania:quartztypelavender:1, 錾制熏香石英块
+botania:quartztypelavender:2, 竖纹熏香石英块
+botania:quartzslablavenderhalf:0, 熏香石英台阶
+botania:quartzstairslavender, tile.quartzStairsLavender.name
+botania:quartztypered:0, 红色石英块
+botania:quartztypered:1, 錾制红色石英块
+botania:quartztypered:2, 竖纹红色石英块
+botania:quartzslabredhalf:0, 红色石英台阶
+botania:quartzstairsred, tile.quartzStairsRed.name
+botania:quartztypeelf:0, 精灵石英块
+botania:quartztypeelf:1, 錾制精灵石英块
+botania:quartztypeelf:2, 竖纹精灵石英块
+botania:quartzslabelfhalf:0, 精灵石英台阶
+botania:quartzstairself, tile.quartzStairsElf.name
+botania:quartztypesunny:0, 金黄石英块
+botania:quartztypesunny:1, 錾制金黄石英块
+botania:quartztypesunny:2, 竖纹金黄石英块
+botania:quartzslabsunnyhalf:0, 金黄石英台阶
+botania:quartzstairssunny, tile.quartzStairsSunny.name
+botania:biomestonea:0, 变质森林石头
+botania:biomestonea:1, 变质平原石头
+botania:biomestonea:2, 变质高山石头
+botania:biomestonea:3, 变质菌丝石头
+botania:biomestonea:4, 变质沼泽石头
+botania:biomestonea:5, 变质沙漠石头
+botania:biomestonea:6, 变质雪原石头
+botania:biomestonea:7, 变质高原石头
+botania:biomestonea:8, 变质森林圆石
+botania:biomestonea:9, 变质平原圆石
+botania:biomestonea:10, 变质高山圆石
+botania:biomestonea:11, 变质菌丝圆石
+botania:biomestonea:12, 变质沼泽圆石
+botania:biomestonea:13, 变质沙漠圆石
+botania:biomestonea:14, 变质雪原圆石
+botania:biomestonea:15, 变质高原圆石
+botania:biomestoneb:0, 变质森林石砖
+botania:biomestoneb:1, 变质平原石砖
+botania:biomestoneb:2, 变质高山石砖
+botania:biomestoneb:3, 变质菌丝石砖
+botania:biomestoneb:4, 变质沼泽石砖
+botania:biomestoneb:5, 变质沙漠石砖
+botania:biomestoneb:6, 变质雪原石砖
+botania:biomestoneb:7, 变质高原石砖
+botania:biomestoneb:8, 錾制变质森林石砖
+botania:biomestoneb:9, 錾制变质平原石砖
+botania:biomestoneb:10, 錾制变质高山石砖
+botania:biomestoneb:11, 錾制变质菌丝石砖
+botania:biomestoneb:12, 錾制变质沼泽石砖
+botania:biomestoneb:13, 錾制变质沙漠石砖
+botania:biomestoneb:14, 錾制变质雪原石砖
+botania:biomestoneb:15, 錾制变质高原石砖
+botania:pavement:0, 白色葡萄牙路面
+botania:pavement:1, 黑色葡萄牙路面
+botania:pavement:2, 蓝色葡萄牙路面
+botania:pavement:3, 红色葡萄牙路面
+botania:pavement:4, 黄色葡萄牙路面
+botania:pavement:5, 绿色葡萄牙路面
+botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
+botania:biomestonea0slab:0, 变质森林石头台阶
+botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
+botania:biomestonea1slab:0, 变质平原石头台阶
+botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
+botania:biomestonea2slab:0, 变质高山石头台阶
+botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
+botania:biomestonea3slab:0, 变质菌丝石头台阶
+botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
+botania:biomestonea4slab:0, 变质沼泽石头台阶
+botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
+botania:biomestonea5slab:0, 变质沙漠石头台阶
+botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
+botania:biomestonea6slab:0, 变质雪原石头台阶
+botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
+botania:biomestonea7slab:0, 变质高原石头台阶
+botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
+botania:biomestonea8slab:0, 变质森林圆石台阶
+botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
+botania:biomestonea9slab:0, 变质平原圆石台阶
+botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
+botania:biomestonea10slab:0, 变质高山圆石台阶
+botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
+botania:biomestonea11slab:0, 变质菌丝圆石台阶
+botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
+botania:biomestonea12slab:0, 变质沼泽圆石台阶
+botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
+botania:biomestonea13slab:0, 变质沙漠圆石台阶
+botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
+botania:biomestonea14slab:0, 变质雪原圆石台阶
+botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
+botania:biomestonea15slab:0, 变质高原圆石台阶
+botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
+botania:biomestoneb0slab:0, 变质森林石砖台阶
+botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
+botania:biomestoneb1slab:0, 变质平原石砖台阶
+botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
+botania:biomestoneb2slab:0, 变质高山石砖台阶
+botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
+botania:biomestoneb3slab:0, 变质菌丝石砖台阶
+botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
+botania:biomestoneb4slab:0, 变质沼泽石砖台阶
+botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
+botania:biomestoneb5slab:0, 变质沙漠石砖台阶
+botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
+botania:biomestoneb6slab:0, 变质雪原石砖台阶
+botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
+botania:biomestoneb7slab:0, 变质高原石砖台阶
+botania:biomestonea0wall:0, 变质森林石墙
+botania:biomestonea0wall:1, 变质平原石墙
+botania:biomestonea0wall:2, 变质高山石墙
+botania:biomestonea0wall:3, 变质菌丝石墙
+botania:biomestonea0wall:4, 变质沼泽石墙
+botania:biomestonea0wall:5, 变质沙漠石墙
+botania:biomestonea0wall:6, 变质雪原石墙
+botania:biomestonea0wall:7, 变质高原石墙
+botania:pavement0stairs, tile.pavement0Stairs.name
+botania:pavement0slab:0, 白色葡萄牙台阶
+botania:pavement1stairs, tile.pavement1Stairs.name
+botania:pavement1slab:0, 黑色葡萄牙台阶
+botania:pavement2stairs, tile.pavement2Stairs.name
+botania:pavement2slab:0, 蓝色葡萄牙台阶
+botania:pavement3stairs, tile.pavement3Stairs.name
+botania:pavement3slab:0, 红色葡萄牙台阶
+botania:pavement4stairs, tile.pavement4Stairs.name
+botania:pavement4slab:0, 黄色葡萄牙台阶
+botania:pavement5stairs, tile.pavement5Stairs.name
+botania:pavement5slab:0, 绿色葡萄牙台阶
+botania:shimmerrock0slab:0, 微光石台阶
+botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
+botania:shimmerwoodplanks0slab:0, 微光木板台阶
+botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
+botania:managlasspane, tile.manaGlassPane.name
+botania:elfglasspane, tile.elfGlassPane.name
+botania:bifrostpermpane, tile.bifrostPermPane.name
 extrabotany:manareader, item.manareader.name
 extrabotany:spiritfuel, item.spiritfuel.name
 extrabotany:nightmarefuel, item.nightmarefuel.name
@@ -15160,6 +15797,20 @@ extrabotany:magicfinger, item.magicfinger.name
 extrabotany:silenteternity, item.silenteternity.name
 extrabotany:specialbag, item.specialbag.name
 extrabotany:firstfractal, item.firstfractal.name
+extrabotany:pedestal, 基座
+extrabotany:blockorichalcos, tile.blockorichalcos.name
+extrabotany:manabarrel, tile.manabarrel.name
+extrabotany:cocoondesire, tile.cocoondesire.name
+extrabotany:managenerator, tile.managenerator.name
+extrabotany:manaliquefaction, tile.manaliquefaction.name
+extrabotany:fluidedmana, 液态魔力
+extrabotany:elfjar, tile.elfjar.name
+extrabotany:trophy, tile.trophy.name
+extrabotany:quantummanabuffer, tile.quantummanabuffer.name
+extrabotany:dimensioncatalyst, tile.dimensioncatalyst.name
+extrabotany:blockshadowium, tile.blockshadowium.name
+extrabotany:blockphotonium, tile.blockphotonium.name
+extrabotany:chargepad, tile.chargepad.name
 psi:material:0, Psi粉
 psi:material:1, Psi金属锭
 psi:material:2, Psi宝石
@@ -15587,6 +16238,27 @@ claybucket:unfiredclaybucket, 未烧制的粘土桶
 claybucket:claybucket:0, 粘土桶
 claybucket:claybucket:1, 粘土水桶
 claybucket:claybucket:2, 粘土熔岩桶
+storagedrawers:upgrade_template, 升级模板
+storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
+storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
+storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
+storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
+storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
+storagedrawers:upgrade_one_stack, 存储降级
+storagedrawers:upgrade_status:0, 状态显示升级（I）
+storagedrawers:upgrade_status:1, 状态显示升级（II）
+storagedrawers:upgrade_void, 销毁升级
+storagedrawers:upgrade_conversion, 转换升级
+storagedrawers:upgrade_creative:0, 创造模式容量升级
+storagedrawers:upgrade_creative:1, 创造模式取出升级
+storagedrawers:upgrade_redstone:0, 红石升级
+storagedrawers:upgrade_redstone:1, 红石升级（最大）
+storagedrawers:upgrade_redstone:2, 红石升级（最小）
+storagedrawers:drawer_key, 抽屉钥匙
+storagedrawers:shroud_key, 屏蔽钥匙
+storagedrawers:personal_key, 私人钥匙
+storagedrawers:quantify_key, 量化钥匙
+storagedrawers:tape, 打包带
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
@@ -15637,27 +16309,6 @@ storagedrawers:customdrawers:2, 2x2 镶框抽屉
 storagedrawers:customdrawers:3, 1x2 小型镶框抽屉
 storagedrawers:customdrawers:4, 2x2 小型镶框抽屉
 storagedrawers:customtrim, 镶框桥接方块
-storagedrawers:upgrade_template, 升级模板
-storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
-storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
-storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
-storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
-storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
-storagedrawers:upgrade_one_stack, 存储降级
-storagedrawers:upgrade_status:0, 状态显示升级（I）
-storagedrawers:upgrade_status:1, 状态显示升级（II）
-storagedrawers:upgrade_void, 销毁升级
-storagedrawers:upgrade_conversion, 转换升级
-storagedrawers:upgrade_creative:0, 创造模式容量升级
-storagedrawers:upgrade_creative:1, 创造模式取出升级
-storagedrawers:upgrade_redstone:0, 红石升级
-storagedrawers:upgrade_redstone:1, 红石升级（最大）
-storagedrawers:upgrade_redstone:2, 红石升级（最小）
-storagedrawers:drawer_key, 抽屉钥匙
-storagedrawers:shroud_key, 屏蔽钥匙
-storagedrawers:personal_key, 私人钥匙
-storagedrawers:quantify_key, 量化钥匙
-storagedrawers:tape, 打包带
 compactdrawers:compact_drawer_2by1, 1x2 压缩抽屉
 compactdrawers:compact_drawer_2by1_half, 1x2 小型压缩抽屉
 compactdrawers:compact_drawer_half, 小型压缩抽屉
@@ -16842,8 +17493,8 @@ plustic:pipe_piece:0, 活木 枪管
 plustic:pipe_piece:0, 魔力钢 枪管
 plustic:pipe_piece:0, 源质钢 枪管
 plustic:pipe_piece:0, 泰拉钢 枪管
-plustic:pipe_piece:0, 史莱姆枪管
 plustic:pipe_piece:0, 绿宝石 枪管
+plustic:pipe_piece:0, 史莱姆枪管
 plustic:laser_medium:0, 圆石 激光传导器
 plustic:laser_medium:0, 海晶石 激光传导器
 plustic:laser_medium:0, 烈焰棒 激光传导器
@@ -16887,12 +17538,12 @@ tinker_io:smart_output, 智能输出端
 tinker_io:what_a_beautiful_block, 好漂亮的方块
 tinker_io:ore_crusher, 矿物粉碎机
 tinker_io:stirling_engine, 斯特林引擎
+torchmaster:frozen_pearl, 寒冻珍珠
 torchmaster:mega_torch:0, 巨型火把
 torchmaster:mega_torch:1, 熄灭的巨型火把
 torchmaster:terrain_lighter, 区域火把放置器
 torchmaster:dread_lamp, 恐惧之灯
 torchmaster:feral_flare_lantern, 狂野闪耀之灯
-torchmaster:frozen_pearl, 寒冻珍珠
 totemic:cedar_log, 红柏原木
 totemic:stripped_cedar_log, 去皮红柏原木
 totemic:cedar_plank, 红柏木板
